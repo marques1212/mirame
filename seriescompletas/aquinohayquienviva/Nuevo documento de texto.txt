@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<items>
+<playlist_name><![CDATA[Aqui no Hay quien viva T1]]></playlist_name>
+
+
+
+
+
+
+
+
+<next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
+<prev_page_url text="CH- ATRAS"><[CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/aquinohayquienviva.xml]]></prev_page_url>
+ 
+</items>
