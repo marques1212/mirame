@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<items>
+<playlist_name><![CDATA[Ellas]]></playlist_name>
+  
+    <channel> 
+<title><![CDATA[Ellas - Bomberas
+26 jun 2017
+Hoy Blanca Portillo junto con]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://img.rtve.es/imagenes/ellas-bomberas/1498522183700.JPG" />]]>Hoy Blanca Portillo junto con el cantante David de María, homenajearán a Eva Araujo, la primera bombera de Andalucía y tercera en España.</description> 
+<stream_url><![CDATA[http://mvod.lvlt.rtve.es/resources/TE_NGVA/mp4/2/2/1498521611522.mp4]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+  
+  
+     <channel> 
+<title><![CDATA[Ellas - Guardias civiles]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://img.rtve.es/imagenes/ellas-guardias-civiles/1499128319270.JPG" />]]>Blanca Portillo y un personaje famoso son los encargados de organizar este homenaje. Viajarán juntos al lugar donde vive la protagonista de cada capítulo. Con la ayuda de un gran archivo de imágenes y de personas claves en su trayectoria, compartirán sus memorias y nos harán llegar sus vivencias, un homenaje sorpresa a una mujer anónima, pionera en la lucha por la igualdad de género, o que haya logrado un avance científico, social o educativo desconocido por la opinión pública</description> 
+<stream_url><![CDATA[http://mvod.lvlt.rtve.es/resources/TE_NGVA/mp4/5/8/1499125973985.mp4]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+
+<channel> 
+<title><![CDATA[Ellas - Mujeres al volante]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://img.rtve.es/imagenes/ellas-mujeres-volante/1499731353680.JPG" />]]>Hoy Blanca Portillo junto con el periodista Antonio Lobato y otras mujeres destacadas en el deporte automovilístico, rendirán homenaje póstumo a la piloto María de Villota.</description> 
+<stream_url><![CDATA[http://mvod.lvlt.rtve.es/resources/TE_NGVA/mp4/7/6/1499731017767.mp4]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+
+<channel> 
+<title><![CDATA[Ellas - Mineras]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://img.rtve.es/imagenes/ellas-mineras/1500338135013.JPG" />]]>Hoy Blanca Portillo junto con el actor Gonzalo de Castro, homenajearán a Concepción Rodríguez, pionera en la incorporación de la mujer a puestos de trabajo en el interior de la mina</description> 
+<stream_url><![CDATA[http://mvod.lvlt.rtve.es/resources/TE_NGVA/mp4/2/6/1500337254262.mp4]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+  
+  <channel> 
+<title><![CDATA[Ellas - Aviacion civil]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://img.rtve.es/imagenes/ellas-aviacion-civil/1500942955244.JPG" />]]>En esta ocasión, 'Ellas' descubre el sector de la aviación civil acercándose a las pioneras de la profesión. Blanca Portillo y Soraya Arnelas conocerán a Marta Pérez-Aranda, la primera comandante de líneas transoceánicas de Iberia, con la que compartirán uno de sus viajes. La homenajeada entró en la compañía en1988 y en 2014 logró este </description> 
+<stream_url><![CDATA[http://mvod.lvlt.rtve.es/resources/TE_NGVA/mp4/8/1/1500942616218.mp4]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+
+
+ 
+ 
+
+
+ <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
+<prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/programastv/menuprogramastv.xml]]></prev_page_url> 
+</items>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<items>
+ <playlist_name>motos 2018>> </playlist_name>
+ 
+
+ 
+<channel>
+<title><![CDATA[Qatar 2018 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic87/588dc12889e4cd62f7d52c7c5a03ee16.gif"/>]]>Clasificadion Carrera 1 Dovizioso  2 Marquez  3 Rossi.</description>
+<stream_url><![CDATA[http://streamcloud.eu/o6pkzdyhcuf3/M0t0GP.2018.GP.Qar.mkv.html]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+
+
+	
+	
+	
+<channel>
+<title><![CDATA[Argentina 2018 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic87/1298a7fa73b0d3945607cbeebd8a2cfa.gif"/>]]>Clasificadion Carrera 1 Cal Crutchlow 2 Johan Zarco 3 Alex Rins.</description>
+<stream_url><![CDATA[http://streamcloud.eu/3sdz4099fy5o/Gp.A4rg3nt1.mkv.html]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+	
+	
+	<channel>
+<title><![CDATA[Las Americas 2018 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic87/bbc199fe6f82fa5dd87235a2ed9fe43b.gif"/>]]>Clasificadion Carrera 1 Marc Márquez Maverick 2 viñales 3 Andrea Iannone.</description>
+<stream_url><![CDATA[https://ia601504.us.archive.org/3/items/fondo_201804/M02t0G8P.GP.88Am8e5rica.2018.mp4]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+	
+	
+	
+	
+
+
+	 <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
+<prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/deportes.xml]]></prev_page_url>
+
+</items>
+

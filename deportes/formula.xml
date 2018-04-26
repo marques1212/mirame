@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<items>
+ <playlist_name>Formula1 2018>> </playlist_name>
+ 
+
+ 
+<channel>
+<title><![CDATA[Temporada 2018 Australia]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic87/b4be37a848d71128822de1bef32ca24b.gif"/>]]>1 Sebastian Vettel 2 Lewis Hamilton 3 Kimi Raikkonen.</description>
+<stream_url><![CDATA[http://streamcloud.eu/kwitv15709mv/F0rmvl2.0n3.2018.Gp.Austr.mkv.html]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+<channel>
+<title><![CDATA[Temporada 2018 Barein ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic87/4c0fdcfa159218d89491e5267ca9f59b.gif"/>]]>1 Sebastian Vettel 2 Valtteri Bottas 3 Lewis Hamilton.</description>
+<stream_url><![CDATA[http://streamcloud.eu/qbt9dsa6mg0r/F0rmvl1.0n3.2018.B2a8r9e6in.mkv.html]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ 
+ <channel>
+<title><![CDATA[Temporada 2018 China]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic87/00a866faf9adf1c6e8b8044a19b3b6a4.gif"/>]]>1 Daniel Ricciardo 2 Valtteri Bottas 3 Kimi Raikkonen.</description>
+<stream_url><![CDATA[http://streamcloud.eu/oozq3ntzle6f/F0rmvl4.0n3.2018.Gran.Premio.De.China.Carrera.m720p.Dmsec.mkv.html]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ 
+ 
+ 
+<prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/deportes.xml]]></prev_page_url>
+
+</items>

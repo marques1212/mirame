@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<items>
+<playlist_name><![CDATA[No es un sábado cualquiera]]></playlist_name>
+  
+    <channel> 
+<title><![CDATA[1x01 Temporada 1 Capitulo 1]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://www.formulatv.com/images/fgaleria/57500/57515_no-es-un-sabado-cualquiera-programa-fernando-gil-presentador.jpg" />]]>Programa para toda la familia conducido por Fernando Gil, un profesional de amplia trayectoria en cine, teatro y televisión, con música en directo, actuaciones visuales que sorprenderán al espectador, y humor.</description> 
+<stream_url><![CDATA[http://mvod.lvlt.rtve.es/resources/TE_GLESP/mp4/6/6/1497138746066.mp4]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+  
+  <channel> 
+<title><![CDATA[1x01 Temporada 1 Capitulo 2]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://www.formulatv.com/images/fgaleria/57500/57515_no-es-un-sabado-cualquiera-programa-fernando-gil-presentador.jpg" />]]>Programa para toda la familia conducido por Fernando Gil, un profesional de amplia trayectoria en cine, teatro y televisión, con música en directo, actuaciones visuales que sorprenderán al espectador, y humor.</description> 
+<stream_url><![CDATA[http://mvod.lvlt.rtve.es/resources/TE_GLESP/mp4/2/9/1497743854892.mp4]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>  
+  
+   <channel> 
+<title><![CDATA[1x01 Temporada 1 Capitulo 3]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://www.formulatv.com/images/fgaleria/57500/57515_no-es-un-sabado-cualquiera-programa-fernando-gil-presentador.jpg" />]]>Programa para toda la familia conducido por Fernando Gil, un profesional de amplia trayectoria en cine, teatro y televisión, con música en directo, actuaciones visuales que sorprenderán al espectador, y humor.</description> 
+<stream_url><![CDATA[http://mvodt.lvlt.rtve.es/resources/TE_GLESP/mp4/5/5/1498380795555.mp4?nvb=20170709100047&nva=20170709160047&token=0d81d6b044ab76fcebf8c]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel> 
+  
+    <channel> 
+<title><![CDATA[1x01 Temporada 1 Capitulo 4]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://www.formulatv.com/images/fgaleria/57500/57515_no-es-un-sabado-cualquiera-programa-fernando-gil-presentador.jpg" />]]>Programa para toda la familia conducido por Fernando Gil, un profesional de amplia trayectoria en cine, teatro y televisión, con música en directo, actuaciones visuales que sorprenderán al espectador, y humor.</description> 
+<stream_url><![CDATA[http://mvod.lvlt.rtve.es/resources/TE_GLESP/mp4/0/4/1498955632740.mp4]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel> 
+  
+  <channel> 
+<title><![CDATA[1x01 Temporada 1 Capitulo 5]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://www.formulatv.com/images/fgaleria/57500/57515_no-es-un-sabado-cualquiera-programa-fernando-gil-presentador.jpg" />]]>Programa para toda la familia conducido por Fernando Gil, un profesional de amplia trayectoria en cine, teatro y televisión, con música en directo, actuaciones visuales que sorprenderán al espectador, y humor.</description> 
+<stream_url><![CDATA[http://mvod.lvlt.rtve.es/resources/TE_GLESP/mp4/6/7/1499584740976.mp4]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel> 
+  
+    <channel> 
+<title><![CDATA[1x01 Temporada 1 Capitulo 6]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://www.formulatv.com/images/fgaleria/57500/57515_no-es-un-sabado-cualquiera-programa-fernando-gil-presentador.jpg" />]]>Programa para toda la familia conducido por Fernando Gil, un profesional de amplia trayectoria en cine, teatro y televisión, con música en directo, actuaciones visuales que sorprenderán al espectador, y humor.</description> 
+<stream_url><![CDATA[http://mvod.lvlt.rtve.es/resources/TE_GLESP/mp4/7/9/1500170367497.mp4]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+
+
+ 
+ 
+
+
+ <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
+<prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/programastv/menuprogramastv.xml]]></prev_page_url> 
+</items>

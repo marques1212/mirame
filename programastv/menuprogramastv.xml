@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<items>
+<playlist_name><![CDATA[PROGRAMAS TV]]></playlist_name>
+  
+  <channel>       
+<title><![CDATA[La voz T5]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/la-voz-espana_f3kwbmx7x3h2016-09-22.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/programastv/La%20voz%20T5.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>  
+
+ <channel>       
+<title><![CDATA[La voz kid T4]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/la-voz-kids-espana_2krmd4y6nor2018-02-19.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/programastv/lavozkid.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>   
+  
+ 
+ <channel>       
+<title><![CDATA[Me cambio de decada]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/me-cambio-de-decada_9hzdmn9mfxo2017-09-11.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/programastv/Me%20cambio%20de%20decada.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel> 
+ 
+<channel>       
+<title><![CDATA[Mi casa es la tuya T4]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/mi-casa-es-la-tuya_72s36wnfect2017-09-05.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/programastv/micasa.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+
+  <channel>       
+<title><![CDATA[Gipsy Kings T4]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/mi-casa-es-la-tuya_72s36wnfect2017-09-05.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/programastv/kings.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+  
+  
+<channel>       
+<title><![CDATA[Jose mota presenta T3]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/jose-mota-presenta_2q922gb05lu2018-04-06.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/programastv/josemota.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+  
+<channel>       
+<title><![CDATA[¿Que comen nuestros hijos?]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_9399b49afa81d7a2534e40e11a07cd13.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/programastv/comenhijos.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+  
+  
+   <channel>       
+<title><![CDATA[Espanoles Por El Mundo]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://img.rtve.es/p/30610/?w=160&h=90&imgProgApi=logo">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/programastv/Espanoles%20Por%20El%20Mundo.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+  
+    <channel>       
+<title><![CDATA[Viaje al centro de la tele]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://img.rtve.es/p/66590/?w=160&h=90&imgProgApi=logo">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/programastv/Viaje%20al%20centro%20de%20la%20tele.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+  
+  <channel>       
+<title><![CDATA[Ellas]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://www.rtve.es/alacarta/videos/ellas/">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/programastv/Ellas.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+  
+   <channel>       
+<title><![CDATA[Pura magia]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://img.rtve.es/p/109370/?w=160&h=90&imgProgApi=logo">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/programastv/Pura%20magia.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+  
+   <channel>       
+<title><![CDATA[Asturias Al Limite]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://e01-elmundo.uecdn.es/television/programacion-tv/img/programas/7c/1379964.png">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/programastv/asturias%20al%20limite.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+  
+  <channel>       
+<title><![CDATA[No es un sabado cualquiera]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://www.formulatv.com/images/fgaleria/57500/57515_no-es-un-sabado-cualquiera-programa-fernando-gil-presentador.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/programastv/No%20es%20un%20s%C3%A1bado%20cualquiera.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+  
+<channel>       
+<title><![CDATA[Pesadilla en la cocina T1 a T4]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/pesadilla-en-la-cocina_fo8ghto1n9k2016-09-22.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/programastv/pesadillacocina.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>  
+  
+  
+   <channel>       
+<title><![CDATA[Fantastic Duo T1]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_e8e68cbcd13c007c639398bbed27c7ca.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/programastv/Fantastic%20Duo%20T1.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>  
+
+  
+  
+   <channel>       
+<title><![CDATA[Planeta Calleja T4-T5]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/planeta-calleja_ca0nyo542w02018-02-25.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/programastv/planetacalleja.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel> 
+  
+
+   <channel>       
+<title><![CDATA[Heroes mas alla del deber T1]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_a2b551f97d2656de56930da3d4c64876.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/programastv/heroes.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>   
+  
+ <channel>       
+<title><![CDATA[MasterChef España T5]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_09ef0416933e9a01c0673528d8e2f220.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/programastv/MasterChef%20Espa%C3%B1a%20T5.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>   
+   
+  
+  <channel>       
+<title><![CDATA[equipo de investigacion]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://fotografias.lasexta.com/clipping/cmsimages01/2017/09/08/FA7924BD-EA38-4370-B359-E97F6F79C5C5/57.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/programastv/equipodeinvestigacion.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>   
+  
+  
+  
+  
+  
+
+<next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
+<prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/HMStream.xml]]></prev_page_url>
+
+</items>
+
