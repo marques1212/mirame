@@ -60,7 +60,13 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
- 
+ <channel>
+<title><![CDATA[ 1x08]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/farina_cxmm3m78k642018-02-28.jpg"/>]]></description>
+<stream_url><![CDATA[https://archive.org/download/Watch101M720pMkv/Watch1x08M720pMkv.mp4]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
  
  
  
