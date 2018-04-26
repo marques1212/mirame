@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<channels>
+<playlist_name><![CDATA[Aladina]]></playlist_name>
+ 
+<channel>
+                        <title><![CDATA[1x01]]>]]></title>
+                        
+                        <description><![CDATA[<img src="https://pbs.twimg.com/profile_images/692685205723844609/3Ja6vGnZ.jpg" />]]></description>
+                       <stream_url><![CDATA[http://streamcloud.eu/hmnv1mxyu6qf/BuscNrte.s01e01.WEB.DL.mp4.html]]></stream_url>
+                           </channel>
+ 
+
+
+<channel>
+                        <title><![CDATA[1x02]]></title>
+                        
+                        <description><![CDATA[<img src="https://pbs.twimg.com/profile_images/692685205723844609/3Ja6vGnZ.jpg" />]]></description>
+                       <stream_url><![CDATA[http://streamcloud.eu/242baxzd2tfs/BuscNrte.s01e02.m720p.WEB.Rip.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[1x03]]></title>
+                        
+                        <description><![CDATA[<img src="https://pbs.twimg.com/profile_images/692685205723844609/3Ja6vGnZ.jpg" />]]></description>
+                       <stream_url><![CDATA[http://streamcloud.eu/gxaa4fj5pfl0/BuscNrte.s01e03.HDrip.YK.avi.html]]></stream_url>
+                           </channel>
+ 
+
+
+<channel>
+                        <title><![CDATA[1x04]]></title>
+                        
+                        <description><![CDATA[<img src="https://pbs.twimg.com/profile_images/692685205723844609/3Ja6vGnZ.jpg" />]]></description>
+                       <stream_url><![CDATA[http://streamcloud.eu/hhf5pbszxe93/BscN0rt.s01e04.m720p.WEB.RIP.YK.mkv.html]]></stream_url>
+                           </channel>
+
+
+
+<channel>
+                        <title><![CDATA[1x05]]></title>
+                        
+                        <description><![CDATA[<img src="https://pbs.twimg.com/profile_images/692685205723844609/3Ja6vGnZ.jpg" />]]></description>
+                       <stream_url><![CDATA[http://streamcloud.eu/ok3xa3sfrkj4/8VSC4ND0.N0RT3.1x5.avi.html]]></stream_url>
+                           </channel>
+ 
+
+
+<channel>
+                        <title><![CDATA[1x06]]></title>
+                        
+                        <description><![CDATA[<img src="https://pbs.twimg.com/profile_images/692685205723844609/3Ja6vGnZ.jpg" />]]></description>
+                       <stream_url><![CDATA[http://streamcloud.eu/m86pa6isf49i/BscN0rte.s01e06.HDrip.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[1x07]]></title>
+                        
+                        <description><![CDATA[<img src="https://pbs.twimg.com/profile_images/692685205723844609/3Ja6vGnZ.jpg" />]]></description>
+                       <stream_url><![CDATA[http://streamcloud.eu/3wc3vyojzmko/Bvsc4nd0.N0rt3.1x07.avi.html]]></stream_url>
+                           </channel>
+ 
+
+
+<channel>
+                        <title><![CDATA[1x08]]></title>
+                        
+                        <description><![CDATA[<img src="https://pbs.twimg.com/profile_images/692685205723844609/3Ja6vGnZ.jpg" />]]></description>
+                       <stream_url><![CDATA[http://streamcloud.eu/z9cgs0kb9704/BscN0rte.s01e08.m720p.WEBRip.YK.mkv.html]]></stream_url>
+ </channel>
+ 
+ <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
+<prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas.xml]]></prev_page_url>
+    </items>

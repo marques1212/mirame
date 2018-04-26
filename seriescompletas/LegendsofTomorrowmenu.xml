@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<items>
+<playlist_name><![CDATA[Legends of Tomorrow]]></playlist_name>
+  
+<channel>      
+<title><![CDATA[Legends of Tomorrow Temporada 1 ]]></title> 
+<logo_30x30></logo_30x30> 
+<description><![CDATA[<img src="http://nerdreactor.com/wp-content/uploads/2015/05/legendsoftomorrow-500x500_c.jpg?15016e"/>]]></description> 
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/LegendsofTomorrow.xml]]></playlist_url>  
+</channel>
+ 
+<channel>      
+<title><![CDATA[Legends of Tomorrow Temporada 2 ]]></title> 
+<logo_30x30></logo_30x30> 
+<description><![CDATA[<img src="http://nerdreactor.com/wp-content/uploads/2015/05/legendsoftomorrow-500x500_c.jpg?15016e"/>]]></description> 
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/LegendsofTomorrowT2.xml]]></playlist_url>  
+</channel>
+ 
+
+ 
+<next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
+<prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas.xml]]></prev_page_url>
+ 
+</items>

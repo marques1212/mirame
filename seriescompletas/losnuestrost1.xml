@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<items>
+ <playlist_name>Los Nuestros >> T1</playlist_name>
+ 
+<channel>
+<title><![CDATA[Estreno]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://media2.mitele.es/uploads/2015/03/54f4cc0a1217b-660x371.jpg" />El capitán Sánchez disfruta de una barbacoa en casa con los integrantes de su grupo de Operaciones Especiales del Ejército Español cuando recibe la inesperada orden de viajar a Mali para llevar a cabo una misión de rescate: devolver con vida a dos niños españoles secuestrados por un peligroso grupo salafista.]]></description>
+<stream_url><![CDATA[http://miteleooyala-vh.akamaihd.net/i/c3N3I2NTE6cCN36KXiesQ5vV9HweA_p-/,DOcJ-FxaFrRg4gtDEwOjRpOmc3O_GF-z,DOcJ-FxaFrRg4gtDEwOjkzOjBhOwBM4Z,DOcJ-FxaFrRg4gtDEwOmY1OjBmO3k_w5,DOcJ-FxaFrRg4gtDEwOm84OjBmO-rnta,DOcJ-FxaFrRg4gtDEwOjEwYjpnbTsTiE,.csmil/index_4_av.m3u8?null=0]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+  
+<channel>
+<title><![CDATA[Prosigue el rescate]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://media2.mitele.es/uploads/2015/03/54fdacbf66e75-660x371.jpg" />Ninguna operación relámpago de rescate a no-combatientes es fácil. Esto es algo que saben bien el capitán Alberto Sánchez y la francotiradora Isabel Santanta cuando se encuentran con un contratiempo inesperado durante el rescate de los niños: la meteorología adversa imposibilita la evacuación de los pequeños por el aire.]]></description>
+<stream_url><![CDATA[http://miteleooyala-vh.akamaihd.net/i/QwdHE2NTE6B_fIoozTZ_a04xkwoYHZiv/,DOcJ-FxaFrRg4gtDEwOjRpOmc3O_GF-z,DOcJ-FxaFrRg4gtDEwOjkzOjBhOwBM4Z,DOcJ-FxaFrRg4gtDEwOmY1OjBmO3k_w5,DOcJ-FxaFrRg4gtDEwOm84OjBmO-rnta,DOcJ-FxaFrRg4gtDEwOjEwYjpnbTsTiE,.csmil/index_4_av.m3u8?null=0]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+<channel>
+<title><![CDATA[El desenlace]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://www.rtve.es/resources/jpg/4/0/1425920939004.jpg" />Alberto, Isabel y los niños son apresados por los yihadistas y escondidos en una aldea mientras los terroristas preparan las condiciones para trasladarlos al desierto argelino. Alberto sabe que si eso ocurre ya no habrá forma de rescatarles y pasarán años como prisioneros]]></description>
+<stream_url><![CDATA[http://miteleooyala-vh.akamaihd.net/i/84NHI2NTE6PNGxvNHWASzOzjsD2Y1Rt-/,DOcJ-FxaFrRg4gtDEwOjRpOmc3O_GF-z,DOcJ-FxaFrRg4gtDEwOjkzOjBhOwBM4Z,DOcJ-FxaFrRg4gtDEwOmY1OjBmO3k_w5,DOcJ-FxaFrRg4gtDEwOm84OjBmO-rnta,DOcJ-FxaFrRg4gtDEwOjEwYjpnbTsTiE,.csmil/index_4_av.m3u8?null=0]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+<next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
+<prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas.xml]]></prev_page_url>
+ 
+</items>

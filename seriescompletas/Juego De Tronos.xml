@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<items>
+<playlist_name><![CDATA[Juego De Tronos]]></playlist_name>
+  
+<channel>      
+<title><![CDATA[Juego De Tronos Temporada 1 ]]></title> 
+<logo_30x30></logo_30x30> 
+<description><![CDATA[<img src="https://vignette1.wikia.nocookie.net/hieloyfuego/images/9/98/Juego_de_Tronos_nueva.jpg/revision/latest?cb=20130204012829"/>]]></description> 
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/JuegodeTronos1.xml]]></playlist_url>  
+</channel>
+ 
+<channel>      
+<title><![CDATA[Juego De Tronos Temporada 2 ]]></title> 
+<logo_30x30></logo_30x30> 
+<description><![CDATA[<img src="https://vignette1.wikia.nocookie.net/hieloyfuego/images/9/98/Juego_de_Tronos_nueva.jpg/revision/latest?cb=20130204012829"/>]]></description> 
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas/JuegodeTronos2.xml]]></playlist_url>  
+</channel>
+ 
+
+ 
+<next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
+<prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas.xml]]></prev_page_url>
+ 
+</items>

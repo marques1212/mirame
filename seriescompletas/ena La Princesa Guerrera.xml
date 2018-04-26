@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<items>
+<playlist_name><![CDATA[Xena La Princesa Guerrera]]></playlist_name>
+
+
+
+
+
+<channel>
+<title><![CDATA[TEMPORADA 1x01]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[http://hdfull.tv/tthumb/172x265/show_5857230c954f8d1e4c1b88d6f67730ef.jpg" />]]></description>
+<stream_url><![CDATA[xxxxxxxxxxxxxxxxxxxx]]></stream_url>
+</channel>
+
+
+
+<next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
+<prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas.xml]]></prev_page_url>
+    </items>
