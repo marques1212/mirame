@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<items>
+ <playlist_name><![CDATA[Formula1 2018]]></playlist_name>
+ 
+<channel>       
+<title><![CDATA[Temporada 2018 Formula1]]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic87/a0789876869115680d6034ea7984a824.gif">]]>GP AUSTRALIA F1 Clasificacion 2018  1 Sebastian Vettel  2 Lewis Hamilton  3 Kimi Raikkonen </description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/deportes/formula.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+ </channel>
+
+ 
+ <channel>       
+<title><![CDATA[Finales champions league]]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic87/f4467cebf67a0888bcda64e184a93491.gif">]]>Final de la Liga de Campeones de la UEFA.</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/deportes/champions.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+ </channel>
+ 
+ 
+ <channel>       
+<title><![CDATA[Temporada 2018 MotoGP]]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic87/c94b9b964842cf4aa47d5e6ccdc87c28.gif ">]]>MOTOS QATAR.</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/deportes/motos.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+ </channel>
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
+<prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/deportes.xml]]></prev_page_url>
+
+</items>

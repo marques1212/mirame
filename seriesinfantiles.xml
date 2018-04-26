@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<items>
+ <playlist_name><![CDATA[SERIES INFANTILES]]></playlist_name>
+ 
+
+ 
+ <channel>       
+<title><![CDATA[La patrulla canina]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/la-patrulla-canina_t195fe9qjch2016-08-31.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/series%20infantiles/patrullacanina.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+ </channel>
+
+ 
+ 
+ <channel>       
+<title><![CDATA[Doraemon]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/doraemon-el-gato-cosmico_t3o8gfh7ixc2017-07-15.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/series%20infantiles/doraemon.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+ </channel>
+ 
+ <channel>       
+<title><![CDATA[Bob esponja]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/bob-esponja_05e5el7oey72017-11-17.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/series%20infantiles/bobesponja.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+ </channel>
+ 
+ 
+ <channel>       
+<title><![CDATA[Hormiga atomica]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic87/fee2237b4db4f366661f9783b500d2b1.gif">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/series%20infantiles/hormiga.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+ </channel>
+ 
+ <channel>       
+<title><![CDATA[Oliver y Benji]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/oliver-y-benji-campeones_7a0eavu4x052016-03-24.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/series%20infantiles/oliverbenji.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+ </channel>
+ 
+
+ 
+ <channel>       
+<title><![CDATA[avatar]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/avatar_the_last_airbender_avatar_the_legend_of_aang_tv_series-550130222-mmed.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/series%20infantiles/Avatar.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+ </channel>
+ 
+ <channel>       
+<title><![CDATA[heidi]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/heidi-270451105-mmed.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/series%20infantiles/heidi2015.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+ </channel>
+  
+ 
+ <channel>       
+<title><![CDATA[henry danger]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/henry_danger_tv_series-237656108-mmed.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/series%20infantiles/henrydanger.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+ </channel>
+ 
+ 
+ 
+ 
+ <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
+<prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/HMStream.xml]]></prev_page_url> 
+</items>
