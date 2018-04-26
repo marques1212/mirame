@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<items>
+ <playlist_name>La travesia>> Temporada 1</playlist_name>
+ 
+
+ 
+<channel>
+<title><![CDATA[ 1x01]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/la-travesia_1x84un5muep2018-03-21.jpg"/>]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/odq3ia4392w5]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+<channel>
+<title><![CDATA[ 1x02]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/la-travesia_1x84un5muep2018-03-21.jpg"/>]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/soxui32g5wmn]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision.xml]]></prev_page_url>
+
+</items>
