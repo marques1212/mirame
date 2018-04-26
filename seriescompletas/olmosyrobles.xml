@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<items>
+ <playlist_name>Olmos y Robles>> Temporada 1</playlist_name>
+ 
+<channel>
+<title><![CDATA[Capítulo 1: La venganza de los siete infantes de Lara]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_f294159274f1b4889c3504bd8d8788d8.jpg" />]]></description>
+<stream_url><![CDATA[http://mvod.lvlt.rtve.es/resources/TE_GL13/mp4/3/4/1441742260843.mp4]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ <channel>
+<title><![CDATA[Capítulo 2: En barrica no siempre se envejece mejor]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_f294159274f1b4889c3504bd8d8788d8.jpg" />]]></description>
+<stream_url><![CDATA[http://mvod.lvlt.rtve.es/resources/TE_GL13/mp4/7/6/1442392992767.mp4]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+  <channel>
+<title><![CDATA[Capítulo 3: El misterio de la Trinidad]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_f294159274f1b4889c3504bd8d8788d8.jpg" />]]></description>
+<stream_url><![CDATA[http://mvod.lvlt.rtve.es/resources/TE_GL13/mp4/5/7/1442951899975.mp4]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+  <channel>
+<title><![CDATA[Capítulo 4: En tumba cerrada no entran moscas]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_f294159274f1b4889c3504bd8d8788d8.jpg" />]]></description>
+<stream_url><![CDATA[http://mvod.lvlt.rtve.es/resources/TE_GL13/mp4/6/8/1443539849686.mp4]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+  <channel>
+<title><![CDATA[Capítulo 5: La venganza de Emiliano Pozuelo]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_f294159274f1b4889c3504bd8d8788d8.jpg" />]]></description>
+<stream_url><![CDATA[http://mvod.lvlt.rtve.es/resources/TE_GL13/mp4/0/8/1444157678280.mp4]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+
+
+<next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
+<prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas.xml]]></prev_page_url>
+
+</items>

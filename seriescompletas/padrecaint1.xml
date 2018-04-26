@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<items>
+ <playlist_name>El padre de Caín >> T1</playlist_name>
+  
+<channel>
+<title><![CDATA[Comienza la misión de Eloy]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://s3-eu-west-1.amazonaws.com/ingest-mediaset-production.carbyne.ps.ooyala.com/g88qxz0zh9x1_elpadredecain_c1b.jpg" />Tras su llegada al cuartel de Intxaurrondo, Eloy recibe la orden de instalarse en una pensión de la capital donostiarra, desde donde llevará a cabo su labor como oficial de Información. Su principal misión es la búsqueda y localización de Gorka Echenique, un industrial vasco secuestrado por ETA.]]></description>
+<stream_url><![CDATA[http://miteleooyala-vh.akamaihd.net/i/QycnQyODE650ZvuYy2CS0T58QkH89ZCr/,DOcJ-FxaFrRg4gtDEwOjkzOjBhOwBM4Z,DOcJ-FxaFrRg4gtDEwOm84OjBrOz0bxa,DOcJ-FxaFrRg4gtDEwOjEwYjowODE7je,DOcJ-FxaFrRg4gtDEwOjFsaTowODE7WX,DOcJ-FxaFrRg4gtDEwOjI5cDowODE7AZ,DOcJ-FxaFrRg4gtDEwOjRpOmc3O_GF-z,.csmil/index_4_av.m3u8?null=0]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+<channel>
+<title><![CDATA[Los ataques van en aumento]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://s3-eu-west-1.amazonaws.com/ingest-mediaset-production.carbyne.ps.ooyala.com/32logirgr3b7_elpadredecain_c2.jpg" />Consciente de que su relación con Begoña se va intensificando, Eloy trata de alejarse de ella tras visitar a su esposa Mercedes en Madrid. A su regreso a San Sebastián, se suceden los ataques terroristas y funerales de compañeros, por lo que vuelve a buscar el apoyo de la joven propietaria de la pensión.]]></description>
+<stream_url><![CDATA[http://miteleooyala-vh.akamaihd.net/i/I5MmczODE6RobDNG0g9ttKWSLnsXg_vu/,DOcJ-FxaFrRg4gtDEwOjkzOjBhOwBM4Z,DOcJ-FxaFrRg4gtDEwOm84OjBrOz0bxa,DOcJ-FxaFrRg4gtDEwOjEwYjowODE7je,DOcJ-FxaFrRg4gtDEwOjFsaTowODE7WX,DOcJ-FxaFrRg4gtDEwOjI5cDowODE7AZ,DOcJ-FxaFrRg4gtDEwOjRpOmc3O_GF-z,.csmil/index_4_av.m3u8?null=0]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ 
+<next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
+<prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas.xml]]></prev_page_url>
+ 
+</items>

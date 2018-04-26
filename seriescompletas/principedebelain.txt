@@ -1,0 +1,1194 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<items>
+ <playlist_name>El Principe de Bel Air>> Temporada Completas</playlist_name>
+
+
+
+<channel>
+                        <title><![CDATA[1x01]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/feumsviy5lin/El.Principe.De.BelAir.esp.1x01.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[1x02]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/5sa7kqfeyltu/Principe.BelAir.1x02.Toca_la_bateria__Ashley.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[1x03]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/chvtwt4ww8qx/El.Principe.De.BelAir.esp.1x03.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[1x04]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/qy5jlwun1ifo/El.Principe.De.BelAir.esp.1x04.avi.html]]></stream_url>
+                           </channel>
+						   
+						   
+
+
+<channel>
+                        <title><![CDATA[1x05]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/lo8uu7hnpvtm/El.Principe.De.BelAir.esp.1x05.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[1x06]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/dnmpuo3x9j9x/Principe.BelAir.1x06.Identidad_erronea.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[1x07]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/9nx0yteu620s/El.Principe.De.BelAir.esp.1x07.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[1x08]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/2phs677ne95j/El.Principe.De.BelAir.esp.1x08.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[1x09]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/710onfupblvg/Principe.BelAir.1x09.Algun_dia_tu_principe_estara_en_efecto_2___parte.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[1x10]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/w50uarx1ngz6/El.Principe.De.BelAir.esp.1x10.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[1x11]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/c26zhxqntv6r/El.Principe.De.BelAir.esp.1x11.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[1x12]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/wyl7ojofw3bl/El.Principe.De.BelAir.esp.1x12.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[1x13]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/d1ii65i3kgyi/El.Principe.De.BelAir.esp.1x13.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[1x14]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/hr0vcerrw5rr/El.Principe.De.BelAir.esp.1x14.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[1x15]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/zh2vh9ouhwtv/Principe.BelAir.1x15.Cubre_la_Entrada.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[1x16]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/memmz2cwsv5w/Principe.BelAir.1x16.Encanto_Afortunado.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[1x17]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/vfi40lo8r03g/Principe.BelAir.1x17.El_Viaje_Etnico.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[1x18]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/0md1jlsi15ej/Principe.BelAir.1x18.El_Joven_y_el_Inquieto.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[1x19]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/lm8gejpuyk5j/Principe.BelAir.1x19.Tenias_que_Ser_Tu.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[1x20]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/dall9n8afjjp/Principe.BelAir.1x20.Bonita_Dama.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[1x21]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/q4fq1t52mczy/Principe.BelAir.1x21.Amor_a_Primera_Pelea.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[1x22]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/r2ljlq5q29ho/Principe.BelAir.1x22.Disparo_Banks.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[1x23]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/ercg3htadosr/Principe.BelAir.1x23.72_Horas.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[1x24]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/gicteckikgxd/Principe.BelAir.1x24.S__lo_Encaprichamiento.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[1x25]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/31o1xo3tlfyq/Principe.BelAir.1x25.Trabajando_Fuera.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[2x01]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/m0nmr7vrtcs5/Principe.BelAir.2x01.Se_ha_Movido_la_Tierra_por_Ti.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[2x02]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/8sc64buqy9mr/Principe.BelAir.2x02.La_Madre_de_Todas_Las_Batallas.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[2x03]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/ykufqd4yeghy/Principe.BelAir.2x03.Will_Consigue_un_Empleo_1.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[2x04]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/k3s0uuwlpnii/Principe.BelAir.2x04.Will_Consigue_un_Empleo_2.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[2x05]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/7qxf37515y0d/Principe.BelAir.2x05.La_Abuelita_Esta_Prometida.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[2x06]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/6582hubc920w/Principe.BelAir.2x06.Adivina_Quien_Viene_a_Casarse.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[2x07]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/txbcaqek1tnq/Principe.BelAir.2x07.Los_Grandes_Cuarenta.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[2x08]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/a8awlu1jax9i/Principe.BelAir.2x08.No_es_Pesada.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[2x09]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/fvk47c1iyf4x/Principe.BelAir.2x09.Pleito_Ganado.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[2x10]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/4qcrb8lzlnf2/Principe.BelAir.2x10.Hi-ho_Plata.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[2x11]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/gezqgnc6oidw/Principe.BelAir.2x11.Lo_Hizo_el_Mayordomo.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[2x12]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/4gek90gmedw0/Principe.BelAir.2x12.Algo_Para_Nada.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[2x13]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/luo7dn4fif45/Principe.BelAir.2x13.Show_de_Navidad.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[2x14]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/dddklkolpf5z/Principe.BelAir.2x14.Hilary_Toma_una_Vida.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[2x15]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/styyjoc38gxc/Principe.BelAir.2x15.Mi_Hermano_Conservador.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[2x16]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/hfqub24derbp/Principe.BelAir.2x16.Geoffrey_Limpia.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[2x17]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/luzqatx8nulc/Principe.BelAir.2x17.Accion_Comunitaria.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[2x18]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/krqc658q18zx/Principe.BelAir.2x18.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[2x19]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/o7p7gzn1prem/Principe.BelAir.2x19.Ojos_en_el_Premio.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[2x20]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/u3yalhp3k0d6/Principe.BelAir.2x20.Esos_Fueron_los_Dias.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[2x21]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/4w5rdpy2eujm/Principe.BelAir.2x21.Atencion_de_Vy.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[2x22]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/0oqs9fqojpig/Principe.BelAir.2x22.La_Tia_que_Vino_a_Cenar.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[2x23]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/j8lao0yl5qvz/Principe.BelAir.2x23.Se_Mi_Chico_Esta_Noche.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[2x24]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/tmckmnw03p88/Principe.BelAir.2x24.Strlp-tease_para_Dos.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[3x01]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/q8pi7nf2w2ha/Principe.BelAir.3x01.Como_Pase_Mis_Vacaciones_de_Verano.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[3x02]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/4qvep2lkb24p/Principe.BelAir.3x02.Will_Se_Compromete.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[3x03]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/zsy2y1d95y5m/Principe.BelAir.3x03.No_Es_Una_Mujer__Es_Mi_Prima.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[3x04]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/7ub22mzlpj0e/Principe.BelAir.3x04.Hilary_Encuentra_un_Empleo.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[3x05]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/845ly9pzd59t/Principe.BelAir.3x05.La_Madre_del_Ninio__Tal_Vez_de_Carlton.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[3x06]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/s18n9d3n1m2o/Principe.BelAir.3x06.P.D._Te_Quiero.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[3x07]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/hdzswxo9p9r8/Principe.BelAir.3x07.Aqui_Viene_el_Juez.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[3x08]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/0gct8m72dcsv/Principe.BelAir.3x08.Chicos_en_el_Bosque.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[3x09]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/6i3rtiu00uf9/Principe.BelAir.3x09.Una_Noche_en_la_Oprah.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[3x10]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/6l0q6f3b8zgf/Principe.BelAir.3x10.Asnos_de_Ceniza.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[3x11]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/mwnonexjwd7m/Principe.BelAir.3x11.Algo_Divertido_Paso_de_Camino_al_Foro.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[3x12]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/t38vps87alk5/Principe.BelAir.3x12.La_Guerra_Fria.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[3x13]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/1hxvbmcout2o/Principe.BelAir.3x13.Mam4_Cercana.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[3x14]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/wsxcuriot06m/Principe.BelAir.3x14.El_Ganador_se_lo_Queda_Todo.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[3x15]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/kbq26c5rmcxy/Principe.BelAir.3x15.Robando_a_los_Banks.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[3x16]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/gvzonqkyg8pp/Principe.BelAir.3x16.Atado_de_alegria.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[3x17]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/jwo4lozmwtxf/Principe.BelAir.3x17.Un_buen_plan_tranquilo.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[3x18]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/4cxgjw9czfjk/Principe.BelAir.3x18.El_Alma_Matter.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[3x19]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/4vhc9xoraac1/Principe.BelAir.3x19.Noche_de_Accion.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[3x20]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/2v0ogxw9yrmi/Principe.BelAir.3x20.El_BB_Viene_En_Camino.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[3x21]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/me5i7925mp2r/Principe.BelAir.3x21.Apuestas_Tu_Vida.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[3x22]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/197t5hg2bgl1/Principe.BelAir.3x22.No_Hay_Negocio_Como_Este.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[3x23]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/k94mkenv27dc/Principe.BelAir.3x23.Tal_Como_Eramos.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[3x24]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/yytsv251zot7/Principe.BelAir.3x24.Seis_Grados_De_Graduacion.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[4x01]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/bbszfzjqmnea/Principe.BelAir.4x01.Donde_hay_una_voluntad__hay_un_camino__Parte_1_.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[4x02]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/3t67xcsadq5z/Principe.BelAir.4x02.Donde_hay_una_voluntad__hay_un_camino__Parte_2_.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[4x03]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/107mevh5l6ht/Principe.BelAir.4x03.Todo_Agallas_y_Nada_De_Gloria.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[4x04]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/sgfsu3r8mod0/Principe.BelAir.4x04.El_Padre_Del_A__o.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[4x05]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/3yrpe24gs4vb/Principe.BelAir.4x05.Es_mejor_haber_amado_y_perdido.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[4x06]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/h6nhwnkwsr7t/Principe.BelAir.4x06.Will_a_La_Corte.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[4x07]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/rajpcol3c931/Principe.BelAir.4x07.Noche_De_Brujas.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[4x08]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/cax8pfwaw9v9/Principe.BelAir.4x08.El_exito_No_Perdona.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[4x09]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/udd5ilv4xhl1/Principe.BelAir.4x09.Fiesta_En_La_Mansion_Pl4yb0y.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[4x10]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/zqw3ymhzsqww/Principe.BelAir.4x10.La_Caida_De_Un_Heroe.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[4x11]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/6zy2rubh92wt/Principe.BelAir.4x11.Salvado_Por_Una_Prima.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[4x12]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/qyfew66qkyfm/Principe.BelAir.4x12.Una_Siesta_En_El_Panteon.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[4x13]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/9ovvc5wkxlbr/Principe.BelAir.4x13.La_Historia_De_Un_Bautizo.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[4x14]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/js3wnzyadseh/Principe.BelAir.4x14.La_Noche_de_los_grillos.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[4x15]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/4y8ujb7dznbu/Principe.BelAir.4x15.Quien_es_el_jefe.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[4x16]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/qlneqx72zi3d/Principe.BelAir.4x16.Yo_se_porque_grita_el_ave_enjaulada.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[4x17]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/zetvc7wdm56q/Principe.BelAir.4x17.Cuando_alcanzas_una_estrella.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[4x18]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/q71i1p45uqx5/Principe.BelAir.4x18.Alto_Will_en_nombre_del_amor.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[4x19]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/rpsr7b0jxpf4/Principe.BelAir.4x19.El_super_vendedor.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[4x20]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/nm22f12ply42/Principe.BelAir.4x20.La_vieja_bola_y_la_cadena.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[4x21]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/iv3876wipzdc/Principe.BelAir.4x21.El_suegro_4sesino.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[4x22]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/3ehl9cfi0njo/Principe.BelAir.4x22.Por_las_muchas_cosas_que_me_dio.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[4x23]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/g0ywtf0ujzbx/Principe.BelAir.4x23.El_dia_de_las_madr3s.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[4x24]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/wx00c660v0cx/Principe.BelAir.4x24.Pap_tiene_una_nueva_excusa.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[4x25]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/kvcu3g6a736g/Principe.BelAir.4x25.Se_vende.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[4x26]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/g1p84voruqhr/Principe.BelAir.4x26.La_historia_de_Filadelphia.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[5x01]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/qxwhew9m5lnb/Principe.BelAir.5x01.Lo_que_Will_tiene_que_hacer_con_esto.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[5x02]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/xdf7jukninxv/Principe.BelAir.5x02.El_cliente.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[5x03]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/7fifsy2pgj1u/Principe.BelAir.5x03.Mordeduras_reales.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[5x04]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/hzep36q59a0w/Principe.BelAir.5x04.El_joven_malhumorado.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[5x05]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/abl9gl6rro79/Principe.BelAir.5x05.El_principe__la_pelicula.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[5x06]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/lp73o4vjggjc/Principe.BelAir.5x06.Will_amargado.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[5x07]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/97zs0029uilx/Principe.BelAir.5x07.El_padre_lo_sabe_mejor.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[5x08]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/vg02i0cy3ouv/Principe.BelAir.5x08.Tren_del_aaaalma.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[5x09]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/88xas7ix652j/Principe.BelAir.5x09.El_amor_hiere.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[5x10]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/640escrkvi2n/Principe.BelAir.5x10.Will_en_una_carrera_sucia.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[5x11]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/pzl67g8cgml2/Principe.BelAir.5x11.Will_da_un_paso_adelante.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[5x12]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/ly8bhco3vjyh/Principe.BelAir.5x12.El_mismo_juego_la_proxima_estacion.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[5x13]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/w1umelm80uxe/Principe.BelAir.5x13.Tres_son_multitud.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[5x14]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/w1umelm80uxe/Principe.BelAir.5x13.Tres_son_multitud.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[5x15]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/9d89uatyvx4o/Principe.BelAir.5x15.Balas_sobre_Bel_Air.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[5x16]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/ykst1u9dicio/Principe.BelAir.5x16.Una_proposicion_decente.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[5x17]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/xmao48rn9jv0/Principe.BelAir.5x17.Will_es_de_Marte.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[5x18]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/81kbvb9bhrfp/Principe.BelAir.5x18.El_show_de_la_boda.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[5x19]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/jt3cc3rgy0l0/Principe.BelAir.5x19.Un_barrio_como_este...no.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[5x20]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/grhm2g3nx5al/Principe.BelAir.5x20.Como_Will_vuelve.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[5x21]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/ue399xxr2v62/Principe.BelAir.5x21.Guardate_este_ultimo_trance.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[5x22]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/hr7vyb2t9md0/Principe.BelAir.5x22.Tu_mismo_eres_azul.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[5x23]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/a35i9rl7yovt/Principe.BelAir.5x23.Pies_frios__cuerpo_caliente.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[5x24]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/vzf7bi1kjx6a/Principe.BelAir.5x24.Amor_en_un_ascensor.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[5x25]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/kxyx9fg2o06v/Principe.BelAir.5x25.Por_que_suenan_las_campanas_de_boda.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[6x01]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/sfj15vhnsq28/Principe.BelAir.6x01.Burnin_Down_the_House.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[6x02]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/06fr954diahi/Principe.BelAir.6x02.Get_a_Job.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[6x03]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/jxt1r8aow88p/Principe.BelAir.6x03.Stress_Related.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[6x04]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/aqhmfhxy7ec3/Principe.BelAir.6x04.Bourgie_Sings_the_Blues.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[6x05]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/m95gobr7hpq0/Principe.BelAir.6x05.The_Script_Formerly_Known_As.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[6x06]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/8wok9gr2b4ot/Principe.BelAir.6x06.Not__I_Barbecue.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[6x07]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/o74gzc7l3ndx/Principe.BelAir.6x07.Not_With_My_Cousin_You_Dont.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[6x08]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/shuu7k2qjuur/Principe.BelAir.6x08.Viva_Lost_Wages.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[6x09]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/4qpsjp15tb31/Principe.BelAir.6x09.Theres_the_Rub_-_Part_1.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[6x10]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/7db3laeouyvc/Principe.BelAir.6x10.Theres_the_Rub_-_Part_2.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[6x11]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/l9wftola3cfo/Principe.BelAir.6x11.Ooh__B4by__B4by.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[6x12]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/58rrl8ou59f9/Principe.BelAir.6x12.Boxing_Helena.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[6x13]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/vfnj1bjz1nc1/Principe.BelAir.6x13.I__Clownius.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[6x14]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/u9nljrz6078s/Principe.BelAir.6x14.Breaking_Up_is_Hard_To_Do_Part_1.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[6x15]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/svobf1o8y3ft/Principe.BelAir.6x15.Breaking_Up_is_Hard_To_Do_Part_2.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[6x16]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/6f4rpnxu757e/Principe.BelAir.6x16.I__Bowl_Buster.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[6x17]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/d7dny6s0bd5i/Principe.BelAir.6x17.The_Butlers_Son_Did_It.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[6x18]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/6eld66e6ima4/Principe.BelAir.6x18.Hare_Today....ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[6x19]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/a82lsqfra6ro/Principe.BelAir.6x19.I__Whoops__There_It_Is.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[6x20]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/0ncw0gissf8t/Principe.BelAir.6x20.I__Stank_Horse.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[6x21]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/2o9gtogqxchf/Principe.BelAir.6x21.I__Stank_Hole_in_One.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[6x22]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/cckyxyg9l6ry/Principe.BelAir.6x22.Eye__Tooth.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[6x23]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/1t3tkn2ado1h/Principe.BelAir.6x23.I__Done_Part_1.ES.avi.html]]></stream_url>
+                           </channel>
+
+
+<channel>
+                        <title><![CDATA[6x24]]></title>
+                        <logo_30x30><![CDATA[]]></logo_30x30>
+                        <description><![CDATA[<img src="http://www.gratistodo.com/wp-content/uploads/2016/10/El-Principe-de-Bel-Air-1.jpg" />]]></description>                      
+                        <stream_url><![CDATA[http://streamcloud.eu/d8a9waerlrke/Principe.BelAir.6x24.I__Done_Part_2.ES.avi.html]]></stream_url>
+                           </channel>
+
+<next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
+<prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas.xml]]></prev_page_url>
+    </items>
