@@ -277,7 +277,13 @@
 <buffer_kb>30000</buffer_kb>
 </channel> 
  
- 
+ <channel>
+<title><![CDATA[ 1x35]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/fama-a-bailar_0b2826jwcc42018-03-11.jpg"/>]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/kv1g97uoe2uf/F4m4.4.B41l4r.1x35.m720p.mkv.html]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel> 
  
  
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision.xml]]></prev_page_url>
