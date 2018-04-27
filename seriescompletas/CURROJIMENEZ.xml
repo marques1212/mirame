@@ -324,6 +324,6 @@
                         <stream_url><![CDATA[http://hlsvod.lvlt.rtve.es/resources/TE_NGVA/mp4/2/3/1472221818332.mp4/1472221818332-audio=64001-video=2116000.m3u8]]></stream_url>
                            </channel>
 <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
-<prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriescompletas.xml]]></prev_page_url>
+<prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriescompletas.xml]]></prev_page_url>
 
 </items>
