@@ -1383,10 +1383,16 @@
 <buffer_kb>30000</buffer_kb>
  </channel>  
  
+<channel>
+<title><![CDATA[Capitulo 1x252]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_5bf139354ad891ab252624f24810d2a2.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/slyhoh9v3xjh/Serv1r.1x252.m720p.mkv.html]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+ </channel>  
  
  
  
- 
-<prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision.xml]]></prev_page_url>
+<prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision.xml]]></prev_page_url>
 
 </items>
