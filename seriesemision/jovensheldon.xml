@@ -149,11 +149,17 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
+ <channel>
+<title><![CDATA[Capitulo 1x19 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_a549ca80b0522ef8cec5f11a189e8aae.jpg"/>]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/p6pfbp0snvpp/el.jv.sh.1x19.m720p.es.mkv.html]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
  
  
  
  
- 
-<prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision.xml]]></prev_page_url>
+<prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision.xml]]></prev_page_url>
 
 </items>
