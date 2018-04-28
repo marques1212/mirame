@@ -947,6 +947,15 @@
  </channel> 
  
  <channel>       
+<title><![CDATA[Quantico T2]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/quantico_94v3957hbsh2016-03-24.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriescompletas/quantico.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+
+ <channel>       
 <title><![CDATA[Ronja la hija del bandolero T1]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="https://pics.filmaffinity.com/sanzoku_no_musume_ronia_tv_series-829271598-mmed.jpg">]]></description>
