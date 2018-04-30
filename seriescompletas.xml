@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <items>
 <playlist_name><![CDATA[Series Completas]]></playlist_name>
+ 
+ <channel>       
+<title><![CDATA[24 hora t1 a t9]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/7-vidas_ul1gl0aq1w12017-07-17.jpg"/>]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriescompletas/24horas.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ 
+ 
 
 <channel>       
 <title><![CDATA[7vidas]]></title>
