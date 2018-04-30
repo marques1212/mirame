@@ -11,7 +11,18 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
   
-   
+ <channel>
+<title><![CDATA[2x02]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/westworld-almas-de-metal_0ukzf3wy01r2016-10-02.jpg" />]]> </description>
+<stream_url><![CDATA[http://streamcloud.eu/yh81vxkh67zy]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>  
+  
+ 
+  
+  
   
   
   <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
