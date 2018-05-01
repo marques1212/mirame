@@ -94,7 +94,14 @@
 <buffer_kb>30000</buffer_kb>
 </channel>  
   
-
+<channel> 
+<title><![CDATA[Temporada 4 Capitulo 11]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/la-voz-kids-espana_2krmd4y6nor2018-02-19.jpg" />]]></description> 
+<stream_url><![CDATA[http://streamcloud.eu/o9j2zki2m3e9]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>  
   
   
   
