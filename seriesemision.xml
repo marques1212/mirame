@@ -560,10 +560,29 @@
  <channel>       
 <title><![CDATA[La extrana pareja]]></title>
 <logo_30x30></logo_30x30>
-<description><![CDATA[<img src="http://i.picasion.com/pic87/03ab60844e8475a79478dd5ecf2dd364.gif">In the third season opener, Oscar is forced to choose between his romantic plans with Charlotte and helping to save Felix's relationship as Emily decides to extend her stay in London and Felix starts to fall apart.  ]]></description>
+<description><![CDATA[<img src="http://i.picasion.com/pic87/03ab60844e8475a79478dd5ecf2dd364.gif" ]]>In the third season opener, Oscar is forced to choose between his romantic plans with Charlotte and helping to save Felix's relationship as Emily decides to extend her stay in London and Felix starts to fall apart.></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/laestranapareja.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
+ 
+ 
+ <channel>       
+<title><![CDATA[la otra mirada t1]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic87/1395cd2012036cb558b948caed435bb6.gif" ]]>Historia de mujeres valientes en una academia para senoritas en la sevilla de los anos 20 un centro de ensenanza aferrado a las tradiciones propias de una capital en la epoca de entreguerras.></description>
+<playlist_url><![CDATA[http://streamcloud.eu/flr892hvn5wp]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
  <channel>       
 <title><![CDATA[La peluqueria T1]]></title>
@@ -607,7 +626,7 @@
   <channel>      
 <title><![CDATA[Le Bureau des LÃ©gendes T3]]></title> 
 <logo_30x30></logo_30x30> 
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/le-bureau-des-legendes_j1t2erzg9lg2016-08-09.jpg" />]]>En el seno de la DGSE (DirecciÃ³n General de la Seguridad Exterior) francesa existe un departamento, Le Bureau des LÃ©gendes (La oficina de los encubiertos) que controla a los agentes infiltrados que trabajan de forma encubierta en todo el mundo para defender los intereses franceses. El retorno a la oficina central de Paris de Malotru, un agente que ha trabajado infiltrado seis aÃ±os en Siria y Jordania, no es todo lo placentera que se esperaba. Le serÃ¡ difÃ­cil adaptarse a la vida en abierto, lo que se complica .. </description>
+<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/le-bureau-des-legendes_j1t2erzg9lg2016-08-09.jpg" />]]>En el seno de la DGSE (DirecciÃ³n General de la Seguridad Exterior) francesa existe un departamento, Le Bureau des LÃ©gendes (La oficina de los encubiertos) que controla a los agentes infiltrados que trabajan de forma encubierta en todo el mundo para defender los intereses franceses. El retorno a la oficina central de Paris de Malotru, un agente que ha trabajado infiltrado seis aÃ±os en Siria y Jordania, no es todo lo placentera que se esperaba. Le serÃ¡ difÃ­cil adaptarse a la vida en abierto, lo que se complica.</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/Le%20Bureau%20des%20L%C3%A9gendes.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
@@ -631,7 +650,7 @@
   <channel>      
 <title><![CDATA[Los Pasajeros del Tiempo T1]]></title> 
 <logo_30x30></logo_30x30> 
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/time-after-time_y67l0jjrmlx2017-03-07.jpg" />]]>Time After Time serie de FantasÃ­a y Ciencia FicciÃ³n, La serie narra dos amigos encuentran una viciosa capsula del tiempo, Ambos dispuesto a usarlas, Sucede una traiciÃ³n de Dr. John Stevenson sobre un asesinato, Donde John huye con la capsula, mientras H.G. Wells ingresa a la capsula para dar un viaje inesperado a un mundo donde nunca pudo imaginarse, Su Ãºnico objetivo es atrapar su ex amigo asesino. Pero en su viaje conoce a una bella dama que le harÃ¡ recorrer el mundo actual. </description>
+<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/time-after-time_y67l0jjrmlx2017-03-07.jpg" />]]>Time After Time serie de FantasÃ­a y Ciencia Ficcion, La serie narra dos amigos encuentran una viciosa capsula del tiempo, Ambos dispuesto a usarlas, Sucede una traiciÃ³n de Dr. John Stevenson sobre un asesinato, Donde John huye con la capsula, mientras H.G. Wells ingresa a la capsula para dar un viaje inesperado a un mundo donde nunca pudo imaginarse, Su Ãºnico objetivo es atrapar su ex amigo asesino. Pero en su viaje conoce a una bella dama que le harÃ¡ recorrer el mundo actual. </description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/Los%20Pasajeros%20del%20Tiempo%20-%20T1.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
