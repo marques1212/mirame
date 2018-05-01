@@ -92,7 +92,13 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
- 
+ <channel>
+<title><![CDATA[Capitulo 1x12]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://hdfull.me/tthumb/172x265/show_251f4ad9f37d1ec579c251787b4517b8.jpg"/>]]></description>
+<stream_url><![CDATA[https://archive.org/download/cuelit1x04/cuelit4x12.mp4]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
  
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision.xml]]></prev_page_url>
 
