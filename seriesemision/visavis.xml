@@ -233,7 +233,13 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
 
- 
+ <channel>
+<title><![CDATA[Capitulo 3x01]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic87/7b35a6667997b623ac54f6fd385c4e95.gif"/>]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/3gqpv14p3y6l/V31s.4.V31s.3x01.mkv.mp4.html]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
  
  
  
