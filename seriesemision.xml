@@ -437,6 +437,28 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
+ 
+ 
+ 
+ <channel>       
+<title><![CDATA[ Fugitiva T1]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic87/8dd4c4c934490d766949a662f2d9eb62.gif">]]>Magda (Paz Vega), una mujer que en un momento crucial de su vida ve como su mundo estalla en pedazos, se ve obligada a sacar a su familia de una situación limite.</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/fugitiva.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
 <channel>       
 <title><![CDATA[Genius T1]]></title>
