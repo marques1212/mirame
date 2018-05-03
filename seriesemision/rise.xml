@@ -60,7 +60,13 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
- 
+ <channel>
+<title><![CDATA[ 1x08]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/rise_sx3ig78yxz02018-03-14.jpg"/>]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/944im439zafq]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
  
  
  
