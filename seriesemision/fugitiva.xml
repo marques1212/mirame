@@ -37,10 +37,20 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
 
+<channel>
+<title><![CDATA[1x05 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic87/8dd4c4c934490d766949a662f2d9eb62.gif" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/xljwp2oq57je]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
 
 
 
-
+ 
+ 
+ 
+ 
 <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision.xml]]></prev_page_url>
 
