@@ -361,36 +361,9 @@
 <logo_30x30><![CDATA[]]></logo_30x30>
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
-
 <stream_url><![CDATA[http://streamcloud.eu/1oe545w5ww5b]]></stream_url>
-    
-    
-    
-
-
-
-
 <thumbnail>http://pics.filmaffinity.com/king_kong-667198812-large.jpg</thumbnail>
 <fanart>http://pics.filmaffinity.com/king_kong-667198812-large.jpg</fanart>
-</channel>
-
-
-<channel>
-<title><![CDATA[ King Kong]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<video_type>http</video_type>
-<buffer_kb>30000</buffer_kb>
-
-<stream_url><![CDATA[http://streamcloud.eu/p6mqt8fea7hj]]></stream_url>
-    
-    
-    
-
-
-
-
-<thumbnail>http://pics.filmaffinity.com/king_kong-636648795-large.jpg</thumbnail>
-<fanart>http://pics.filmaffinity.com/king_kong-636648795-large.jpg</fanart>
 </channel>
 
 
@@ -431,7 +404,23 @@
 <fanart>http://pics.filmaffinity.com/king_rat-140820104-large.jpg</fanart>
 </channel>
 
-
+	
+	<channel>
+<title><![CDATA[Kingsman. Servicio secreto 2014]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+<stream_url><![CDATA[http://streamcloud.eu/cm5rinzesok5/Kin55gs8ma1n.Se55rv78i2cio.Se3cr7eto.avi.html]]></stream_url>
+<thumbnail>http://i.picasion.com/pic87/06ea5cf4ab5eeffc5b723dd7facf1a93.gif</thumbnail>
+<fanart>http://pics.filmaffinity.com/king_kong-667198812-large.jpg</fanart>
+</channel>
+	
+	
+	
+	
+	
+	
+	
 <channel>
 <title><![CDATA[ Kingsman. Servicio secreto 2014 ]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
