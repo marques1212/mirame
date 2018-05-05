@@ -74,7 +74,15 @@
 </channel>
   
   
-
+<channel> 
+<title><![CDATA[Cap 227]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic87/7d09036e48c2b109167b3c9fef198870.gif" />]]></description> 
+<stream_url><![CDATA[http://streamcloud.eu/iyy9j53g2r2w]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+  
 
 
 
