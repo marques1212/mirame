@@ -147,7 +147,12 @@
 <stream_url><![CDATA[http://streamcloud.eu/evn0drh4cl1n]]></stream_url>
  </channel>
 
-
+<channel>
+<title><![CDATA[5x19]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/the-blacklist_ksn5zm9i1sm2016-03-24.jpg" />]]></description>                      
+<stream_url><![CDATA[http://streamcloud.eu/8kjimzv4kq3s]]></stream_url>
+ </channel>
 
 
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision.xml]]></prev_page_url>
