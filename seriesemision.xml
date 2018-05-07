@@ -448,17 +448,6 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 
 <channel>       
 <title><![CDATA[Genius T1]]></title>
@@ -720,10 +709,10 @@
 </channel>
 
   <channel>      
-<title><![CDATA[ Morir de pie T1]]></title> 
+<title><![CDATA[ Morir de pie T2]]></title> 
 <logo_30x30></logo_30x30> 
 <description><![CDATA[<img src="https://gnula.se/img/portada/170x243/morir-de-pie_wsa2x6mouoj2017-06-05.jpg" />]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/Morir%20de%20pie%20T1.XML]]></playlist_url>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/Morir%20de%20pie%20T2.XML]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
  
