@@ -861,6 +861,15 @@
 <buffer_kb>30000</buffer_kb>
  </channel>
  
+<channel>       
+<title><![CDATA[Morir de pie T1]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/morir-de-pie_wsa2x6mouoj2017-06-05.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriescompletas/morirpie.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+ </channel>
+ 
+
  <channel>       
 <title><![CDATA[Monk T1 a T8]]></title>
 <logo_30x30></logo_30x30>
