@@ -316,10 +316,10 @@
  
  
 <channel>      
-<title><![CDATA[ Elementary T5]]></title> 
+<title><![CDATA[ Elementary T6]]></title> 
 <logo_30x30></logo_30x30> 
 <description><![CDATA[<img src="https://gnula.se/img/portada/170x243/elementary_ri0tdwvd8yb2016-03-24.jpg" />]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/ElementaryT5.xml]]></playlist_url>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/ElementaryT6.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
  
