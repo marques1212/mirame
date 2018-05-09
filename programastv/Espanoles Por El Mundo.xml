@@ -404,7 +404,14 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
    
-  
+<channel> 
+<title><![CDATA[Aloha Hawai]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="" />]]>Espanoles en el mundo viaja hasta Cali, capital del Valle del Cauca y la tercera ciudad de Colombia. Uno de los principales centros economicos del pais que, tras duros anos marcados por el narcotrafico y la guerrilla, despierta a una nueva era marcada por la alegria y hospitalidad de sus habitantes.</description> 
+<stream_url><![CDATA[http://hlsvod.lvlt.rtve.es/resources/TE_GL13/mp4/9/2/1525389839929.mp4/playlist.m3u8]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
  
 
  
