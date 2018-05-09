@@ -93,6 +93,15 @@
 <buffer_kb>30000</buffer_kb>
 </channel> 
  
+ <channel>
+<title><![CDATA[ 7x12]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/homeland_p1lnruwg89b2016-03-24.jpg"/>]]></description>
+<stream_url><![CDATA[https://archive.org/download/WatchLnd7x12M720pMkv/Watch%20lnd%207x12%20m720p%20mkv.mp4]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel> 
+ 
+ 
  
  
  
