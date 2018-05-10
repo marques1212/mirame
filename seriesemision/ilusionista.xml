@@ -60,7 +60,13 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
- 
+ <channel>
+<title><![CDATA[Capitulo 1x08]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/el-ilusionista-deception_j0b2b7fia5s2018-03-11.jpg"/>]]></description>
+<stream_url><![CDATA[https://archive.org/download/WatchInst1x08M720pMkv/Watch%20Inst%201x08%20m720p%20mkv.mp4]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
  
  
  
