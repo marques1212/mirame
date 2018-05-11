@@ -47,7 +47,14 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
-  
+<channel> 
+<title><![CDATA[ Temporada 3 Capitulo 6]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/jose-mota-presenta_2q922gb05lu2018-04-06.jpg" />]]></description> 
+<stream_url><![CDATA[http://hlsvod.lvlt.rtve.es/resources/TE_NGVA/mp4/0/4/1526074800340.mp4/playlist.m3u8]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
   
   
   
