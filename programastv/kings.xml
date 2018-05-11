@@ -29,7 +29,14 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
   
-  
+<channel> 
+<title><![CDATA[ Temporada 4 Capitulo 4]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/los-gipsy-kings_oheqzvlermk2018-04-20.jpg" />]]></description> 
+<stream_url><![CDATA[https://archive.org/download/gipki4x04/gipki4x04.mp4]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
 
   
   
