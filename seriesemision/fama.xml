@@ -374,7 +374,13 @@
 <buffer_kb>30000</buffer_kb>
 </channel>   
  
- 
+<channel>
+<title><![CDATA[ 1x47]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/fama-a-bailar_0b2826jwcc42018-03-11.jpg"/>]]></description>
+<stream_url><![CDATA[https://archive.org/download/FAM1X02/Fam1x47.mp4]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>   
  
  
  
