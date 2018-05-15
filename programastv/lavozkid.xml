@@ -112,7 +112,14 @@
 <buffer_kb>30000</buffer_kb>
 </channel>  
   
-  
+<channel> 
+<title><![CDATA[Temporada 4 Capitulo 13]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/la-voz-kids-espana_2krmd4y6nor2018-02-19.jpg" />]]></description> 
+<stream_url><![CDATA[https://archive.org/download/Vo.ki4x13/Vo.ki%204x13.mp4]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>  
   
   
   
