@@ -66,10 +66,26 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
+ <channel>
+<title><![CDATA[Capitulo 3x09]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/shadowhunters_4me7dejd9122016-03-24.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/alj9j8yxdxkm]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
  
+ <channel>
+<title><![CDATA[Capitulo 3x10]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/shadowhunters_4me7dejd9122016-03-24.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/pwddj43hp7z4]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
  
- 
- 
+
+
+
+
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision.xml]]></prev_page_url>
 
 </items>
