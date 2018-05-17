@@ -416,7 +416,7 @@
 <channel> 
 <title><![CDATA[Paris bohemio]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="" />]]>> 
+<description><![CDATA[<img src="" />]]></description> 
 <stream_url><![CDATA[http://hlsvod.lvlt.rtve.es/resources/TE_GL13/mp4/2/4/1525994829342.mp4/playlist.m3u8]]></stream_url>
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
