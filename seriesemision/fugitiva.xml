@@ -53,7 +53,13 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
 
- 
+ <channel>
+<title><![CDATA[1x07 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic87/8dd4c4c934490d766949a662f2d9eb62.gif" />]]></description>
+<stream_url><![CDATA[http://hlsvod.lvlt.rtve.es/resources/TE_GLESP/mp4/0/4/1526596626040.mp4/playlist.m3u8]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
  
  
  
