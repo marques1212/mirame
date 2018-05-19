@@ -173,7 +173,13 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
- 
+ <channel>
+<title><![CDATA[Capitulo 1x22 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_a549ca80b0522ef8cec5f11a189e8aae.jpg"/>]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/el29llsq9joz]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
  
  
  
