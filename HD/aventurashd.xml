@@ -2,29 +2,6 @@
 <items>
  <playlist_name>Aventuras HD</playlist_name>
  
-<!--channel>
-<title><![CDATA[]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="" />]]></description>
-<stream_url><![CDATA[]]></stream_url>
-<buffer_kb>20480</buffer_kb>
-</channel>
-
-<channel>
-<title><![CDATA[]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="" />]]></description>
-<stream_url><![CDATA[]]></stream_url>
-<buffer_kb>20480</buffer_kb>
-</channel>
-
-<channel>
-<title><![CDATA[]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="" />]]></description>
-<stream_url><![CDATA[]]></stream_url>
-<buffer_kb>20480</buffer_kb>
-</channel-->
 
 <channel>
 <title><![CDATA[Mi pequeño dinosaurio 2017 ]]></title>
