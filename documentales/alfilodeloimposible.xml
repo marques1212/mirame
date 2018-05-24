@@ -45,9 +45,19 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
 
+<channel>
+<title><![CDATA[Dudh Kosi, el río del Everest]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="Surf: El cazador de olas gigantes" />]]></description>
+<stream_url><![CDATA[http://hlsvod.lvlt.rtve.es/resources/TE_NGVA/mp4/6/1/1514639605616.mp4/playlist.m3u8]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
 
 
-
+	
+	
+	
+	
 	 <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/documentales/menudocumentales.xml]]></prev_page_url>
 
