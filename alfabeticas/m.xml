@@ -4685,21 +4685,25 @@
 <description><![CDATA[<img src="http://pics.filmaffinity.com/my_old_lady-274280439-large.jpg" />]]></description>
 </channel>
 
+	
+	<channel>
+<title><![CDATA[ Mi chica 1991]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+<stream_url><![CDATA[https://archive.org/download/images_20170624_1109/M2i.C5hi6c2a.mp4]]></stream_url>
+<thumbnail>http://pics.filmaffinity.com/my_girl_2-199553815-large.jpg</thumbnail>
+<description><![CDATA[<img src="http://i.picasion.com/pic87/5326ab7a1f50515068bccac493575708.gif" />]]>Veda es una nina obsesionada con la muerte: su madre ha muerto y su padre dirige una funeraria. Como esta enamorada de su profesor de ingles, se apunta en verano a unos cursos de poesia solo para impresionarle. Thomas J., su mejor amigo, es alergico a las abejas. El padre de Veda contrata a Shelly, una experta maquilladora, y pronto se enamora de ella, pero la nina intentara torpedear la relacion.</description>
+</channel>
+	
+
 
 <channel>
 <title><![CDATA[ Mi chica 2]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
-
 <stream_url><![CDATA[http://streamcloud.eu/7bzysr47ku84]]></stream_url>
-    
-    
-    
-
-
-
-
 <thumbnail>http://pics.filmaffinity.com/my_girl_2-199553815-large.jpg</thumbnail>
 <description><![CDATA[<img src="http://pics.filmaffinity.com/my_girl_2-199553815-large.jpg" />]]></description>
 </channel>
