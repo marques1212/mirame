@@ -362,15 +362,7 @@
 <playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriescompletas/cosasdecasa.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
- 
-  
- <channel>       
-<title><![CDATA[Cosas de casa]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="http://diarium.usal.es/amoren/files/2012/11/cosas-de-casa768.jpeg">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriescompletas/COSASDECASA.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
- </channel>
+
  
  <channel>       
 <title><![CDATA[Csi Las Vegas Tempoprada 1 a Temporada 15]]></title>
