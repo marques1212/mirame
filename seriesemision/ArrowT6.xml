@@ -183,6 +183,13 @@
 </channel>
  
  
+ <channel>
+<title><![CDATA[6x23 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://image.tmdb.org/t/p/w650_and_h365_bestv2/uJmQsMSHKJiNuTSpYpJRWtRssCK.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/bfok6aid44yt]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
  
  
  
