@@ -543,15 +543,7 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
-<channel>       
-<title><![CDATA[La peste T1]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/la-peste_04thyj7vyfz2018-01-12.jpg"> ]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/peste.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
- 
- 
+
  <channel>       
 <title><![CDATA[La casa de papel T2]]></title>
 <logo_30x30></logo_30x30>
@@ -559,6 +551,21 @@
 <playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/lacasadepapel.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
+ 
+ 
+ <channel>       
+<title><![CDATA[la catedral del mar T1]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/la-peste_04thyj7vyfz2018-01-12.jpg"> ]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/la catedral del mar.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ 
+ 
+ 
+ 
+ 
  
  <channel>       
 <title><![CDATA[Las chicas del cable T2]]></title>
@@ -585,7 +592,16 @@
 <buffer_kb>30000</buffer_kb>
  </channel>
  
-  
+ 
+  <channel>       
+<title><![CDATA[La peste T1]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/la-peste_04thyj7vyfz2018-01-12.jpg"> ]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/peste.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ 
  
  <channel>       
 <title><![CDATA[La peluqueria T1]]></title>
