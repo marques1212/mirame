@@ -265,7 +265,13 @@
 <buffer_kb>30000</buffer_kb>
 </channel> 
  
- 
+ <channel>
+<title><![CDATA[Capitulo 3x06]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic87/7b35a6667997b623ac54f6fd385c4e95.gif"/>]]></description>
+<stream_url><![CDATA[]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel> 
  
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision.xml]]></prev_page_url>
 
