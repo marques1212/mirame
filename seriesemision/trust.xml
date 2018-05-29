@@ -76,7 +76,13 @@
 <buffer_kb>30000</buffer_kb>
 </channel> 
  
- 
+ <channel>
+<title><![CDATA[ 1x10]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/trust_6j2b3lf42a22018-03-26.jpg"/>]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/5239v1xp5zzr]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel> 
  
  
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/seriesemision.xml]]></prev_page_url>
