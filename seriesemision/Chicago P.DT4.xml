@@ -165,6 +165,17 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
+ <channel>
+<title><![CDATA[Capitulo 5x21]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/chicago-pd_qnm6y5gdpxf2016-03-24.jpg" />]]></description>
+<stream_url><![CDATA[http://streamcloud.eu/efjvor2wvhuv]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+
+ 
+ 
+ 
  
  
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision.xml]]></prev_page_url>
