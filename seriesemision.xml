@@ -699,6 +699,16 @@
 
 
  <channel>       
+<title><![CDATA[Matar al padre T1]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/matar-al-padre_4wnjelqkfqr2018-05-24.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/matarpadre.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ 
+ 
+ <channel>       
 <title><![CDATA[Mentes Criminales: Sin Fronteras T2]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="http://i.picasion.com/pic87/43bc1de3fe01687a187af6dd16221a99.gif">]]></description>
