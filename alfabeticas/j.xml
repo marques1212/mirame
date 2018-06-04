@@ -1562,16 +1562,16 @@
 </channel>
 
 
-<channel>
-<title><![CDATA[ Jurassic World]]></title>
+	<channel>
+<title><![CDATA[Jurassic World]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>>
 <buffer_kb>30000</buffer_kb>
 <video_type>http</video_type>
 <stream_url><![CDATA[https://archive.org/download/images_20170624_1106/Ju2ra5ssi8cW4or6ld.mp4]]></stream_url>
-    
-<thumbnail>http://pics.filmaffinity.com/jurassic_world-330260664-large.jpg</thumbnail>
-<description>http://pics.filmaffinity.com/jurassic_world-330260664-large.jpg</description>
+<thumbnail>http://i.picasion.com/pic87/cd54fb78efe698703fce63b374e76455.gif</thumbnail>
+<description>http://i.picasion.com/pic87/cd54fb78efe698703fce63b374e76455.gif</description>
 </channel>
+	
 
 
 <channel>
