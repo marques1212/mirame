@@ -1569,7 +1569,13 @@
 <buffer_kb>30000</buffer_kb>
  </channel>  
  
- 
+ <channel>
+<title><![CDATA[Capitulo 274 04-06]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_5bf139354ad891ab252624f24810d2a2.jpg" />]]></description>
+<stream_url><![CDATA[http://hlsvod.lvlt.rtve.es/resources/TE_NGVA/mp4/6/0/1528128048606.mp4/playlist.m3u8]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+ </channel>  
  
  
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision.xml]]></prev_page_url>
