@@ -448,6 +448,18 @@
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
 </channel> 
+ 
+<channel> 
+<title><![CDATA[Cuba]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="" />]]></description> 
+<stream_url><![CDATA[http://hlsvod.lvlt.rtve.es/resources/TE_GL13/mp4/4/9/1528413829294.mp4/playlist.m3u8]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel> 
+  
+  
+  
   
  <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/programastv/menuprogramastv.xml]]></prev_page_url> 
