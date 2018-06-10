@@ -83,13 +83,7 @@
  
  
  
- <channel>      
-<title><![CDATA[ Apaches - T1]]></title> 
-<logo_30x30></logo_30x30> 
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/apaches-tv_qqn0iv6swxv2017-09-13.jpg" />]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/Apaches%20-%20Temporada%201.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
+ 
 
 
  <channel>       
@@ -1158,6 +1152,16 @@
 <playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/Twin%20Peakst3.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
+ 
+ <channel>       
+<title><![CDATA[Ultima oportunidad T1]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/versailles_qhviujg2o202016-05-19.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/ultimaoportunidad.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ 
  
    <channel>      
 <title><![CDATA[Velvet Colecci0n]]></title> 
