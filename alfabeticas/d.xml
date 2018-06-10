@@ -8104,12 +8104,11 @@
 <description><![CDATA[<img src="http://i.picasion.com/pic87/d52019ae702b53216b4258c78e453ae6.gif" />]]>George Webber, famoso compositor de canciones romanticas, esta empezando a cansarse  de la relacion con su novia. Pero una circunstancia inesperada le ayudara a resolver el problema de modo fulminante: se cruza en la calle con una joven vestida de novia que lo deja absolutamente fascinado; tanto es asi que, aun sabiendo que esta casada, no parara hasta averiguar dónde pasara la luna de miel.</description>
 <logo_30x30><![CDATA[]]></logo_30x30>
 </channel>
-	
-	
-	
-	
- <next_page_url text="Favoritos"><![CDATA[nStreamFavorites.xml]]></next_page_url>
-<prev_page_url text="Atras"><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/peliculasalfabeticas.xml]]></prev_page_url>
 
-</items>   
-    
+
+
+ <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
+<prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/peliculasalfabeticas.xml]]></prev_page_url>
+
+</items>
+	
