@@ -37,33 +37,8 @@
 <buffer_kb>30000</buffer_kb>
  </channel>
  
- 
- <channel>       
-<title><![CDATA[Acara perro T1]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/a-cara-de-perro_e31tptosf522017-07-20.jpg">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/acaraperro.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
- </channel>
- 
 
  
- 
- <channel>      
-<title><![CDATA[ American Gods T1]]></title> 
-<logo_30x30></logo_30x30> 
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/american-gods_q132xcw9nn02017-05-08.jpg" />]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/American%20GodsT1.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
-
- <channel>      
-<title><![CDATA[ Amigos de la universidad T1]]></title> 
-<logo_30x30></logo_30x30> 
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/amigos-de-la-universidad_fpr927acw3r2017-07-14.jpg" />]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/amigosuniversidad.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
  
   <channel>      
 <title><![CDATA[ Anatonomia de grey T14]]></title> 
@@ -120,13 +95,7 @@
 <buffer_kb>30000</buffer_kb>
  </channel>
 
- <channel>       
-<title><![CDATA[Big Little Lies T1]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/big-little-lies_8ktjic6bfm02017-02-20.jpg">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/big.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
- </channel>
+ 
  
  
  
@@ -300,13 +269,6 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
 
- <channel>      
-<title><![CDATA[ El bosque T1]]></title> 
-<logo_30x30></logo_30x30> 
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/el-bosque-the-forest_00ngyctwq1f2017-10-11.jpg" />]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/elbosque.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
  
  
 <channel>      
@@ -358,13 +320,7 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
- <channel>      
-<title><![CDATA[ El secreto de Puente viejo  T1]]></title> 
-<logo_30x30></logo_30x30> 
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/el-secreto-de-puente-viejo_qq7jbcdk2gt2016-08-08.jpg" />]]>Serie de TV (2017-Actualidad). La serie sigue a Inger Johanne Vik, una psicÃ³loga y criminÃ³loga que ha trabajado en el FBI y para la policÃ­a nacional sueca. Se ve involucrada en la investigaciÃ³n de una serie de asesinatos ocurridos en toda Suecia para proteger a su hija con autismo Stina, que ha sido testigo del primero de ellos. En Nochebuena la obispo Elisabeth Lindgren es asesinada en Uppsala, y la policÃ­a nacional envÃ­a al detective Ingvar Nyman </description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/puente%20viejo.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
+ 
 
  
 
@@ -441,33 +397,6 @@
 <playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/fugitiva.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
- 
-
-<channel>       
-<title><![CDATA[Genius T1]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/genius_qq53jff9uls2017-04-25.jpg">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/seriesemision/Genius%20T1.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
-
- <channel>       
-<title><![CDATA[Guerrilla T1]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="http://gnula.se/img/portada/170x243/guerrilla_m3lxein7ki62017-04-14.jpg">Guerrilla es una historia de amor ambientada en una de las Ã©pocas mÃ¡s convulsas y agitadas polÃ­ticamente dentro de la historia reciente del Reino Unido. Ambientada en la dÃ©cada de los 70, la serie sigue a una pareja activista polÃ­tica cuya relaciÃ³n, estabilidad y valores se ponen a prueba tras la liberaciÃ³n de un importante preso polÃ­tico que, despuÃ©s de ser liberado, funda una cÃ©lula radical clandestina en el Londres de la Ã©poca con el objetivo de luchar por los derechos de los negros.]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/guerrilas1.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
-
-<channel>       
-<title><![CDATA[Guilt T1]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/guilt_5syrduxts1h2016-07-21.jpg">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/guilt.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
- 
- 
  
  <channel>       
 <title><![CDATA[Hawai 5.0 T8]]></title>
@@ -605,16 +534,6 @@
 <buffer_kb>30000</buffer_kb>
  </channel>
  
- 
- <channel>       
-<title><![CDATA[La travesia T1]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/la-travesia_1x84un5muep2018-03-21.jpg">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/latravesia.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
- </channel>
- 
- 
 
  <channel>       
 <title><![CDATA[La vida secreta de los ninos T2]]></title>
@@ -651,13 +570,7 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
 
- <channel>       
-<title><![CDATA[Legion T1]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/legion_t37wrtqwno02017-02-13.jpg">La ficciÃ³n se centra en David Haller, un hombre que desde que era adolescente ha tenido que luchar contra una enfermadad mental. Su diagnÃ³stico: esquizofrenia. Durante aÃ±os, ha ido entrando y saliendo de diferentes hospitales psiquÃ­atricos para tratarse, pero despuÃ©s de un extraÃ±o encuentro con un paciente, se tiene que enfrentar a la posibilidad de que las voces que escucha en su cabeza y las visiones que ve podrÃ­an ser reales.  ]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/Legion%20Temporada%201.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
+
 
 <channel>      
 <title><![CDATA[ Los 100 T5]]></title> 
@@ -848,13 +761,7 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
-<channel>       
-<title><![CDATA[Room 104 T1]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/room-104_2tfsqg3ea012017-07-29.jpg">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/room104T1.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
+
 
 <channel>       
 <title><![CDATA[Recovery road T1]]></title>
@@ -864,22 +771,10 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
- <channel>       
-<title><![CDATA[Rise T1]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/rise_sx3ig78yxz02018-03-14.jpg">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/rise.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
+ 
 
  
- <channel>       
-<title><![CDATA[Riviera T1]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="http://i.picasion.com/pic87/6c5656cba25cf2ec66ebd7a00216d688.gif">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/riviera.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
+ 
  
 <channel>       
 <title><![CDATA[Station 19 T1]]></title>
