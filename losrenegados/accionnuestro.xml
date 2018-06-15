@@ -1605,19 +1605,9 @@ Inspirada en hechos reales, “Hyena Road” es un film situado en el corazon de
 <description><![CDATA[<img src="http://hdfull.tv/tthumb/172x256/movie_f1099278591bd6e28ab53197a6f35619.jpg" />]]>Cuando se produce un ataque contra el cuartel general de Kingsman y un nuevo villano se levanta, Eggsy y Merlin se ven obligados a trabajar junto con la agencia americana conocida como el Statesman para salvar al mundo.</description>
 </channel>
 	
-
-					<channel>
-<title><![CDATA[Detroit 2017]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<video_type>http</video_type>
-<buffer_kb>30000</buffer_kb>
-<stream_url><![CDATA[http://streamcloud.eu/5r7oqgb2x4fm]]></stream_url>
-<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x256/movie_209de2c798166cabdc36f32fd74c4ba6.jpg" />]]>En el verano de 1967, la policia lleva a cabo una redada en el Motel Algiers, en 12th Street Riot. Esta incursion policial contra la poblacion negra acabo con la muerte de tres hombres afroamericanos, mientras que otros siete recibieron brutales golpes, asi como dos mujeres blancas. Estos sucesos desencadenaron unos violentos disturbios raciales que asolaron la ciudad norteamericana de Detroit y acabaron con 43 muertos y multiples danos materiales. Fue uno de las levantamientos ciudadanos mas grandes en la historia de Estados Unidos.</description>
-</channel>
 	
 	
-	
-				<channel>
+	<channel>
 <title><![CDATA[6 Days 2017]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <video_type>http</video_type>
@@ -1627,13 +1617,23 @@ Inspirada en hechos reales, “Hyena Road” es un film situado en el corazon de
 </channel>	
 	
 
+	<channel>
+<title><![CDATA[Detroit 2017]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+<stream_url><![CDATA[https://archive.org/download/images_20170624_1106/de3tr3oi.mkv.mp4]]></stream_url>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x256/movie_209de2c798166cabdc36f32fd74c4ba6.jpg" />]]>En el verano de 1967, la policia lleva a cabo una redada en el Motel Algiers, en 12th Street Riot. Esta incursion policial contra la poblacion negra acabo con la muerte de tres hombres afroamericanos, mientras que otros siete recibieron brutales golpes, asi como dos mujeres blancas. Estos sucesos desencadenaron unos violentos disturbios raciales que asolaron la ciudad norteamericana de Detroit y acabaron con 43 muertos y multiples danos materiales. Fue uno de las levantamientos ciudadanos mas grandes en la historia de Estados Unidos.</description>
+</channel>
+	
+	
 	
 		<channel>
 <title><![CDATA[Desarmado (Decommissioned) 2016]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
-<stream_url><![CDATA[http://streamcloud.eu/h0o95div2yyl/De2co5mm7is6si8oned.mkv.html]]></stream_url>
+<stream_url><![CDATA[https://archive.org/download/images_20170624_1106/De2sa2rm2ado.avi.mp4]]></stream_url>
 <description><![CDATA[<img src="https://pics.filmaffinity.com/decommissioned-773345474-mmed.jpg" />]]>ohnn Niles, ex agente de la CIA descubre que su familia ha sido secuestrada. La condicion que le exigen para su liberación es siniestra: ha de asesinar al presidente de los Estados Unidos.</description>
 </channel>
 	
