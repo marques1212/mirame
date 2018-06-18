@@ -929,6 +929,15 @@
 <playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/TheSinner.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
+
+ <channel>       
+<title><![CDATA[The Rain T1]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/the-rain_hkio7w1dg5z2018-05-03.jpg"> ]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/rain.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
  
 <channel>       
 <title><![CDATA[The Terror T1]]></title>
