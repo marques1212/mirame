@@ -594,6 +594,16 @@
  </channel>
  
  <channel>       
+<title><![CDATA[el tirador t2]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic87/449e361697b76871da26ccdcf9e7868a.gif">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriescompletas/eltirador.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+ </channel>
+ 
+ 
+ 
+ <channel>       
 <title><![CDATA[expediente x  t1,10]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="https://gnula.se/img/portada/170x243/expediente-x_b4yk0t8dz312016-03-24.jpg"/>]]></description>
