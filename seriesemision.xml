@@ -899,6 +899,18 @@
 <playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/theblacklist.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
+
+ 
+ <channel>       
+<title><![CDATA[The Good doctor t1]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/the-good-doctor_lw6p1i0znhb2017-09-27.jpg"/>]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/doctor.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ 
+ 
  
 <channel>       
 <title><![CDATA[The Resident t1]]></title>
