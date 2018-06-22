@@ -487,6 +487,17 @@
 <buffer_kb>30000</buffer_kb>
 </channel> 
  
+  
+  <channel>       
+<title><![CDATA[El cuento de la criada T1]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic87/0d9dc84157e8121e167d098da28bc15c.gif">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriescompletas/ElcuentodelaCriada.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel> 
+ 
+ 
+ 
  
  
 
