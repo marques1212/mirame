@@ -12,7 +12,89 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
 
+ <channel>
+<title><![CDATA[Capitulo 2x02]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic87/0d9dc84157e8121e167d098da28bc15c.gif"/>]]></description>
+<stream_url><![CDATA[https://archive.org/download/ELE6X02/CntCrd2x02Mkv.mp4]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ 
+ <channel>
+<title><![CDATA[Capitulo 2x03]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic87/0d9dc84157e8121e167d098da28bc15c.gif"/>]]></description>
+<stream_url><![CDATA[https://archive.org/download/ELE6X02/CntCrd2x03Mkv.mp4]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ 
+ <channel>
+<title><![CDATA[Capitulo 2x04]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic87/0d9dc84157e8121e167d098da28bc15c.gif"/>]]></description>
+<stream_url><![CDATA[https://archive.org/download/ELE6X02/CntCrd2x04Mkv.mp4]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ 
+ <channel>
+<title><![CDATA[Capitulo 2x05]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic87/0d9dc84157e8121e167d098da28bc15c.gif"/>]]></description>
+<stream_url><![CDATA[https://archive.org/download/ELE6X02/CntCrd2x05Mkv.mp4]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
 
+ <channel>
+<title><![CDATA[Capitulo 2x06]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic87/0d9dc84157e8121e167d098da28bc15c.gif"/>]]></description>
+<stream_url><![CDATA[https://archive.org/download/ELE6X02/CntCrd2x06Mkv.mp4]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ 
+ 
+ <channel>
+<title><![CDATA[Capitulo 2x07]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic87/0d9dc84157e8121e167d098da28bc15c.gif"/>]]></description>
+<stream_url><![CDATA[https://archive.org/download/ELE6X02/CntCrd2x07Mkv.mp4]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ 
+ 
+ <channel>
+<title><![CDATA[Capitulo 2x08]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic87/0d9dc84157e8121e167d098da28bc15c.gif"/>]]></description>
+<stream_url><![CDATA[https://archive.org/download/ELE6X02/CntCrd2x08Mkv.mp4]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ 
+ <channel>
+<title><![CDATA[Capitulo 2x09]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic87/0d9dc84157e8121e167d098da28bc15c.gif"/>]]></description>
+<stream_url><![CDATA[https://archive.org/download/ELE6X02/CntCrd2x09Mkv.mp4]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ 
+ 
+ <channel>
+<title><![CDATA[Capitulo 2x10]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic87/0d9dc84157e8121e167d098da28bc15c.gif"/>]]></description>
+<stream_url><![CDATA[https://archive.org/download/ELE6X02/CntCrd2x10Mkv.mp4]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
 
  
 <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
