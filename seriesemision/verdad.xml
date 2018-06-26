@@ -38,7 +38,13 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
- 
+ <channel>
+<title><![CDATA[Capitulo 1x05]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/la-verdad_xxkhngq7xdz2018-05-21.jpg"/>]]></description>
+<stream_url><![CDATA[https://miteleooyala-vh.akamaihd.net/i/lmaDRsZjE63S-LHH_CG9Hrl3Q_8uUUKc/,DOcJ-FxaFrRg4gtDEwOm84OjBrOz0bxa,DOcJ-FxaFrRg4gtDEwOjEwYjowODE7je,DOcJ-FxaFrRg4gtDEwOjFsaTowODE7WX,DOcJ-FxaFrRg4gtDEwOjJjcTowODE7R4,.csmil/master.m3u8?hdnea=st=1530052874~exp=1530058274~acl=/i/lmaDRsZjE63S-LHH_CG9Hrl3Q_8uUUKc/,DOcJ-FxaFrRg4gtDEwOm84OjBrOz0bxa,DOcJ-FxaFrRg4gtDEwOjEwYjowODE7je,DOcJ-FxaFrRg4gtDEwOjFsaTowODE7WX,DOcJ-FxaFrRg4gtDEwOjJjcTowODE7R4,.csmil/*~hmac=d3a19af99b30ca4073937deb40edaadd207c579bff6fa8dc93f61cdf84263890]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
  
  
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision.xml]]></prev_page_url>
