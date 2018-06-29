@@ -84,7 +84,13 @@
  </channel>
 
  
- 
+  <channel>       
+<title><![CDATA[pocoyo]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic87/5f0089f4973bd9d86abf99d42381a0d4.gif">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/series%20infantiles/pocoyo.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+ </channel>
  
  
  
