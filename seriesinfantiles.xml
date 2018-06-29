@@ -75,6 +75,17 @@
  </channel>
  
  
+  <channel>       
+<title><![CDATA[mickey mouse]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic87/ab8b1ed7eddb801bf83df6e01da92ac0.gif">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/series%20infantiles/mickeymouse.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+ </channel>
+
+ 
+ 
+ 
  
  
  <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
