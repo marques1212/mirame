@@ -77,22 +77,7 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
   
-  <channel>       
-<title><![CDATA[Ellas]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="http://www.rtve.es/alacarta/videos/ellas/">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/programastv/Ellas.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
-  
-   <channel>       
-<title><![CDATA[Pura magia]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="http://img.rtve.es/p/109370/?w=160&h=90&imgProgApi=logo">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/programastv/Pura%20magia.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
-  
+ 
    <channel>       
 <title><![CDATA[Asturias Al Limite]]></title>
 <logo_30x30></logo_30x30>
@@ -117,15 +102,6 @@
 <buffer_kb>30000</buffer_kb>
 </channel>  
   
-  
-   <channel>       
-<title><![CDATA[Fantastic Duo T1]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_e8e68cbcd13c007c639398bbed27c7ca.jpg">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/programastv/Fantastic%20Duo%20T1.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>  
-
   
   
    <channel>       
@@ -154,13 +130,6 @@
 </channel>   
    
   
-  <channel>       
-<title><![CDATA[equipo de investigacion]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="http://i.picasion.com/pic87/9a3b29498f7f3acbab8bf12945933822.gif">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/programastv/equipodeinvestigacion.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>   
   
   
   
