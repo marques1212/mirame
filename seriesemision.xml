@@ -85,18 +85,6 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
-  
-
-<channel>       
-<title><![CDATA[Beyond T1]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/beyond-_71uw16s8pfl2017-06-30.jpg">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/beyondT1.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
- </channel>
-
- 
- 
  
  
   <channel>       
@@ -535,17 +523,6 @@
 <buffer_kb>30000</buffer_kb>
  </channel>
  
- 
- 
-  
-
-  <channel>      
-<title><![CDATA[Le Bureau des LÃ©gendes T3]]></title> 
-<logo_30x30></logo_30x30> 
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/le-bureau-des-legendes_j1t2erzg9lg2016-08-09.jpg" />]]>En el seno de la DGSE (DirecciÃ³n General de la Seguridad Exterior) francesa existe un departamento, Le Bureau des LÃ©gendes (La oficina de los encubiertos) que controla a los agentes infiltrados que trabajan de forma encubierta en todo el mundo para defender los intereses franceses. El retorno a la oficina central de Paris de Malotru, un agente que ha trabajado infiltrado seis aÃ±os en Siria y Jordania, no es todo lo placentera que se esperaba. Le serÃ¡ difÃ­cil adaptarse a la vida en abierto, lo que se complica.</description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/Le%20Bureau%20des%20L%C3%A9gendes.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
 
 
 
@@ -617,14 +594,7 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
-  <channel>      
-<title><![CDATA[Modus T1]]></title> 
-<logo_30x30></logo_30x30> 
-<description><![CDATA[<img src="http://gnula.se/img/portada/170x243/modus_wgxza4t6vhh2017-04-18.jpg" />]]>Serie de TV (2017-Actualidad). La serie sigue a Inger Johanne Vik, una psicÃ³loga y criminÃ³loga que ha trabajado en el FBI y para la policÃ­a nacional sueca. Se ve involucrada en la investigaciÃ³n de una serie de asesinatos ocurridos en toda Suecia para proteger a su hija con autismo Stina, que ha sido testigo del primero de ellos. En Nochebuena la obispo Elisabeth Lindgren es asesinada en Uppsala, y la policÃ­a nacional envÃ­a al detective Ingvar Nyman </description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/Modus%20T1%2CXML]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
-
+ 
   <channel>      
 <title><![CDATA[ Morir de pie T2]]></title> 
 <logo_30x30></logo_30x30> 
@@ -633,13 +603,7 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
- <channel>      
-<title><![CDATA[ Monster allergy T1]]></title> 
-<logo_30x30></logo_30x30> 
-<description><![CDATA[<img src="http://i.picasion.com/pic87/a55a9bd2723512198cd2ed15d5c686f9.gif" />]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/monster.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
+ 
  
 <channel>      
 <title><![CDATA[ Narcos T3]]></title> 
@@ -658,16 +622,6 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
 
-
-
-<channel>       
-<title><![CDATA[Oficina de infiltrados T3]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="http://i.picasion.com/pic87/6829b65658d5c13916f771f1268acf02.gif">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/oficinainfiltrados.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
- 
 <channel>       
 <title><![CDATA[Outlander T3]]></title>
 <logo_30x30></logo_30x30>
@@ -678,13 +632,7 @@
  
 
 
-   <channel>      
-<title><![CDATA[Paraiso T1]]></title> 
-<logo_30x30></logo_30x30> 
-<description><![CDATA[<img src="http://i.picasion.com/pic87/55b83ce8536f057732017c34f8aedf5d.gif" />]]>Michelle, una corista de Las Vegas, se casa de forma repentina, trasladÃ¡ndose a una tranquila ciudad costera donde termina trabajando junto a su nueva suegra en su escuela de danza.  </description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/ParaisoT1.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
+   
 
   <channel>      
 <title><![CDATA[Perdoname senor T1]]></title> 
@@ -739,20 +687,6 @@
 </channel>
  
 
-
-<channel>       
-<title><![CDATA[Recovery road T1]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/recovery-road_8f48bn58xcm2016-03-24.jpg">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/recoveryroad.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
- 
- 
-
- 
- 
- 
 <channel>       
 <title><![CDATA[Station 19 T1]]></title>
 <logo_30x30></logo_30x30>
@@ -809,13 +743,7 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
 
-<channel>       
-<title><![CDATA[Snowfall T1]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/snowfall_4rq7itbapac2017-07-14.jpg">Scorpion es una serie de television estadounidense transmitida por CBS que se estreno en el 2014. Se basa en la vida del autoproclamado genio y experto en ordenadores Walter O'Brien. En la serie O'Brien y sus amigos genios se ayudan entre ellos para resolver amenazas globales y salvar vidas.  ]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/snowfall.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
+
  
  <channel>       
 <title><![CDATA[Servir y proteger T1]]></title>
@@ -857,13 +785,7 @@
 <buffer_kb>30000</buffer_kb>
 </channel> 
  
-<channel>       
-<title><![CDATA[Trust T1]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/trust_6j2b3lf42a22018-03-26.jpg"> ]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/trust.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel> 
+
  
 
  <channel>       
@@ -904,13 +826,7 @@
 
  
  
- <channel>       
-<title><![CDATA[The Looming Tower T1]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/the-looming-tower_9pxkor9twbf2018-03-01.jpg"> ]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/lomingtower.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
+ 
  
  <channel>       
 <title><![CDATA[The Sinner T1]]></title>
@@ -920,13 +836,7 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
 
- <channel>       
-<title><![CDATA[The Rain T1]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/the-rain_hkio7w1dg5z2018-05-03.jpg"> ]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/rain.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
+
  
  
 <channel>       
@@ -946,13 +856,6 @@
 </channel>
 
 
-<channel>       
-<title><![CDATA[Teen Wolf T1]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/teen-wolf_gsudj6lhfmt2016-03-24.jpg">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/teenwolf.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
 
  
  <channel>       
@@ -963,16 +866,7 @@
 <buffer_kb>30000</buffer_kb>
  </channel>
  
-  
  
- 
-  <channel>       
-<title><![CDATA[The Good Fight T1]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/the-good-fight_9eqyy8hc1j02017-02-20.jpg">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/The%20Good%20Fight%20T1.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
 
 <channel>       
 <title><![CDATA[The Walking Dead T8]]></title>
