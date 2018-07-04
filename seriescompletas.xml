@@ -145,14 +145,7 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
- <channel>       
-<title><![CDATA[APB T1 - Idioma Dual]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="http://i.picasion.com/pic87/1b97fcb99745deabaf6cdd58b03e0647.gif">DespuÃ©s de haber presenciado un crimen violento, un multimillonario tecnolÃ³gico compra una comisarÃ­a policial en problemas, reiniciÃ¡ndola como una fuerza de policÃ­a privada.  ]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriescompletas/apb%20T1.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
-
+ 
  <channel>       
 <title><![CDATA[Aqui no hay quien viva ]]></title>
 <logo_30x30></logo_30x30>
@@ -170,7 +163,7 @@
 </channel> 
  
  <channel>       
-<title><![CDATA[Arrow T1 a T4]]></title>
+<title><![CDATA[Arrow T1 a T5]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="https://gnula.se/img/portada/170x243/arrow_9d1280qvfnn2016-03-25.jpg">]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriescompletas/Arrow.xml]]></playlist_url>
