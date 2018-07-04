@@ -139,13 +139,7 @@
  
 
 
- <channel>      
-<title><![CDATA[ Casual T4]]></title> 
-<logo_30x30></logo_30x30> 
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/casual_l1i3zghhioq2016-03-24.jpg" />]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/Casualt3.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
+ 
 
 <channel>      
 <title><![CDATA[ Candice Renoir T5]]></title> 
@@ -988,19 +982,6 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
- 
- 
- 
- 
- <channel>      
-<title><![CDATA[ The Leftovers T3]]></title> 
-<logo_30x30></logo_30x30> 
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/the-leftovers_hdbk679cv5r2016-03-24.jpg" />]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/The%20LeftoversT3.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
- 
-
  
  <channel>       
 <title><![CDATA[The Ranch T2]]></title>
