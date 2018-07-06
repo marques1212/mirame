@@ -696,7 +696,7 @@
 <stream_url><![CDATA[https://archive.org/download/Pesadi6x01/Pes6x09.mp4]]></stream_url>
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
-</channel
+  </channel>
   
   
   <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
