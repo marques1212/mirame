@@ -83,7 +83,13 @@
 </channel>
  
  
- 
+ <channel>
+<title><![CDATA[Gran Bretaña 2018]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic87/922be73fe86859e979a82008802a5d8d.gif"/>]]>Clasificacion 1ºSebastian Vettel 2ºLewis Hamilton 3ºKimi Raikkonen.</description>
+<stream_url><![CDATA[http://streamcloud.eu/kwitv15709mv/F0rmvl2.0n3.2018.Gp.Austr.mkv.html]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
  
  
  
