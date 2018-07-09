@@ -39,7 +39,28 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
 
-
+<channel> 
+<title><![CDATA[Bailas]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://img.rtve.es/imagenes/viaje-centro-tele-cinco-temazos-trilogia-2/1500587142076.JPG" />]]>Viaje a través del archivo de TVE, en el que podemos ver los cambios ocurridos en la sociedad española.</description> 
+<stream_url><![CDATA[http://hlsvod.lvlt.rtve.es/resources/TE_NGVA/mp4/9/7/1530824602079.mp4/playlist.m3u8]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+  
+<channel> 
+<title><![CDATA[Bailas 2º parte]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://img.rtve.es/imagenes/viaje-centro-tele-cinco-temazos-trilogia-2/1500587142076.JPG" />]]>Viaje a través del archivo de TVE, en el que podemos ver los cambios ocurridos en la sociedad española.</description> 
+<stream_url><![CDATA[http://hlsvod.lvlt.rtve.es/resources/TE_NGVA/mp4/9/7/1530824602079.mp4/playlist.m3u8]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+  
+  
+  
+  
+  
 
  <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/programastv/menuprogramastv.xml]]></prev_page_url> 
