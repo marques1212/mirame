@@ -1779,7 +1779,13 @@
 <buffer_kb>30000</buffer_kb>
  </channel>
  
- 
+ <channel>
+<title><![CDATA[Capitulo 300 10-07]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_5bf139354ad891ab252624f24810d2a2.jpg" />]]></description>
+<stream_url><![CDATA[http://hlsvod2018iosb.akamaized.net/remotemanifest/scripts/resources/TE_NGVA/mp4/4/1/1531239489014.mp4/manifest.ism/video.m3u8?hls_no_audio_only=true&hls_client_manifest_version=4&hls_minimum_fragment_length=6]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+ </channel>
  
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision.xml]]></prev_page_url>
 
