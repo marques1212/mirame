@@ -698,6 +698,18 @@
 <buffer_kb>30000</buffer_kb>
   </channel>
   
+<channel> 
+<title><![CDATA[6x10]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_5078e090ad5780466d0e832f33519928.jpg" />]]>MasterChef es un programa de televisión gastronómico español que busca al mejor cocinero amateur de España. El formato está basado en un espacio de televisión británico de cocina con el mismo título. Televisión Española produce el programa en colaboración con Shine Iberia. Se estrenó en La 1 el 10 de abril de 2013. El reality está conducido por Eva González, mientras que Jordi Cruz, Samantha Vallejo-Nágera y Pepe Rodríguez son los chefs que juzgan los platos de los aspirantes </description> 
+<stream_url><![CDATA[https://geovod.antena3.com/vcg/_definst_/assets5/2018/07/06/5ABC8BC6-5ECA-4E50-B8BA-A0331BD63D94/hls.smil/playlist.m3u8?pulse=assets5%2F2018%2F07%2F06%2F5ABC8BC6-5ECA-4E50-B8BA-A0331BD63D94%2F%7C1531361806%7C8c83c84b9636e7b0bdcbc3db3d61f8f7]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+  </channel>
+  
+  
+  
+  
   
   <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/programastv/menuprogramastv.xml]]></prev_page_url> 
