@@ -392,6 +392,14 @@
 </channel>
  
  
+ <channel>
+<title><![CDATA[otro documento]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://www.caratulasdecine.com/Caratulas9/amy-lachicadetrasdelnombre.jpg" />]]></description>
+<stream_url><![CDATA[http://hlsvod.lvlt.rtve.es/resources/TE_NGVA/mp4/2/4/1526426446042.mp4/playlist.m3u8]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
  
  
  
