@@ -3239,15 +3239,6 @@ era yo"</description>
 
 	
 
-	<channel>
-<title><![CDATA[brava 2017]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="https://pics.filmaffinity.com/brava-470456718-mmed.jpg "/>]]>La vida de Janine parece ir bien hasta que sufre un asalto en el metro y todo se desmorona. Tratando de huir de su tormento interior, escapa al pueblo donde ahora vive su padre intentando ocultar sus heridas. Sin embargo, alli, lejos de encontrar la paz, se acercará a su lado más oscuro.</description>
-<stream_url><![CDATA[http://streamcloud.eu/p9bnyjykrow7/Bra11va.mkv.html]]></stream_url>
-<video_type>http</video_type>
-<buffer_kb>30000</buffer_kb>
-</channel> 
-	
 
 		<channel> 
 <title><![CDATA[Handia 2017]]></title>
@@ -3340,13 +3331,23 @@ era yo"</description>
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
 </channel>
-	
 
 	
 	
 	
 	
 	
+
+	<channel>
+<title><![CDATA[brava 2017]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/brava-470456718-mmed.jpg "/>]]>La vida de Janine parece ir bien hasta que sufre un asalto en el metro y todo se desmorona. Tratando de huir de su tormento interior, escapa al pueblo donde ahora vive su padre intentando ocultar sus heridas. Sin embargo, alli, lejos de encontrar la paz, se acercará a su lado más oscuro.</description>
+<stream_url><![CDATA[https://archive.org/download/Ver5x08M720pMkv/Bra9va.mp4 ]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel> 
+	
+
 
 	
 	<channel> 
