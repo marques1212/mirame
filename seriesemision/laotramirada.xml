@@ -85,7 +85,13 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
- 
+ <channel>
+<title><![CDATA[1x11 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic87/1395cd2012036cb558b948caed435bb6.gif" />]]>Historia de mujeres valientes en una academia para senoritas en la sevilla de los anos 20 un centro de ensenanza aferrado a las tradiciones propias de una capital en la epoca de entreguerras.</description>
+<stream_url><![CDATA[http://hlsvod.lvlt.rtve.es/resources/TE_NGVA/mp4/8/3/1531350348838.mp4/playlist.m3u8]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
  
  
  
