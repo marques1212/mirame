@@ -53,6 +53,19 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
+ <channel>
+<title><![CDATA[1x07 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic87/af4c245de05ed2ce4800e0338880c1d8.gif" />]]>La ciudad de Barcelona se encuentra en su momento de mayor prosperidad, ha crecido hacia la Ribera, El Barrio de los pescadores, cuyos habitantes deciden construir, con el dinero de unos y el esfuerzo de otros, el mayor templo mariano jamas conocido: Santa Maria de la Mar. Una construccion que es paralela a la historia de Arnau, un siervo de la tierra que huye de los abusos de su senor feudal y se refugia en la capital condal, donde se convierte en ciudadano y, con ello, en un hombre libre. El joven Arnau trabaja como palafrenero, estibador, soldado y cambista. Una vida extenuante, siempre al amparo de la catedral del Mar, que le iba a llevar de la miseria del fugitivo a la nobleza y la riqueza. Pero con esta posicion privilegiada tambien le llega envidia de sus pares, que urden una sordida conjura que pone su vida en manos de la Inquisicion.</description>
+<stream_url><![CDATA[https://geovod.antena3.com/vcg/_definst_/assets5/2018/07/06/BD86D3BB-832D-430F-BC75-FA206D5848D2/hls.smil/playlist.m3u8?pulse=assets5%2F2018%2F07%2F06%2FBD86D3BB-832D-430F-BC75-FA206D5848D2%2F%7C1531364555%7Cd1a47ec39c202bd0c14168902ad87b3f]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ 
+ 
+ 
+ 
+ 
  
 <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision.xml]]></prev_page_url>
