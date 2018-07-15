@@ -626,48 +626,17 @@
 </channel>
 	
 
-<playlist_name>Trollhunters >> Temporada 1 </playlist_name>
-
 
 -<channel>
-
-
--<title>
-
-<![CDATA[1 El elegido: Parte 1]]>
-
-</title>
-
-
--<logo_30x30>
-
-<![CDATA[]]>
-
-</logo_30x30>
-
-
--<description>
-
-<![CDATA[<img src="" />]]>
-
-</description>
-
-
--<stream_url>
-
-<![CDATA[https://lh3.googleusercontent.com/JeegpoketWsz6nj4wwyEPGhtRUmqepEnpdcPKap7EHrIewG5qLZS9bOzdnTV1GVyJ5sKmMbLhcIBgUeCIqfc4x163ATxv1jUI2xPITERTTx1lTW3RUshBDabZXHQig-EUXN1AszAwHpkXBmLEckDr3_rJw0gQc7_0BkI9zy0qs4HZtqc0qn91q5-jmuqrzfmkahzv2-YAoUDjrKqW_wNTJ4cDpKb5IwuJuA2EsNW8WhuBbLZ0uC7Z3M3XwMxupEq6Z8Yt5tybyAkzlueqN8dChEmL1yEdxPXBj5lTlpKxMbi92ajD_hYZl8pIffjf-6SifL6zAIhTFHF2xC0MgwUcjUo9UzHlboqu2vZiW5m-DT_EE8mGwb0UBz1GRgr7C4GnL1ID2zs8PoVCmQFsEld5sLic-GBrHS3U4JKmIwVvIYJBuq5gMOX2wgr9f9taScsDsqKrFhO9W-5WfpXVnjMVgTOBCNVdyBAy9c6NIxdRyFJhfk5StTbYMc_uTBUxsGz7lAvbzOkz4S4j8-gRTk9nmTcDhIGEAJegUQX5fXl2Ax9CUTrEjTv6-KlUXq1xY4O1YnsgN4kAnuY7JuaNeKzEjwA3gVQkhq22vHu7oHZGEn9bI7wUqDv=m22?cpn=uuh62t34p4IWPZ3M&c=WEB&cver=1.20170622]]>
-
-</stream_url>
-
+-<title><![CDATA[1 El elegido: Parte 1]]></title>
+-<logo_30x30><![CDATA[]]></logo_30x30>
+-<description><![CDATA[<img src="" />]]></description>
+-<stream_url><![CDATA[https://lh3.googleusercontent.com/JeegpoketWsz6nj4wwyEPGhtRUmqepEnpdcPKap7EHrIewG5qLZS9bOzdnTV1GVyJ5sKmMbLhcIBgUeCIqfc4x163ATxv1jUI2xPITERTTx1lTW3RUshBDabZXHQig-EUXN1AszAwHpkXBmLEckDr3_rJw0gQc7_0BkI9zy0qs4HZtqc0qn91q5-jmuqrzfmkahzv2-YAoUDjrKqW_wNTJ4cDpKb5IwuJuA2EsNW8WhuBbLZ0uC7Z3M3XwMxupEq6Z8Yt5tybyAkzlueqN8dChEmL1yEdxPXBj5lTlpKxMbi92ajD_hYZl8pIffjf-6SifL6zAIhTFHF2xC0MgwUcjUo9UzHlboqu2vZiW5m-DT_EE8mGwb0UBz1GRgr7C4GnL1ID2zs8PoVCmQFsEld5sLic-GBrHS3U4JKmIwVvIYJBuq5gMOX2wgr9f9taScsDsqKrFhO9W-5WfpXVnjMVgTOBCNVdyBAy9c6NIxdRyFJhfk5StTbYMc_uTBUxsGz7lAvbzOkz4S4j8-gRTk9nmTcDhIGEAJegUQX5fXl2Ax9CUTrEjTv6-KlUXq1xY4O1YnsgN4kAnuY7JuaNeKzEjwA3gVQkhq22vHu7oHZGEn9bI7wUqDv=m22?cpn=uuh62t34p4IWPZ3M&c=WEB&cver=1.20170622]]></stream_url>
 <buffer_kb>20480</buffer_kb>
-
 </channel>
 
 
--<channel>
 
-
--<title>
 
 	
 	
