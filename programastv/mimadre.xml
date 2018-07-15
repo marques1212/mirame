@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<items>
+<playlist_name><![CDATA[Mi madre cocina mejor que la tuya]]></playlist_name>
+  
+<channel> 
+<title><![CDATA[  Capitulo 1]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="" />]]></description> 
+<stream_url><![CDATA[]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+   
+  
+  
+  
+  
+  
+<next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
+<prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/programastv/menuprogramastv.xml]]></prev_page_url> 
+</items>
+  
