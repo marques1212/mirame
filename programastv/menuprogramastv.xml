@@ -35,6 +35,14 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
 
+ <channel>       
+<title><![CDATA[Mi madre cocina mejor que la tuya]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/mi-casa-es-la-tuya_72s36wnfect2017-09-05.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/programastv/mimadre.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel> 
+   
   <channel>       
 <title><![CDATA[Gipsy Kings T4]]></title>
 <logo_30x30></logo_30x30>
