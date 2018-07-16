@@ -48,19 +48,6 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
 
-<channel>      
-<title><![CDATA[ Ansatsu Kyoushitsu T2]]></title> 
-<logo_30x30></logo_30x30> 
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/ansatsu-kyoshitsu_c5e33om1ykn2016-08-09.jpg" />]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/ansatsu.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
- 
- 
- 
- 
-
-
  <channel>       
 <title><![CDATA[Arrow T6]]></title>
 <logo_30x30></logo_30x30>
@@ -378,13 +365,7 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
 
-<channel>       
-<title><![CDATA[Hora punta T1]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://pics.filmaffinity.com/rush_hour_tv_series-755111154-mmed.jpg">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/horapunta.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
- </channel>
+
 
  <channel>       
 <title><![CDATA[House of cards T5]]></title>
@@ -456,12 +437,7 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
- 
- 
- 
- 
- 
- 
+
  <channel>       
 <title><![CDATA[Las chicas del cable T2]]></title>
 <logo_30x30></logo_30x30>
