@@ -4,19 +4,40 @@
 
   
  <channel>
-<title><![CDATA[Tina Turner ]]></title>
+<title><![CDATA[ETBV ]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://media.gettyimages.com/photos/tina-turner-performing-on-stage-at-wembley-stadium-in-london-on-the-picture-id540700940"/>]]>Concierto musical tina Turne Wembley 2000.</description>
-<stream_url><![CDATA[http://streamcloud.eu/wpgt7wjo1i0a/Ti1na_Tur2ner_.mp4.html]]></stream_url>
+<stream_url><![CDATA[http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8]]></stream_url>
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
 </channel>  
   
- 
+ <channel>
+<title><![CDATA[ARAGON TV ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://media.gettyimages.com/photos/tina-turner-performing-on-stage-at-wembley-stadium-in-london-on-the-picture-id540700940"/>]]>Concierto musical tina Turne Wembley 2000.</description>
+<stream_url><![CDATA[http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>  
 
-
+<channel>
+<title><![CDATA[NAVARRA TV ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://media.gettyimages.com/photos/tina-turner-performing-on-stage-at-wembley-stadium-in-london-on-the-picture-id540700940"/>]]>Concierto musical tina Turne Wembley 2000.</description>
+<stream_url><![CDATA[http://live2.nice264.com:1935/niceLiveServer/_definst_/NTV_livenatvmb_MB_478/chunklist_w2047321122.m3u8]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>  
   
-  
+<channel>
+<title><![CDATA[EXTREMADURA TV]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://media.gettyimages.com/photos/tina-turner-performing-on-stage-at-wembley-stadium-in-london-on-the-picture-id540700940"/>]]>Concierto musical tina Turne Wembley 2000.</description>
+<stream_url><![CDATA[http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b264000_DVR.m3u8]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>  
   
   
   
