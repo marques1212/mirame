@@ -496,16 +496,6 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
- 
- 
- <channel>       
-<title><![CDATA[La peluqueria T1]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/la-peluqueria_03s9142k1gp2017-07-03.jpg">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/lapelu.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
- </channel>
- 
 
  <channel>       
 <title><![CDATA[La vida secreta de los ninos T2]]></title>
@@ -659,6 +649,18 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
 
+ <channel>      
+<title><![CDATA[Principe ]]></title> 
+<logo_30x30></logo_30x30> 
+<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/prison-break_iusvs2mad9c2016-03-24.jpg"/>Prison Break, tambiÃ©n conocida como Prison break, en busca de la verdad en HispanoamÃ©rica, fue una serie de televisiÃ³n dramÃ¡tica estadounidense que estrenÃ³ la cadena norteamericana Fox el 29 de agosto de 2005 y terminÃ³ el 24 de mayo de 2009 en su cuarta temporada (los dos episodios finales fueron editados directamente al DVD en EE. UU. el 21 de julio, pero el 24 de mayo fueron estrenados por una televisiÃ³n israelÃ­). La trama de la serie gira en torno a un hombre sentenciado a la pena de muerte y el elaborado plan de su hermano para salvarlo de la misma. Fue creada por Paul Scheuring y producida por Adelstein-Parouse Productions en asociaciÃ³n con Original Television y 20th Century Fox Television. La originalidad y la calidad de la serie la ha hecho merecedora de nominaciones a distintos premios como los Emmy y los Globo de Oro. ]]></description> 
+<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/principe.xml]]></playlist_url>  
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ 
+ 
+ 
+ 
 <channel>      
 <title><![CDATA[Por trece razones T1]]></title> 
 <logo_30x30></logo_30x30> 
