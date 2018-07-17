@@ -49,6 +49,44 @@
 </channel> 
   
   
+<channel>
+<title><![CDATA[TV3]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://media.gettyimages.com/photos/tina-turner-performing-on-stage-at-wembley-stadium-in-london-on-the-picture-id540700940"/>]]>Concierto musical tina Turne Wembley 2000.</description>
+<stream_url><![CDATA[http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel> 
+  
+
+  
+<channel>
+<title><![CDATA[3/24]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://media.gettyimages.com/photos/tina-turner-performing-on-stage-at-wembley-stadium-in-london-on-the-picture-id540700940"/>]]>Concierto musical tina Turne Wembley 2000.</description>
+<stream_url><![CDATA[http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+  
+<channel>
+<title><![CDATA[SEVILLA TV]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://media.gettyimages.com/photos/tina-turner-performing-on-stage-at-wembley-stadium-in-london-on-the-picture-id540700940"/>]]>Concierto musical tina Turne Wembley 2000.</description>
+<stream_url><![CDATA[http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-b.m3u8?sd=10&rebase=on]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+  
+<channel>
+<title><![CDATA[BETIS TV]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://media.gettyimages.com/photos/tina-turner-performing-on-stage-at-wembley-stadium-in-london-on-the-picture-id540700940"/>]]>Concierto musical tina Turne Wembley 2000.</description>
+<stream_url><![CDATA[http://rbetis-hls.flumotion.com/rbetis/live/playlist.m3u8]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+  
   
   
   
