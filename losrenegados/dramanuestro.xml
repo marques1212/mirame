@@ -2980,31 +2980,6 @@
 
 
 
-<channel>
-<title><![CDATA[ Brooklyn 2015 ]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<video_type>http</video_type>
-<buffer_kb>30000</buffer_kb>
-<stream_url><![CDATA[http://streamcloud.eu/ew7c40l7m9vz]]></stream_url>
-<thumbnail>http://pics.filmaffinity.com/brooklyn-433113704-large.jpg</thumbnail>
-<description><![CDATA[<img src="http://pics.filmaffinity.com/brooklyn-433113704-large.jpg" />]]>En los años 50, la joven irlandesa Eilis Lacey decide abandonar Irlanda y viajar a los Estados Unidos, concretamente a Nueva York, donde conoce a Tony, un chico italiano con el que comienza a salir y del que se enamora. Pero, un día, a Eilis le llegan noticias de una triste noticia familiar y tendrá que decidir entre quedarse en su nuevo país o volver a su tierra natal</description>
-</channel>
-	
-<channel>
-<title><![CDATA[ Animales nocturnos 2016 ]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<video_type>http</video_type>
-<buffer_kb>30000</buffer_kb>
-<stream_url><![CDATA[http://streamcloud.eu/3xzit8a3ox6a]]></stream_url>
-<thumbnail>http://pics.filmaffinity.com/nocturnal_animals-883173584-large.jpg</thumbnail>
-<description><![CDATA[<img src="http://pics.filmaffinity.com/nocturnal_animals-883173584-large.jpg" />]]>Susan Morrow (Amy Adams) es una galerista afincada en Los Angeles que comparte una vida privilegiada, aunque vacia, con Hutton Morrow (Armie Hammer), su segundo marido. Un dia Susan recibe una novela escrita por su exmarido Edward Sheffield (Jake Gyllenhaal), del que lleva anos sin tener noticias. En una nota le pide que lea la novela inedita y que se ponga en contacto con el, pues se quedara unos dias en la ciudad. Es de noche. Susan, sola en la cama, empieza a leer, y es la historia de un matrimonio con una hija que conduciendo por Texas por la noche son perseguidos por otro vehiculo.</description>
-</channel>
-
-	
-
-
-
-
 	<channel> 
 <title><![CDATA[Robada al nacer 2017]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
@@ -3067,12 +3042,20 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
 
-
+	
+	
+<channel>
+<title><![CDATA[ Brooklyn 2015 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+<stream_url><![CDATA[https://archive.org/download/antonio7443_hotmail_11/Br0880klyn.mp4]]></stream_url>
+<thumbnail>http://pics.filmaffinity.com/brooklyn-433113704-large.jpg</thumbnail>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/brooklyn-433113704-large.jpg" />]]>En los años 50, la joven irlandesa Eilis Lacey decide abandonar Irlanda y viajar a los Estados Unidos, concretamente a Nueva York, donde conoce a Tony, un chico italiano con el que comienza a salir y del que se enamora. Pero, un día, a Eilis le llegan noticias de una triste noticia familiar y tendrá que decidir entre quedarse en su nuevo país o volver a su tierra natal</description>
+</channel>
 	
 
-	
-	
-	
+		
 	
 	<channel>
 <title><![CDATA[ Atracadores 2015 ]]></title>
