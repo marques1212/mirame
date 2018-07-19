@@ -391,6 +391,20 @@
 <buffer_kb>30000</buffer_kb>
  </channel>
  
+ 
+  <channel>       
+<title><![CDATA[izombie T4]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic87/0c5542e21270e315e4a2d9c3a4a51e51.gif">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/izombie.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+ </channel>
+ 
+ 
+ 
+ 
+ 
+ 
 
 <channel>       
 <title><![CDATA[Knightfall T1]]></title>
