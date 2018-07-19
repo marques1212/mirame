@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<items>
+ <playlist_name>izombie >> Temporada 4</playlist_name>
+ 
+
+ 
+<channel>
+<title><![CDATA[4x01 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic87/0c5542e21270e315e4a2d9c3a4a51e51.gif" />]]>Gira en torno a una estudiante de medicina que se convierte en zombi y coge un trabajo de medico forense para tener acceso a los cerebros  que debe comer para mantener su humanidad. Pero con cada cerebro que  consume, hereda recuerdos del cadaver. De ahi que, con la ayuda de su  jefe medico forense y un detective de policia, empiece a resolver casos de homicidio con el fin de callar las voces inquietantes de su cabeza.</description>
+<stream_url><![CDATA[]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+
+
+
+
+
+
+
+
+
+
+<next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
+<prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision.xml]]></prev_page_url>
+
+</items>
