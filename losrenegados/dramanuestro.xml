@@ -2826,17 +2826,6 @@
 <buffer_kb>20480</buffer_kb>
 </channel>
 
-
-	
-	
-	<channel> 
-<title><![CDATA[Z, la ciudad perdida 2017]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="https://pics.filmaffinity.com/beauty_and_the_beast-281766413-mmed.jpg" />]]>Película basada en el libro de no-ficción escrito por David Grann. En 1925 el explorador británico Percy Fawcett se aventuró en el Amazonas junto con su grupo en busca de una antigua civilización, cuya existencia los europeos llevaban siglos intentando demostrar. La ciudad perdida se conocía como ciudad 'Z', y en su búsqueda habían fallecido cientos de personas.</description> 
-<stream_url><![CDATA[http://streamcloud.eu/idcpwcs6kjzq]]></stream_url>
-<video_type>http</video_type>
-<buffer_kb>30000</buffer_kb>
-</channel>
 	
 
 		<channel> 
@@ -2849,15 +2838,7 @@
 </channel>
 	
 	
-
-	 <channel>
-<title><![CDATA[Bajo un sol abrasador (2013)  drama]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="https://image.tmdb.org/t/p/w300_and_h450_bestv2/t739Z5BIyXa93iOBoRq0ixlVlsP.jpg" />En un viaje por el desierto africano, un científico investigador y su hija se salen involuntariamente del camino y él es brutalmente asesinado por un traficante de armas. Su novia tratará de evadir a los asesinos y proteger a la hija adolescente.]]></description>
-<stream_url><![CDATA[http://miteleooyala-vh.akamaihd.net/i/1udmd4NzE6i0Pyq0DBnqeRdoLKTejOMO/,DOcJ-FxaFrRg4gtDEwOjkzOjBhOwBM4Z,DOcJ-FxaFrRg4gtDEwOm84OjBrOz0bxa,DOcJ-FxaFrRg4gtDEwOjEwYjowODE7je,DOcJ-FxaFrRg4gtDEwOjFsaTowODE7WX,DOcJ-FxaFrRg4gtDEwOjI5cDowODE7AZ,DOcJ-FxaFrRg4gtDEwOjRpOmc3O_GF-z,.csmil/index_4_av.m3u8?null=0]]></stream_url>
-<buffer_kb>204800</buffer_kb>
-</channel>
-  
+	
 	
 	
 	<channel>
@@ -2870,16 +2851,6 @@
 <description><![CDATA[<img src="http://pics.filmaffinity.com/bajo_un_manto_de_estrellas-948352657-large.jpg" />]]>En 1936, el vetusto convento de Calatrava era la sede de la casa de estudios mayores, el noviciado y la escuela apostólica de humanidades de los dominicos. Durante el curso escolar residían allí unas cien personas, que quedaban reducidas a la mitad durante las vacaciones estivales. Sólo ellas se vieron afectadas por los dolorosos y trágicos acontecimientos que se derivaron del estallido de la Guerra Civil 1936-1939). En el nerviosismo expectante de los primeros días, la cosa no pasó de molestas visitas e inspecciones. Pero cuando los religiosos presenciaron el incendio de la cercana parroquia de la Madre de Dios, ya no les cupo duda de la tormenta que se cernía sobre ellos</description>
 </channel>
 	
-	
-	<channel>
-<title><![CDATA[ B  2015 drama]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<video_type>http</video_type>
-<buffer_kb>30000</buffer_kb>
-<stream_url><![CDATA[http://streamcloud.eu/8vbrxtrghew1]]></stream_url>
-<thumbnail>http://pics.filmaffinity.com/b-783918273-large.jpg</thumbnail>
-<description><![CDATA[<img src="http://pics.filmaffinity.com/b-783918273-large.jpg" />]]>El 15 de Julio de 2013, el extesorero del Partido Popular, Luis Barcenas, es trasladado desde la prision para declarar en la Audiencia Nacional. Hasta este dia, habia negado toda relacion con los llamados "papeles de Barcenas", pero despues de 18 dias en prision ha decidido cambiar su declaracion. Esta pelicula retrata lo que paso en esa sala aquel día.</description>
-</channel>
 	
 	
 	<channel>
@@ -2937,6 +2908,47 @@
 </channel>
 	
 
+
+	
+	
+	
+	
+	
+	
+	
+	
+		
+	<channel>
+<title><![CDATA[ B  2015 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+<stream_url><![CDATA[https://archive.org/download/antonio7443_hotmail_11/Bba7rce1n3as.mp4]]></stream_url>
+<thumbnail>http://pics.filmaffinity.com/b-783918273-large.jpg</thumbnail>
+<description><![CDATA[<img src="http://pics.filmaffinity.com/b-783918273-large.jpg" />]]>El 15 de Julio de 2013, el extesorero del Partido Popular, Luis Barcenas, es trasladado desde la prision para declarar en la Audiencia Nacional. Hasta este dia, habia negado toda relacion con los llamados "papeles de Barcenas", pero despues de 18 dias en prision ha decidido cambiar su declaracion. Esta pelicula retrata lo que paso en esa sala aquel día.</description>
+</channel>
+
+	 <channel>
+<title><![CDATA[Bajo un sol abrasador (2013)  drama]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://image.tmdb.org/t/p/w300_and_h450_bestv2/t739Z5BIyXa93iOBoRq0ixlVlsP.jpg" />En un viaje por el desierto africano, un científico investigador y su hija se salen involuntariamente del camino y él es brutalmente asesinado por un traficante de armas. Su novia tratará de evadir a los asesinos y proteger a la hija adolescente.]]></description>
+<stream_url><![CDATA[https://archive.org/download/antonio7443_hotmail_11/Ba2joUnSo2lAbra2sa2dor.mp4]]></stream_url>
+<buffer_kb>204800</buffer_kb>
+</channel>
+  
+
+		
+	<channel> 
+<title><![CDATA[Z, la ciudad perdida 2017]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/beauty_and_the_beast-281766413-mmed.jpg" />]]>Película basada en el libro de no-ficción escrito por David Grann. En 1925 el explorador británico Percy Fawcett se aventuró en el Amazonas junto con su grupo en busca de una antigua civilización, cuya existencia los europeos llevaban siglos intentando demostrar. La ciudad perdida se conocía como ciudad 'Z', y en su búsqueda habían fallecido cientos de personas.</description> 
+<stream_url><![CDATA[https://archive.org/download/antonio7443_hotmail_11/ZLaCiu5dadPer5dida.mp4]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+	
+	
+	
 
 	<channel> 
 <title><![CDATA[Robada al nacer 2017]]></title>
