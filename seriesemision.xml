@@ -3,13 +3,7 @@
  <playlist_name><![CDATA[SERIES ONLINE]]></playlist_name>
  
  
-<channel>       
-<title><![CDATA[1993 T1]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/1993_51rywaul0b02017-09-14.jpg">]]>Secuela de la serie "1992". La serie sigue las vivencias de los personajes donde las dejo su precuela, teniendo como trasfondo los principales eventos que marcaron la vida publica italiana durante el ano que da nombre a la serie: el proceso ENIMONT, la caida politica de Bettino Craxi y del Partido Socialista Italiano, los atentados mafiosos en Florencia, Roma y Milan, los referendums abrogativos, el final de la Primera Republica y la entrada en politica de Silvio Berlusconi.</description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/1993.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
- </channel>
+
 
 <channel>       
 <title><![CDATA[9-1-1 T1]]></title>
@@ -174,17 +168,6 @@
 <buffer_kb>30000</buffer_kb>
  </channel>
 
- <channel>       
-<title><![CDATA[CSI: Counterpart T1]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/counterpart_odlpqqre0fu2017-12-11.jpg" />]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/counterpart.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
- </channel>
- 
- 
- 
- 
  <channel>       
 <title><![CDATA[CSI: Las Vegas T6]]></title>
 <logo_30x30></logo_30x30>
@@ -549,13 +532,7 @@
  
  
  
- <channel>       
-<title><![CDATA[Mentes Criminales: Sin Fronteras T2]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="http://i.picasion.com/pic87/43bc1de3fe01687a187af6dd16221a99.gif">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/Mentes%20Criminales%3A%20Sin%20Fronteras%20T2.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
+
  
  <channel>       
 <title><![CDATA[Mentes Criminales T13]]></title>
@@ -648,9 +625,6 @@
 </channel>
  
  
- 
- 
- 
 <channel>      
 <title><![CDATA[Por trece razones T1]]></title> 
 <logo_30x30></logo_30x30> 
@@ -660,24 +634,7 @@
 </channel>
  
  
- 
- 
- <channel>       
-<title><![CDATA[Queridos Blancos]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/queridos-blancos_k110khwkdoh2017-04-28.jpg">Basada en la aclamada pelÃ­cula independiente, esta serie satiriza la Ã©poca posracial en EE UU y cuenta la vida de unos estudiantes negros en una prestigiosa universidad blanca. ]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/queridosblancos.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
- 
-<channel>       
-<title><![CDATA[Rewiew T3]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="http://i.picasion.com/pic87/230f4cfcbbe896c773110d3cd995dacb.gif">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/review.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
- 
+
  <channel>       
 <title><![CDATA[Riverdale T1 T2]]></title>
 <logo_30x30></logo_30x30>
@@ -686,9 +643,6 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
- 
- 
-
 <channel>       
 <title><![CDATA[Station 19 T1]]></title>
 <logo_30x30></logo_30x30>
@@ -818,17 +772,6 @@
 <buffer_kb>30000</buffer_kb>
 </channel> 
  
-<channel>       
-<title><![CDATA[The fall T3]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/la-caza_d6bzq9go1a62016-10-02.jpg"> ]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/fall.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
-
- 
- 
- 
  
  <channel>       
 <title><![CDATA[The Sinner T1]]></title>
@@ -838,9 +781,6 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
 
-
- 
- 
 <channel>       
 <title><![CDATA[The Terror T1]]></title>
 <logo_30x30></logo_30x30>
@@ -849,15 +789,6 @@
 <buffer_kb>30000</buffer_kb>
 </channel> 
   
-<channel>      
-<title><![CDATA[ Teachers T2]]></title> 
-<logo_30x30></logo_30x30> 
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/teachers_c8qr277cglm2016-03-24.jpg" />]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/teachersT2.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
-
-
 
  
  <channel>       
@@ -879,13 +810,7 @@
 </channel>
  
  
- <channel>       
-<title><![CDATA[The Ranch T2]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/the-ranch_ey1txn83vkc2016-10-07.jpg">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/The%20Ranch%20T2.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
- </channel>
+ 
 
  <channel>       
 <title><![CDATA[The Grand Tour T2]]></title>
@@ -986,17 +911,7 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
- 
- 
- 
- 
-<channel>       
-<title><![CDATA[Younger T4]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/younger_xt7r40qvqin2016-09-30.jpg">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/youngerT4.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
+
  
  
 <channel>       
