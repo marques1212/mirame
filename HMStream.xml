@@ -54,18 +54,6 @@
 </channel> 
   
   
-  
-  
-<channel>       
-<title><![CDATA[SALA DE PELICULAS DE ESTRENO]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="http://i.picasion.com/pic86/2e7ba93c4f87341614651005a04b8d8f.gif">Aqui encontraras estrenos de cartelera en varias calidades. Recuerda que no siempre se veran con buena calidad]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/estrenos/pelisestrenos.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
-  
-  
-  
 <channel>       
 <title><![CDATA[ALMACEN DE PELICULAS POR ORDEN ALFABETICO]]></title>
 <logo_30x30></logo_30x30>
