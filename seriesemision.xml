@@ -106,7 +106,13 @@
 <buffer_kb>30000</buffer_kb>
  </channel>
  
-
+<channel>       
+<title><![CDATA[castle de T1 a T8]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://3.bp.blogspot.com/-Hb4p-5lGjqg/UiNdz2HhCdI/AAAAAAAADJQ/kVXSdzcCEL4/s1600/Castle+Serie+de+televisi%C3%B3n.JPG">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/castle.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
 
  
 
