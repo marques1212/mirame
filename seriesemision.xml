@@ -6,7 +6,7 @@
 
 
 <channel>       
-<title><![CDATA[9-1-1 T1]]></title>
+<title><![CDATA[9-1-1 ]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="https://gnula.se/img/portada/170x243/911_o1h36y1esxj2018-01-04.jpg">]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/991.xml]]></playlist_url>
@@ -15,7 +15,7 @@
  
  
 <channel>       
-<title><![CDATA[Absentia T1]]></title>
+<title><![CDATA[Absentia ]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="https://gnula.se/img/portada/170x243/absentia_n71w282yqsw2017-09-25.jpg">]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/absentia.xml]]></playlist_url>
@@ -24,7 +24,7 @@
  
 
  <channel>       
-<title><![CDATA[Alli abajo T4]]></title>
+<title><![CDATA[Alli abajo ]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="https://gnula.se/img/portada/170x243/alli-abajo_z53h5c3bxe42016-03-24.jpg">]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/abajo.xml]]></playlist_url>
@@ -69,7 +69,7 @@
  
  
   <channel>       
-<title><![CDATA[BlueBloods T8]]></title>
+<title><![CDATA[BlueBloods]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="https://gnula.se/img/portada/170x243/familia-de-policias-blue-bloods_h04nrgc7fpe2016-03-24.jpg">En el estreno de la temporada 7, Evidence against Danny surge cuando la oficina del fiscal general revisa su tiroteo de un asesino en serie. Mientras tanto, Jamie y Eddie tratan con un conductor borracho de alto perfil; Y la viuda de un policÃ­a muerto le pide a Frank un favor]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/bluebloods.xml]]></playlist_url>
@@ -198,7 +198,7 @@
  
  
  <channel>      
-<title><![CDATA[ El chapo T3]]></title> 
+<title><![CDATA[ El chapo T1 A T3]]></title> 
 <logo_30x30></logo_30x30> 
 <description><![CDATA[<img src="https://gnula.se/img/portada/170x243/el-chapo_n7z7nutbwpg2017-04-24.jpg" />]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/El%20Chapo%20T2.xml]]></playlist_url>
