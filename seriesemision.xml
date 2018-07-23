@@ -31,7 +31,13 @@
 <buffer_kb>30000</buffer_kb>
  </channel>
  
-
+<channel>       
+<title><![CDATA[Aida]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/aida_nyakccpcwsp2016-05-18.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/aidatodaslastemporadas.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
  
  
   <channel>      
