@@ -137,13 +137,7 @@
 <buffer_kb>30000</buffer_kb>
 </channel> 
 
- <channel>       
-<title><![CDATA[Anclados T1]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/anclados_p25ifmmfj262017-08-20.jpg">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriescompletas/anclados.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
+ 
  
  
  <channel>       
@@ -198,14 +192,7 @@
 </channel>
  
  
-  <channel>       
-<title><![CDATA[Bienvenidos Al Lolita]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/bienvenidos-al-lolita_k9v6uzh9x842017-06-06.jpg"/>]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriescompletas/Bienvenidosallolita.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
- 
+  
 
  
   <channel>       
@@ -396,13 +383,7 @@
 </channel>    
  
  
-<channel>       
-<title><![CDATA[David el gnomo T1]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/david-el-gnomo_nxerjtu4qi52017-04-11.jpg">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriescompletas/davidgnomo.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
- </channel> 
+
  
  <channel>       
 <title><![CDATA[Dallas T1-T14]]></title>
@@ -423,13 +404,7 @@
 <buffer_kb>30000</buffer_kb>
 </channel> 
  
-  <channel>       
-<title><![CDATA[Doctor Mateo]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/doctor-mateo_hu3i83oh40k2017-08-26.jpg">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriescompletas/DOCTORAMATEO.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
- </channel> 
+  
  
  <channel>       
 <title><![CDATA[Elementary T5]]></title>
@@ -510,29 +485,7 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
 
-<channel>       
-<title><![CDATA[El fin de la comedia T1]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/el-fin-de-la-comedia_74fw0405mbx2017-02-17.jpg">Ignatius Farray es un cómico diferente, su concepto extremo del stand-up, su aspecto, los temas que trata y su forma de actuar lo diferencian claramente de los cómicos que solemos ver habitualmente. El escenario es el lugar en el que Ignatius se siente seguro, pero cuando baja de él, se convierte en un padre divorciado, que flirtea con la crisis de los 40 y al que su imagen no ayuda a la hora de encontrar piso o pedir un crédito en un banco. ]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriescompletas/elfindelacomedia.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel> 
- 
-  <channel>      
-<title><![CDATA[El final del camino T1]]></title> 
-<logo_30x30></logo_30x30> 
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/el-final-del-camino_6xw2p285ldn2017-01-12.jpg"/>http://aerocamaras.es/wp-content/uploads/2016/09/vlcsnap5-2016-09-07-10h56m17s437-720x300.png]]></description> 
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriescompletas/El%20final%20del%20camino.xml]]></playlist_url>  
-<buffer_kb>30000</buffer_kb>
-</channel>
 
-<channel>       
-<title><![CDATA[El Halcon Callejero]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="http://i.picasion.com/pic87/6ffb8ad69a6f3ba77da96d4d26b4afd1.gif">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriescompletas/ELHALCONCALLEJERO.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
- </channel>
   
   
   <channel>       
@@ -578,13 +531,6 @@
 <buffer_kb>30000</buffer_kb>
  </channel>
  
- <channel>       
-<title><![CDATA[Erase la vida T1]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="http://i.picasion.com/pic87/449e361697b76871da26ccdcf9e7868a.gif">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriescompletas/eraselavida.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
- </channel>
  
  <channel>       
 <title><![CDATA[el tirador t2]]></title>
@@ -608,13 +554,7 @@
  
  
  
- <channel>       
-<title><![CDATA[ Fragiles T1 y T2]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/fragiles_scezxwa39zn2017-02-13.jpg">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriescompletas/fragilest1.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel> 
+ 
 
 <channel>       
 <title><![CDATA[ Fargo T1 y T3]]></title>
@@ -651,13 +591,7 @@
  
  
  
-   <channel>       
-<title><![CDATA[Hostal royal manzanares]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="http://i.picasion.com/pic87/a1416533407ad92b75c569b6dd1c9e64.gif">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriescompletas/Hostalroyalmanzanares.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
- </channel>
+   
  
 <channel>       
 <title><![CDATA[Homeland T1-T6]]></title>
@@ -686,20 +620,13 @@
  
  
  <channel>       
-<title><![CDATA[Hawai 5.0 Temporada 1 a Temporada 6]]></title>
+<title><![CDATA[Hawai 5.0 Temporada 1 a Temporada 7]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="https://gnula.se/img/portada/170x243/hawai-50_e4beyolgnmk2016-03-24.jpg">]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriescompletas/hawai5.0.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
  </channel> 
  
-  <channel>       
-<title><![CDATA[IFAMILY]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/ifamily_gn6na1axwy92017-03-07.jpg">Luis nunca ejerció de padre y ahora que debe y quiere, no puede. Kike siempre huye de las responsabilidades y ahora le llega la mayor de ellas. Girón, un implacable abogado y Curro, un liante profesional y dueño del bar del barrio donde ambos crecieron, serán los consejeros de uno y otro. ]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriescompletas/ifamily.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
 
   
  <channel>       
@@ -763,13 +690,7 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
 
- <channel>       
-<title><![CDATA[La tia de ambrosio]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="http://i.picasion.com/pic87/ae76c5857f460256ceacfc3bfcf448b8.gif">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriescompletas/latiadeambrosio.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
- </channel> 
+ 
  
   <channel>       
 <title><![CDATA[Las chicas de oro]]></title>
@@ -788,13 +709,7 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
   
-<channel>       
-<title><![CDATA[LLeno por favor]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="http://i.picasion.com/pic87/6389d063affc0257f8ec1d8dd4830eb0.gif">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriescompletas/llenoxfvor.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
- </channel>  
+
  
 <channel>       
 <title><![CDATA[Los 100 T1 a T4]]></title>
@@ -833,13 +748,7 @@
 <buffer_kb>30000</buffer_kb>
  </channel>
  
- <channel>       
-<title><![CDATA[ Los nuestros T1]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/los-nuestros_lm0b05nsnig2016-12-13.jpg">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriescompletas/losnuestrost1.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel> 
+ 
 
  <channel>       
 <title><![CDATA[ los soprano  T1 a t6]]></title>
@@ -851,13 +760,7 @@
   
  
  
-<channel>       
-<title><![CDATA[Manos a la obra]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="http://image2.casadellibro.com/m/ig/2/2587042.jpg"/>]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriescompletas/Manosalaobra.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>  
+
 
  <channel>       
 <title><![CDATA[Master of None T1 y T2]]></title>
@@ -875,13 +778,7 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
   
-<channel>       
-<title><![CDATA[Medico de familia]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://reflexionesbajounpincel.files.wordpress.com/2014/10/medico-82.jpg">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriescompletas/medicodefamilia.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
- </channel>
+
  
  <channel>       
 <title><![CDATA[Mis adorables vecinos T1-T4]]></title>
@@ -946,14 +843,6 @@
  
  
  <channel>       
-<title><![CDATA[Olmos y Robles T1 sin terminar]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/olmos-y-robles-una-pareja-de-ley_uhttpgpu2t92016-09-12.jpg">Luis nunca ejerció de padre y ahora que debe y quiere, no puede. Kike siempre huye de las responsabilidades y ahora le llega la mayor de ellas. Girón, un implacable abogado y Curro, un liante profesional y dueño del bar del barrio donde ambos crecieron, serán los consejeros de uno y otro. ]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriescompletas/olmosyrobles.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>  
- 
- <channel>       
 <title><![CDATA[Outlander]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="http://i.picasion.com/pic87/b4ace02368ac264e62a444d309493fba.gif">Luis nunca ejerció de padre y ahora que debe y quiere, no puede. Kike siempre huye de las responsabilidades y ahora le llega la mayor de ellas. Girón, un implacable abogado y Curro, un liante profesional y dueño del bar del barrio donde ambos crecieron, serán los consejeros de uno y otro. ]]></description>
@@ -994,22 +883,7 @@
 <buffer_kb>30000</buffer_kb>
  </channel> 
  
- <channel>       
-<title><![CDATA[Periodistas]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="http://www.seriesyonkis.com/img/series/170x243/periodistas.jpg">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriescompletas/Periodistas.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
- </channel> 
- 
- 
-  <channel>       
-<title><![CDATA[Pratos combinados]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="http://img.desmotivaciones.es/201101/pratoscombinadoss.jpg">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriescompletas/pratos%20combinados.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
- </channel> 
+
  
  <channel>       
 <title><![CDATA[Quantico T2]]></title>
@@ -1148,13 +1022,7 @@
  
   
  
- <channel>      
-<title><![CDATA[ The fall T1-T2]]></title> 
-<logo_30x30></logo_30x30> 
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/la-caza_d6bzq9go1a62016-10-02.jpg"/>]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriescompletas/fall.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
+ 
  
  
  <channel>       
@@ -1234,13 +1102,7 @@
  
  
  
-<channel>       
-<title><![CDATA[The Wild Wild West T1]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="http://www.mejortorrent.com/uploads/imagenes/series/The%20Wild%20Wild%20West.jpg">Inspirada por el éxito de James Bond en aquellos momentos en todo el mundo, Jim West (como se conoció en los países de habla hispana), trasladaba las aventuras de un agente secreto y su ayudante al lejano oeste americano, en los días posteriores al final de la Guerra Civil Norteamericana. Robert Conrad daba vida a James T. West, y Ross Martin a Artemius Gordon, un maestro en disfraces. Ambos tienen su cuartel general en el vagón de un tren privado, en el que guardan toda clase de artilugios increíbles para esa época, de los que se ayudan para llevar a cabo sus arriesgadas misiones secretas al servicio del presidente, Ulysses S. Grant. En el año 1999 la Warner hizo una adaptación al cine, protagonizada por Will Smith, que obtuvo un extraordinario éxito de taquilla.]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriescompletas/The%20Wild%20Wild%20West%20T1.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
+
  
  <channel>       
 <title><![CDATA[Un chapuzas en casa T1-T3]]></title>
@@ -1285,13 +1147,7 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
   
-<channel>       
-<title><![CDATA[V (Los visitantes) AUDIO:Dual Ano:1984]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/v-los-visitantes_ozu85rk8miz2016-12-23.jpg"/>]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriescompletas/V.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
+<
 
 <channel>       
 <title><![CDATA[Westworld T1]]></title>
@@ -1310,13 +1166,7 @@
 </channel>
  
 
- <channel>      
-<title><![CDATA[Younger ]]></title> 
-<logo_30x30></logo_30x30> 
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/younger_xt7r40qvqin2016-09-30.jpg"/>Una mujer de 40 aÃ±os que ha dedicado toda su vida a ser madre y esposa decide retomar su carrera. Para ello, tendrÃ¡ que fingir tener 26 aÃ±os.]]></description> 
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriescompletas/Younger.xml]]></playlist_url>  
-<buffer_kb>30000</buffer_kb>
-</channel>
+ 
   
  <channel>      
 <title><![CDATA[Znation T1-T3 ]]></title> 
