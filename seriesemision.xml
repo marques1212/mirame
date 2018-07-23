@@ -168,13 +168,7 @@
 <buffer_kb>30000</buffer_kb>
  </channel>
 
- <channel>       
-<title><![CDATA[CSI: Las Vegas T6]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/csi-las-vegas_3klajw1grox2016-03-24.jpg">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/CSI%3A%20Las%20Vegas.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
- </channel>
+ 
  
  <channel>       
 <title><![CDATA[cuerpo de elite T1]]></title>
@@ -513,13 +507,7 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
 
- <channel>       
-<title><![CDATA[Madres forzosas T2]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/madres-forzosas_gyll26ne4am2016-12-09.jpg">Spin-off de Padres forzosos. D.J. Tanner-Fuller es viuda y madre de tres hijos. Las cosas se ponen muy difÃ­ciles de controlar, por lo que pide ayuda a su hermana Stephanie y a su mejor amigo Kimmy. En Madres Forzosas, las aventuras que comenzaron en 1987 con Padres Forzosos, seguirÃ¡n sorprendiendo junto al recientemente viudo y veterinario D.J Tanner-Fuller (Candace Cameron Bure) que actualmente vive en San Francisco. En esta ocasiÃ³n, la aspirante a futura mÃºsica y hermana pequeÃ±a de D.J,  ]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/Madres%20Forzosas%20Temporada%202.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
+ 
 
 
  <channel>       
@@ -703,13 +691,7 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
- <channel>       
-<title><![CDATA[Silicon Valley T5]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/silicon-valley_a3nx3uds7q42016-03-24.jpg">In the wake of Pied Piperas clickfarm scandal, the guys struggle to find funding for Pied Piperâs video-chat app to keep up with their rapidly growing user base. Erlich faces resistance from Big Headâs dad, while Gavin balks after Jack steps on his toes at Hooli. Having a hard time adjusting to his companyâs pivot, Richard gets sage advice from an unexpected source, leading him to a big idea that could change his future. ]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/Siliconvalley.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
+ 
  
 <channel>       
 <title><![CDATA[Sobrenatural T13]]></title>
@@ -755,25 +737,7 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
- 
- 
- 
-<channel>       
-<title><![CDATA[The Resident t1]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/the-resident_ezxcf421i7d2018-01-25.jpg"/>]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/resident.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel> 
- 
- 
- <channel>       
-<title><![CDATA[The Sinner T1]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="http://i.picasion.com/pic87/9fcd146ca563f7c788bdd2b8a9de3556.gif"> ]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/TheSinner.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
+
 
 <channel>       
 <title><![CDATA[The Terror T1]]></title>
@@ -860,13 +824,6 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
- <channel>       
-<title><![CDATA[Versailles T2]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/versailles_qhviujg2o202016-05-19.jpg">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/versailles.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
  
 <channel>       
 <title><![CDATA[Verguenza T1]]></title>
