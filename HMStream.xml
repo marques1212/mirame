@@ -6,20 +6,14 @@
   
 
 <channel>       
-<title><![CDATA[SALA DE SERIES EN EMISION]]></title>
+<title><![CDATA[SALA DE SERIES MY NEFLIX]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="http://i.picasion.com/pic86/66510020e311239dee3bd78a17ab8e9c.gif">Aqui encontraras todas las series que estan en emision actualmente.]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
   
-<channel>       
-<title><![CDATA[SALA DE SERIES COMPLETAS]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="http://i.picasion.com/pic86/7f779cc79846d6dfe587b4035767fff7.gif">Aqui encontraras todas las temporadas completas ]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriescompletas.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
+
   
 <channel>       
 <title><![CDATA[SALA DE SERIES INFANTILES]]></title>
