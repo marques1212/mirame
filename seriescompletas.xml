@@ -10,16 +10,7 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
- 
- 
 
-<channel>       
-<title><![CDATA[7vidas]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/7-vidas_ul1gl0aq1w12017-07-17.jpg"/>]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriescompletas/aidatodaslastemporadas.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
  
  <channel>       
 <title><![CDATA[5 hermanos T5]]></title>
