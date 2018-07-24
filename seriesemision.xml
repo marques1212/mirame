@@ -56,13 +56,7 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
 
-<channel>       
-<title><![CDATA[Ballers T3]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/ballers_ksfs7lt1vu12016-03-24.jpg">DespuÃ©s de la muerte de Laurelï»¿ y las marchas de Diggle ï»¿y Theaï»¿ del Team Arrow, Oliverï»¿ patrulla en solitario las calles para proteger a los ciudadanos de Star City como Green Arrow. Con Felicity ï»¿guiÃ¡ndolo desde el bÃºnker, Oliver se ve forzado a lidiar con una ciudad invadida de criminales y una nueva ola de nuevos (y dolorosamente poco experimentados) vigilantes. Viendo como Oliver tienen que encontrar un equilibrio entre sus trabajos como alcalde y protector de Star City, Felicity sugiere que forme un nuevo equipo, pero Oliver se opone]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/ballersT3.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
+
  
  <channel>       
 <title><![CDATA[Banshee T4]]></title>
