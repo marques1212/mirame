@@ -166,13 +166,7 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
 
- <channel>       
-<title><![CDATA[CSI: Contigo al fin del mundo T1]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="http://i.picasion.com/pic87/c11ea99a89f066eb0795e096a09d7227.gif" />]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/contigofin.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
- </channel>
+ 
 
  
  
@@ -320,14 +314,6 @@
  
  
  
- <channel>       
-<title><![CDATA[Falsa identidad T1]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/falsa-identidad_rzo2dh59dpr2017-11-12.jpg">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/falsa.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
-
  
  
  
@@ -454,13 +440,7 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
 
- <channel>       
-<title><![CDATA[La extrana pareja]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="http://i.picasion.com/pic87/03ab60844e8475a79478dd5ecf2dd364.gif" ]]>In the third season opener, Oscar is forced to choose between his romantic plans with Charlotte and helping to save Felix's relationship as Emily decides to extend her stay in London and Felix starts to fall apart.></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/laestranapareja.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
+
  
 
 <channel>       
