@@ -1,8 +1,203 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <items>
-<playlist_name><![CDATA[Hawai 5.0 T8]]></playlist_name>
+<playlist_name><![CDATA[Hawai 5.0 T1 a T8]]></playlist_name>
   
-    <channel>
+   
+  <channel>
+<title><![CDATA[T3 1 El día de la madre]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://s3-eu-west-1.amazonaws.com/ingest-mediaset1-production.carbyne.ps.ooyala.com/huhineydl2tv_hawai48.jpg" />]]></description>
+<stream_url><![CDATA[https://miteleooyala-vh.akamaihd.net/i/V0bGh2YzE61Rj6jFgOQDKwW850kNsaNf/,DOcJ-FxaFrRg4gtDEwOm84OjBrOz0bxa,DOcJ-FxaFrRg4gtDEwOjEwYjowODE7je,DOcJ-FxaFrRg4gtDEwOjFsaTowODE7WX,DOcJ-FxaFrRg4gtDEwOjJjcTowODE7R4,.csmil/index_3_av.m3u8?null=0]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
+
+<channel>
+<title><![CDATA[ T3 2 La duda]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://s3-eu-west-1.amazonaws.com/ingest-mediaset1-production.carbyne.ps.ooyala.com/9ubqg37ruo71_hawai49.jpg" />]]></description>
+<stream_url><![CDATA[https://miteleooyala-vh.akamaihd.net/i/oxNXZ2YzE6sAejgcl5jAjtZPVONk6CFo/,DOcJ-FxaFrRg4gtDEwOm84OjBrOz0bxa,DOcJ-FxaFrRg4gtDEwOjEwYjowODE7je,DOcJ-FxaFrRg4gtDEwOjFsaTowODE7WX,DOcJ-FxaFrRg4gtDEwOjJjcTowODE7R4,.csmil/index_3_av.m3u8?null=0]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
+
+<channel>
+<title><![CDATA[ T3 3 A la deriva]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://s3-eu-west-1.amazonaws.com/ingest-mediaset1-production.carbyne.ps.ooyala.com/w2k2tnza578x_hawai50.jpg" />]]></description>
+<stream_url><![CDATA[https://miteleooyala-vh.akamaihd.net/i/9oNGJ3YzE6bZmLBcqkqAuhE9xfjUec_6/,DOcJ-FxaFrRg4gtDEwOm84OjBrOz0bxa,DOcJ-FxaFrRg4gtDEwOjEwYjowODE7je,DOcJ-FxaFrRg4gtDEwOjFsaTowODE7WX,DOcJ-FxaFrRg4gtDEwOjJjcTowODE7R4,.csmil/index_3_av.m3u8?null=0]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
+
+<channel>
+<title><![CDATA[ T3 4 Fatalidad]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://s3-eu-west-1.amazonaws.com/ingest-mediaset1-production.carbyne.ps.ooyala.com/rvaa8o8xm1h1_hawai51.jpg" />]]></description>
+<stream_url><![CDATA[https://miteleooyala-vh.akamaihd.net/i/gzZ3J3YzE6k-LKFOPs21vc7siC4VoVSz/,DOcJ-FxaFrRg4gtDEwOm84OjBrOz0bxa,DOcJ-FxaFrRg4gtDEwOjEwYjowODE7je,DOcJ-FxaFrRg4gtDEwOjFsaTowODE7WX,DOcJ-FxaFrRg4gtDEwOjJjcTowODE7R4,.csmil/index_3_av.m3u8?null=0]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
+
+<channel>
+<title><![CDATA[ T3 5 La ofrenda]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://s3-eu-west-1.amazonaws.com/ingest-mediaset1-production.carbyne.ps.ooyala.com/v1ifutsll9e6_hawai52.jpg" />Es Halloween y el equipo investiga el asesinato de una estudiante que fue secuestrada y descuartizada. Tras la autopsia se descubre que el asesino usó un arma grabada con una estrella de cinco puntas, lo que indica que es un asesino en serie.]]></description>
+<stream_url><![CDATA[https://miteleooyala-vh.akamaihd.net/i/Q1djd4YzE6iPTLABc-XRXPsn71VZDgqP/,DOcJ-FxaFrRg4gtDEwOm84OjBrOz0bxa,DOcJ-FxaFrRg4gtDEwOjEwYjowODE7je,DOcJ-FxaFrRg4gtDEwOjFsaTowODE7WX,DOcJ-FxaFrRg4gtDEwOjJjcTowODE7R4,.csmil/index_3_av.m3u8?null=0]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
+
+<channel>
+<title><![CDATA[6 El Pasado]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://s3-eu-west-1.amazonaws.com/ingest-mediaset1-production.carbyne.ps.ooyala.com/10ejbjrc0sup_hawai53.jpg" />Para desarmar una bomba, Danny ha de distraer al criminal contandole la historia mas emocionante que ha vivido como policía.]]></description>
+<stream_url><![CDATA[https://miteleooyala-vh.akamaihd.net/i/x3ODR5YzE6EJ7-QFuIN_tY-FUqEaBKH-/,DOcJ-FxaFrRg4gtDEwOm84OjBrOz0bxa,DOcJ-FxaFrRg4gtDEwOjEwYjowODE7je,DOcJ-FxaFrRg4gtDEwOjFsaTowODE7WX,DOcJ-FxaFrRg4gtDEwOjJjcTowODE7R4,.csmil/index_3_av.m3u8?null=0]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
+
+<channel>
+<title><![CDATA[7 El secreto]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://s3-eu-west-1.amazonaws.com/ingest-mediaset1-production.carbyne.ps.ooyala.com/u1rz3y3d581h_hawai54.jpg" />Five-O descubre que a Zack Slater ha sido secuestrado por un grupo de sicarios que llevaban máscaras. Slater acababa de salir de la cárcel e iba en el coche con sus padres en el momento del suceso.]]></description>
+<stream_url><![CDATA[https://miteleooyala-vh.akamaihd.net/i/l2YWp5YzE6TYm9HCGIiyqOq0e9ZXKbb8/,DOcJ-FxaFrRg4gtDEwOm84OjBrOz0bxa,DOcJ-FxaFrRg4gtDEwOjEwYjowODE7je,DOcJ-FxaFrRg4gtDEwOjFsaTowODE7WX,DOcJ-FxaFrRg4gtDEwOjJjcTowODE7R4,.csmil/index_3_av.m3u8?null=0]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
+
+<channel>
+<title><![CDATA[8 Mujer malvada]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://s3-eu-west-1.amazonaws.com/ingest-mediaset1-production.carbyne.ps.ooyala.com/xovntg21xf8k_hawai55.jpg" />McGarrett investiga a una inteligente y seductora terapeuta, que es sospechosa de haber asesinado a su paciente. Mientras tanto, Catherine debe atrapar a uno de los antiguos objetivos de Doris, que ha vuelto a la isla para saciar sus ansias de venganza.]]></description>
+<stream_url><![CDATA[https://miteleooyala-vh.akamaihd.net/i/5tbzEwZDE66XpS0MecNIeQHyW9dCZhdB/,DOcJ-FxaFrRg4gtDEwOm84OjBrOz0bxa,DOcJ-FxaFrRg4gtDEwOjEwYjowODE7je,DOcJ-FxaFrRg4gtDEwOjFsaTowODE7WX,DOcJ-FxaFrRg4gtDEwOjJjcTowODE7R4,.csmil/index_3_av.m3u8?null=0]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
+
+<channel>
+<title><![CDATA[9 Deseo de muerte]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://s3-eu-west-1.amazonaws.com/ingest-mediaset1-production.carbyne.ps.ooyala.com/l8hpt65vl5b7_hawai56.jpg" />Como todas las semanas, Max va al banco a ingresar dinero y coquetear con Sabrina, la cajera. Dos hombres enmascarados entran en el banco con armas de fuego. Todo sale mal, y Sabrina y otro hombre salen heridos.]]></description>
+<stream_url><![CDATA[https://miteleooyala-vh.akamaihd.net/i/VrbGswZDE6-qOT0Z9pKkpeDPxxx9FFEk/,DOcJ-FxaFrRg4gtDEwOm84OjBrOz0bxa,DOcJ-FxaFrRg4gtDEwOjEwYjowODE7je,DOcJ-FxaFrRg4gtDEwOjFsaTowODE7WX,DOcJ-FxaFrRg4gtDEwOjJjcTowODE7R4,.csmil/index_3_av.m3u8?null=0]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
+
+<channel>
+<title><![CDATA[10 Una salida al campo]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://s3-eu-west-1.amazonaws.com/ingest-mediaset1-production.carbyne.ps.ooyala.com/olb82tvojfgt_hawai57.jpg" />Un viaje de campo de las Aloha Girls acaba en tragedia cuando un hombre armado toma a McGarrett y a una de las chicas como rehenes. Mientras tanto, Adam presenta Kono a su expresidiario hermano.]]></description>
+<stream_url><![CDATA[https://miteleooyala-vh.akamaihd.net/i/VjcnQxZDE6jslmI8Z3rJKVDh_7N0YZIj/,DOcJ-FxaFrRg4gtDEwOm84OjBrOz0bxa,DOcJ-FxaFrRg4gtDEwOjEwYjowODE7je,DOcJ-FxaFrRg4gtDEwOjFsaTowODE7WX,DOcJ-FxaFrRg4gtDEwOjJjcTowODE7R4,.csmil/index_3_av.m3u8?null=0]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
+
+<channel>
+<title><![CDATA[11 El protector]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://s3-eu-west-1.amazonaws.com/ingest-mediaset1-production.carbyne.ps.ooyala.com/xglot98htd8z_hawai58.jpg" />Un aficionado a la historia hawaiana intenta ayudar al equipo con la investigación de un misterioso caso. Y es que se ha encontrado a un hombre vestido de guerrero nakoa asesinado en la jungla.]]></description>
+<stream_url><![CDATA[https://miteleooyala-vh.akamaihd.net/i/NvcnQxZDE6-d6mo8Cz_YUzux9aLy3p88/,DOcJ-FxaFrRg4gtDEwOm84OjBrOz0bxa,DOcJ-FxaFrRg4gtDEwOjEwYjowODE7je,DOcJ-FxaFrRg4gtDEwOjFsaTowODE7WX,DOcJ-FxaFrRg4gtDEwOjJjcTowODE7R4,.csmil/index_3_av.m3u8?null=0]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
+
+<channel>
+<title><![CDATA[12 Prohibido]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://s3-eu-west-1.amazonaws.com/ingest-mediaset1-production.carbyne.ps.ooyala.com/59diiuf4ybtl_hawai59.jpg" />Danny y McGarrett investigan el asesinato de un profesor universitario cuyo cuerpo es encontrado descomponiéndose en un cubo con ácido. Su jefe, su ayudante y un alumno al que pilló copiando serán los principales sospechosos.]]></description>
+<stream_url><![CDATA[https://miteleooyala-vh.akamaihd.net/i/doNzkyZDE6Dd8fRJTvvU8Swh4bsE7ori/,DOcJ-FxaFrRg4gtDEwOm84OjBrOz0bxa,DOcJ-FxaFrRg4gtDEwOjEwYjowODE7je,DOcJ-FxaFrRg4gtDEwOjFsaTowODE7WX,DOcJ-FxaFrRg4gtDEwOjJjcTowODE7R4,.csmil/index_3_av.m3u8?null=0]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
+
+<channel>
+<title><![CDATA[13 Sentenciado a muerte]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://s3-eu-west-1.amazonaws.com/ingest-mediaset1-production.carbyne.ps.ooyala.com/4wgy8sjp1io9_hawai60.jpg" />Secuestran a Chin una noche y a la mañana siguiente se despierta en medio de la prisión de Halawa vestido de recluso. El agente deberá hacer todo lo posible para escapar, antes de que alguien descubra su verdadera identidad.]]></description>
+<stream_url><![CDATA[https://miteleooyala-vh.akamaihd.net/i/FzODkyZDE6UWqlMLWuV3yd3l7Xo-r9w8/,DOcJ-FxaFrRg4gtDEwOm84OjBrOz0bxa,DOcJ-FxaFrRg4gtDEwOjEwYjowODE7je,DOcJ-FxaFrRg4gtDEwOjFsaTowODE7WX,DOcJ-FxaFrRg4gtDEwOjJjcTowODE7R4,.csmil/index_3_av.m3u8?null=0]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
+
+<channel>
+<title><![CDATA[14 Escándalo]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://s3-eu-west-1.amazonaws.com/ingest-mediaset1-production.carbyne.ps.ooyala.com/fpxraxrmg9sc_hawai61.jpg" />En la vigilia de unas elecciones, el gobernador pide al 5.0 que investigue discretamente el asesinato de una prostituta que fue encontrada en la cama de un senador desaparecido. Mientras, Danny lucha por la custodia parcial de Grace.]]></description>
+<stream_url><![CDATA[https://miteleooyala-vh.akamaihd.net/i/NqbHAyZDE6Hhnk1Pi1RzZiRdyKY82QKh/,DOcJ-FxaFrRg4gtDEwOm84OjBrOz0bxa,DOcJ-FxaFrRg4gtDEwOjEwYjowODE7je,DOcJ-FxaFrRg4gtDEwOjFsaTowODE7WX,DOcJ-FxaFrRg4gtDEwOjJjcTowODE7R4,.csmil/index_3_av.m3u8?null=0]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
+
+<channel>
+<title><![CDATA[15 El francotirador]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://s3-eu-west-1.amazonaws.com/ingest-mediaset1-production.carbyne.ps.ooyala.com/nk5tvdh8mo0x_hawai62.jpg" />El equipo investiga a un criminal que asesina a varios oficiales de policía por venganza y que se fija como próximo objetivo a McGarret.]]></description>
+<stream_url><![CDATA[https://miteleooyala-vh.akamaihd.net/i/lvaXAyZDE61bAb9QAUA9aAwJ9QiTpCNq/,DOcJ-FxaFrRg4gtDEwOm84OjBrOz0bxa,DOcJ-FxaFrRg4gtDEwOjEwYjowODE7je,DOcJ-FxaFrRg4gtDEwOjFsaTowODE7WX,DOcJ-FxaFrRg4gtDEwOjJjcTowODE7R4,.csmil/index_3_av.m3u8?null=0]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
+
+<channel>
+<title><![CDATA[16 Guerrero]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://s3-eu-west-1.amazonaws.com/ingest-mediaset1-production.carbyne.ps.ooyala.com/av8kyz20rxud_hawai63.jpg" />El equipo investiga la muerte de un anciano maestro de técnicas de combate a la vez que McGarret contrata a un detective para que siga a su madre.]]></description>
+<stream_url><![CDATA[https://miteleooyala-vh.akamaihd.net/i/JsMDUzZDE6cf6Ee0U8gJjJPg7Y9fRobT/,DOcJ-FxaFrRg4gtDEwOm84OjBrOz0bxa,DOcJ-FxaFrRg4gtDEwOjEwYjowODE7je,DOcJ-FxaFrRg4gtDEwOjFsaTowODE7WX,DOcJ-FxaFrRg4gtDEwOjJjcTowODE7R4,.csmil/index_3_av.m3u8?null=0]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
+
+<channel>
+<title><![CDATA[17 La jugada]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://s3-eu-west-1.amazonaws.com/ingest-mediaset1-production.carbyne.ps.ooyala.com/sp1cy6lt5ayk_hawai64.jpg" />En un partido de fútbol en Hawai, el equipo investiga el asesinato de un ejecutivo de alta tecnología con la ayuda de un jugador estrella de fútbol.]]></description>
+<stream_url><![CDATA[https://miteleooyala-vh.akamaihd.net/i/JvMTUzZDE6WC6Rc6v9zlM0wmI1EpviYT/,DOcJ-FxaFrRg4gtDEwOm84OjBrOz0bxa,DOcJ-FxaFrRg4gtDEwOjEwYjowODE7je,DOcJ-FxaFrRg4gtDEwOjFsaTowODE7WX,DOcJ-FxaFrRg4gtDEwOjJjcTowODE7R4,.csmil/index_3_av.m3u8?null=0]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
+
+<channel>
+<title><![CDATA[18 Dolls]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://s3-eu-west-1.amazonaws.com/ingest-mediaset1-production.carbyne.ps.ooyala.com/ajup5dn898pw_hawai65.jpg" />El equipo enviará a Catherine como agente encubierto al roller derbi local para encontrar al culpable de un asesinato.]]></description>
+<stream_url><![CDATA[https://miteleooyala-vh.akamaihd.net/i/Blb2szZDE69tgGm6bS6rR1IbOnQgM5wC/,DOcJ-FxaFrRg4gtDEwOm84OjBrOz0bxa,DOcJ-FxaFrRg4gtDEwOjEwYjowODE7je,DOcJ-FxaFrRg4gtDEwOjFsaTowODE7WX,DOcJ-FxaFrRg4gtDEwOjJjcTowODE7R4,.csmil/index_3_av.m3u8?null=0]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
+
+<channel>
+<title><![CDATA[19 Buenos amigos]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://s3-eu-west-1.amazonaws.com/ingest-mediaset1-production.carbyne.ps.ooyala.com/nqcwec264vm8_hawai66.jpg" />Tras la explosión en un barco turístico para ver tiburones, uno de los propietarios es encontrado muerto y sumergido dentro de una jaula. Mientras tanto, McGarrett ayuda a Kamekona a obtener su licencia de piloto de helicóptero.]]></description>
+<stream_url><![CDATA[https://miteleooyala-vh.akamaihd.net/i/h5cWszZDE6t70zqA_Ouq31BvNQ9rTP8E/,DOcJ-FxaFrRg4gtDEwOm84OjBrOz0bxa,DOcJ-FxaFrRg4gtDEwOjEwYjowODE7je,DOcJ-FxaFrRg4gtDEwOjFsaTowODE7WX,DOcJ-FxaFrRg4gtDEwOjJjcTowODE7R4,.csmil/index_3_av.m3u8?null=0]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
+
+<channel>
+<title><![CDATA[20 La promesa]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://s3-eu-west-1.amazonaws.com/ingest-mediaset1-production.carbyne.ps.ooyala.com/5lfzpkpxnef6_hawai67.jpg" />El equipo se traslada a la zona desmilitarizada entre Corea del Norte y Corea del Sur. La misión, intercambiar a dos prisioneros de guerra por un SEAL de la Marina.]]></description>
+<stream_url><![CDATA[https://miteleooyala-vh.akamaihd.net/i/RjdWw0ZDE6WMit8jbqoAHtlXN_fGwlHQ/,DOcJ-FxaFrRg4gtDEwOm84OjBrOz0bxa,DOcJ-FxaFrRg4gtDEwOjEwYjowODE7je,DOcJ-FxaFrRg4gtDEwOjFsaTowODE7WX,DOcJ-FxaFrRg4gtDEwOjJjcTowODE7R4,.csmil/index_3_av.m3u8?null=0]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
+
+<channel>
+<title><![CDATA[21 Busca en tu interior]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://s3-eu-west-1.amazonaws.com/ingest-mediaset1-production.carbyne.ps.ooyala.com/8g4a17bzmsos_hawai68.jpg" />Sigue al equipo de Hawai 5-0 en su día a día desde el punto de vista de uno de los programas de televisión de más éxito de la ciudad.]]></description>
+<stream_url><![CDATA[https://miteleooyala-vh.akamaihd.net/i/42d2w0ZDE6aVj5JaIKQbbv_GDdHUow1k/,DOcJ-FxaFrRg4gtDEwOm84OjBrOz0bxa,DOcJ-FxaFrRg4gtDEwOjEwYjowODE7je,DOcJ-FxaFrRg4gtDEwOjFsaTowODE7WX,DOcJ-FxaFrRg4gtDEwOjJjcTowODE7R4,.csmil/index_3_av.m3u8?null=0]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
+
+<channel>
+<title><![CDATA[22 Prisionera]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://s3-eu-west-1.amazonaws.com/ingest-mediaset1-production.carbyne.ps.ooyala.com/ykwf9l8ki4p5_hawai69.jpg" />Cuando el cuerpo de una niña de 10 años víctima de un secuestro es encontrado, el equipo deber dar con los culpables antes de tomen a una nueva víctima. El tiempo corre en su contra.]]></description>
+<stream_url><![CDATA[https://miteleooyala-vh.akamaihd.net/i/twMzQ1ZDE6LW-NHPtABex6qirO4I4ZGS/,DOcJ-FxaFrRg4gtDEwOm84OjBrOz0bxa,DOcJ-FxaFrRg4gtDEwOjEwYjowODE7je,DOcJ-FxaFrRg4gtDEwOjFsaTowODE7WX,DOcJ-FxaFrRg4gtDEwOjJjcTowODE7R4,.csmil/index_3_av.m3u8?null=0]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
+
+<channel>
+<title><![CDATA[23 Negocio familiar]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://s3-eu-west-1.amazonaws.com/ingest-mediaset1-production.carbyne.ps.ooyala.com/l1aypmfwncnv_hawai70.jpg" />McGarrett ayudará a su madre a recuperar en una operación encubierta unas microfichas incriminatorias. Kono estará en peligro cuando se acercque demasiado al secreto de Adam.]]></description>
+<stream_url><![CDATA[https://miteleooyala-vh.akamaihd.net/i/ppNjQ1ZDE6rLBXiUEUOw7lNYPGNffrf3/,DOcJ-FxaFrRg4gtDEwOm84OjBrOz0bxa,DOcJ-FxaFrRg4gtDEwOjEwYjowODE7je,DOcJ-FxaFrRg4gtDEwOjFsaTowODE7WX,DOcJ-FxaFrRg4gtDEwOjJjcTowODE7R4,.csmil/index_3_av.m3u8?null=0]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
+
+<channel>
+<title><![CDATA[24 Adios Cuídate mucho]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://s3-eu-west-1.amazonaws.com/ingest-mediaset1-production.carbyne.ps.ooyala.com/7dy9j5yu53n4_hawai71.jpg" />Kono está huyendo por un asesinato que no cometió mientras que la visita de McGarrett a Wo Fat termina con un descubrimiento sorprendente.]]></description>
+<stream_url><![CDATA[https://miteleooyala-vh.akamaihd.net/i/Q0cGw1ZDE6kJ-y-sqtjyx4CqoDYbY_rA/,DOcJ-FxaFrRg4gtDEwOm84OjBrOz0bxa,DOcJ-FxaFrRg4gtDEwOjEwYjowODE7je,DOcJ-FxaFrRg4gtDEwOjFsaTowODE7WX,DOcJ-FxaFrRg4gtDEwOjJjcTowODE7R4,.csmil/index_3_av.m3u8?null=0]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
+
+  
+ 
+  <channel>
 <title><![CDATA[capitulo 8x01]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_64f5970ea6033fbc6f48c8c4173a1ddd.jpg" />]]>Hawaii Five-O es una versión moderna de la recordada serie de los años sesenta sobre una división especial de la policía encargada de terminar con el crimen en Hawaii. En esta nueva versión seguimos al detective Steve McGarrett (Alex O’Loughlin), un ex-oficial de la marina convertido en policía</description>
