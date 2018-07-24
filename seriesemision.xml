@@ -117,7 +117,7 @@
  
 
 <channel>      
-<title><![CDATA[ Candice Renoir T5]]></title> 
+<title><![CDATA[ Candice Renoir T6]]></title> 
 <logo_30x30></logo_30x30> 
 <description><![CDATA[<img src="https://gnula.se/img/portada/170x243/candice-renoir_t57zsroayx52017-06-06.jpg" />]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/candicerenoirt5.xml]]></playlist_url>
@@ -259,16 +259,7 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
 
- <channel>      
-<title><![CDATA[ El Misterio del tiempo  T3]]></title> 
-<logo_30x30></logo_30x30> 
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/el-ministerio-del-tiempo_33po5hq2w9k2016-03-24.jpg" />]]>Serie de TV (2017-Actualidad). La serie sigue a Inger Johanne Vik, una psicÃ³loga y criminÃ³loga que ha trabajado en el FBI y para la policÃ­a nacional sueca. Se ve involucrada en la investigaciÃ³n de una serie de asesinatos ocurridos en toda Suecia para proteger a su hija con autismo Stina, que ha sido testigo del primero de ellos. En Nochebuena la obispo Elisabeth Lindgren es asesinada en Uppsala, y la policÃ­a nacional envÃ­a al detective Ingvar Nyman </description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/elmisteriosdeltiempoT3.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
  
- 
-
  
 
  <channel>       
@@ -769,16 +760,6 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
- <channel>       
-<title><![CDATA[The Strain T3]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/the-strain_7g7mm5fjdjh2016-03-24.jpg">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/thestrain.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
- 
- 
- 
  
  
  <channel>       
@@ -808,13 +789,6 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
- <channel>       
-<title><![CDATA[Ultima oportunidad T1]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/ultima-oportunidad-tv_3a8tj2foq3n2016-08-31.jpg">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/ultimaoportunidad.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
  
  
  
@@ -827,13 +801,7 @@
 </channel>
  
  
-<channel>       
-<title><![CDATA[Verguenza T1]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/verguenza_vbhj99y8b4r2017-11-24.jpg">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/verguenza.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
+
  
  
  
