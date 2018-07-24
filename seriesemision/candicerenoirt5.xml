@@ -46,7 +46,13 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
- 
+ <channel>
+<title><![CDATA[Capitulo 6x06]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/candice-renoir_t57zsroayx52017-06-06.jpg" />]]></description>
+<stream_url><![CDATA[https://archive.org/download/Ver6x06M720pMkv/Ver%206x06%20m720p%20mkv.mp4]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
  
  
  
