@@ -2,22 +2,7 @@
 <items>
 <playlist_name><![CDATA[PROGRAMAS TV]]></playlist_name>
   
-  <channel>       
-<title><![CDATA[La voz T5]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/la-voz-espana_f3kwbmx7x3h2016-09-22.jpg">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/programastv/La%20voz%20T5.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>  
-
- <channel>       
-<title><![CDATA[La voz kid T4]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/la-voz-kids-espana_2krmd4y6nor2018-02-19.jpg">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/programastv/lavozkid.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>   
-  
+ 
  
  <channel>       
 <title><![CDATA[Me cambio de decada]]></title>
@@ -39,24 +24,7 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
   
-  
-<channel>       
-<title><![CDATA[Jose mota presenta T3]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/jose-mota-presenta_2q922gb05lu2018-04-06.jpg">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/programastv/josemota.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
-  
-<channel>       
-<title><![CDATA[¿Que comen nuestros hijos?]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_9399b49afa81d7a2534e40e11a07cd13.jpg">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/programastv/comenhijos.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
-  
-  
+ 
    <channel>       
 <title><![CDATA[Espanoles Por El Mundo]]></title>
 <logo_30x30></logo_30x30>
@@ -94,22 +62,7 @@
   
   
   
-   <channel>       
-<title><![CDATA[Planeta Calleja T4-T5]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/planeta-calleja_ca0nyo542w02018-02-25.jpg">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/programastv/planetacalleja.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel> 
-  
-
-   <channel>       
-<title><![CDATA[Heroes mas alla del deber T1]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_a2b551f97d2656de56930da3d4c64876.jpg">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/programastv/heroes.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>   
+   
   
  <channel>       
 <title><![CDATA[MasterChef España T5-T6]]></title>
