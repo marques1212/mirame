@@ -33,10 +33,10 @@
 
   
 <channel>       
-<title><![CDATA[SALA CINE POR AÑOS]]></title>
+<title><![CDATA[SALA CINE SOMOS LOS MEJORES]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="http://i.picasion.com/pic86/dccca7cc1610ce1612c7a173b20f44c9.gif"]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/años/menuaños.xml]]></playlist_url>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/años/actual.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel> 
   
