@@ -194,10 +194,18 @@
  </channel>
  
  
+<channel>       
+<title><![CDATA[el mentalista ]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic87/0d9dc84157e8121e167d098da28bc15c.gif">]]>Secuela de la serie "1992". La serie sigue las vivencias de los personajes donde las dejo su precuela, teniendo como trasfondo los principales eventos que marcaron la vida publica italiana durante el ano que da nombre a la serie: el proceso ENIMONT, la caida politica de Bettino Craxi y del Partido Socialista Italiano, los atentados mafiosos en Florencia, Roma y Milan, los referendums abrogativos, el final de la Primera Republica y la entrada en politica de Silvio Berlusconi.</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/mentalista.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+ </channel>
  
  
+
  <channel>      
-<title><![CDATA[ El chapo T1 A T3]]></title> 
+<title><![CDATA[ El chapo ]]></title> 
 <logo_30x30></logo_30x30> 
 <description><![CDATA[<img src="https://gnula.se/img/portada/170x243/el-chapo_n7z7nutbwpg2017-04-24.jpg" />]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/El%20Chapo%20T2.xml]]></playlist_url>
@@ -207,7 +215,7 @@
  
  
 <channel>      
-<title><![CDATA[ Elementary T6]]></title> 
+<title><![CDATA[ Elementary]]></title> 
 <logo_30x30></logo_30x30> 
 <description><![CDATA[<img src="https://gnula.se/img/portada/170x243/elementary_ri0tdwvd8yb2016-03-24.jpg" />]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/ElementaryT6.xml]]></playlist_url>
@@ -215,7 +223,7 @@
 </channel>
  
 <channel>      
-<title><![CDATA[ El incidente T1]]></title> 
+<title><![CDATA[ El incidente]]></title> 
 <logo_30x30></logo_30x30> 
 <description><![CDATA[<img src="https://gnula.se/img/portada/170x243/el-incidente_ln6j9148l8r2017-09-05.jpg" />]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/el%20incidente.xml]]></playlist_url>
