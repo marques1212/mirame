@@ -11,3 +11,12 @@
 <playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/años/2018.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel> 
+
+  
+  
+  
+  
+  <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
+<prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/mejores/actual.xml]]></prev_page_url>
+
+</items>
