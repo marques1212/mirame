@@ -419,7 +419,13 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
- 
+ <channel>
+<title><![CDATA[Parque Nacional Olimpic de Norteamerica]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic87/8db1223a51d1c6f61f384ba93e28a309.gif" />]]></description>
+<stream_url><![CDATA[http://s87.diskokosmiko.mx/movie?e=_4xDNqEC5kulxEfA6QuL_OIp-tPDq2blDjfQF-Dhiwz7bYLhugklheLPFKKqhxRHT0QSBx7eT7MWWqTxZAm9slYlSr2MMmoun8G9s2NqCFlTrlAovIChrb0Q3zj6cQjkdytCaF7Zs1ZcM2-qFaLAd0f8Bwklh54S2Q2b5jKAF3o]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel> 
  
  
 <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
