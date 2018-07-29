@@ -1,8 +1,89 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <items>
- <playlist_name>El cuento de la criada T2</playlist_name>
+ <playlist_name>El cuento de la criadaT1 T2</playlist_name>
  
+<channel>
+<title><![CDATA[Capitulo 1x01]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic87/0d9dc84157e8121e167d098da28bc15c.gif"/>]]></description>
+<stream_url><![CDATA[https://archive.org/download/Cuentcria1x02/cuentcria%201x01.mp4]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ <channel>
+<title><![CDATA[Capitulo 1x02]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic87/0d9dc84157e8121e167d098da28bc15c.gif"/>]]></description>
+<stream_url><![CDATA[https://archive.org/download/Cuentcria1x02/cuentcria%201x01.mp4]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ <channel>
+<title><![CDATA[Capitulo 1x03]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic87/0d9dc84157e8121e167d098da28bc15c.gif"/>]]></description>
+<stream_url><![CDATA[https://archive.org/download/Cuentcria1x02/cuentcria%201x03.mp4]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ <channel>
+<title><![CDATA[Capitulo 1x04]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic87/0d9dc84157e8121e167d098da28bc15c.gif"/>]]></description>
+<stream_url><![CDATA[https://archive.org/download/Cuentcria1x02/cuentcria%201x04.mp4]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ <channel>
+<title><![CDATA[Capitulo 1x05]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic87/0d9dc84157e8121e167d098da28bc15c.gif"/>]]></description>
+<stream_url><![CDATA[https://archive.org/download/Cuentcria1x02/cuentcria%201x05.mp4]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
 
+ <channel>
+<title><![CDATA[Capitulo 1x06]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic87/0d9dc84157e8121e167d098da28bc15c.gif"/>]]></description>
+<stream_url><![CDATA[https://archive.org/download/Cuentcria1x02/Cuentcria1x06.mp4]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ <channel>
+<title><![CDATA[Capitulo 1x07]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic87/0d9dc84157e8121e167d098da28bc15c.gif"/>]]></description>
+<stream_url><![CDATA[https://archive.org/download/Cuentcria1x02/Cuentcria1x07.mp4]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ <channel>
+<title><![CDATA[Capitulo 1x08]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic87/0d9dc84157e8121e167d098da28bc15c.gif"/>]]></description>
+<stream_url><![CDATA[https://archive.org/download/Cuentcria1x02/Cuentcria1x08mp4.mp4]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ <channel>
+<title><![CDATA[Capitulo 1x09]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic87/0d9dc84157e8121e167d098da28bc15c.gif"/>]]></description>
+<stream_url><![CDATA[https://archive.org/download/Cuentcria1x02/Cuentcria1x09.mp4]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ <channel>
+<title><![CDATA[Capitulo 1x10]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic87/0d9dc84157e8121e167d098da28bc15c.gif"/>]]></description>
+<stream_url><![CDATA[https://archive.org/download/Cuentcria1x02/WatchCrid1x10M720pMkv.mp4]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ 
+ 
  
 <channel>
 <title><![CDATA[Capitulo 2x01]]></title>
