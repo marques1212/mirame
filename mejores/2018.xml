@@ -4,22 +4,35 @@
  
 	
 <channel>
-<title><![CDATA[El justiciero 2018 ]]></title>
+<title><![CDATA[El justiciero 2018 (accion)]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
 <stream_url><![CDATA[https://archive.org/download/images_20170624_1106/Just1c1erohdrCastellan0Avi.mp4]]></stream_url>
 <description><![CDATA[<img src="http://i.picasion.com/pic87/eeea5a43bb6db98954354830d90abc40.gif" />]]>Paul Kersey (Bruce Willis) es un famoso cirujano que vive con su familia en Nueva York. Un día, su esposa (Elisabeth Shue) y su hija (Camila Morrone) son brutalmente atacadas en su casa. Paul, que siempre había sido un tipo tranquilo, siente cómo la sed de venganza va apoderándose de él. Con la policía sobrecargada de crímenes, decide tomar la justicia por su mano e ir en busca de los agresores de su familia y de paso enfrentarse a todo tipo de criminales de la Gran Manzana. A medida que las víctimas acaparan la atención de los medios, la ciudad se pregunta si este vengador es un ángel guardián... o un simple justiciero. </description>
 </channel>
+	
+	<channel> 
+<title><![CDATA[Juego de ladrones 2018 (accion)]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic87/0aadd0949ec42282b615748701d5be85.gif" />]]>Se centra en una unidad de élite del Departamento de Los Ángeles y en los mejores atracadores de bancos del país. Este grupo de ladrones planea robar un banco de la Reserva Federa.</description> 
+<stream_url><![CDATA[https://archive.org/download/Dormi2018HDRipCastellanoAvi/VerL4dr0n3sssbrsAvi.mp4]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>	
+	
 
-<channel>
-<title><![CDATA[No dormiras 2018 ]]></title>
+	<channel>
+<title><![CDATA[deber cumplido 2018 (Belica) ]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
-<stream_url><![CDATA[https://archive.org/download/Dormi2018HDRipCastellanoAvi/dormi%202018%20HDRip%20Castellano%20avi.mp4]]></stream_url>
-<description><![CDATA[<img src="http://i.picasion.com/pic87/6a6a681318d8faaada1bf0c88c120e9e.gif" />]]>En un hospital psiquiátrico abandonado, un grupo de teatro experimenta con insomnio para la preparación de una obra teatral. Con el paso de los días sin dormir, alcanzan nuevos umbrales de percepción que los exponen a los secretos del lugar y las energías que lo habitan. Cuando Bianca, una joven y prometedora actriz, se une al elenco, compitiendo por el papel principal, debe sobrevivir no solo a la intensidad del trabajo y sus compañeros de reparto, sino a la fuerza desconocida que los empuja hacia un resultado trágico.</description>
+<stream_url><![CDATA[https://archive.org/download/antonio7443_hotmail_Bel/De6berCu8npl0ido.mp4]]></stream_url>
+<description><![CDATA[<img src="http://i.picasion.com/pic87/25a7261d6629958a0f2514c3bec509a7.gif" />]]>Tres soldados estadounidenses regresan de Irak tratando de reintegrarse con sus familias, y adaptándose a la vida civil mientras luchan por olvidar sus duros recuerdos de la guerra.</description>
 </channel>
+	
+
+
 	
 
 			<channel> 
@@ -75,14 +88,7 @@
 </channel>	
 	
 	
-<channel> 
-<title><![CDATA[Juego de ladrones 2018 (accion)]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="http://i.picasion.com/pic87/0aadd0949ec42282b615748701d5be85.gif" />]]>Se centra en una unidad de élite del Departamento de Los Ángeles y en los mejores atracadores de bancos del país. Este grupo de ladrones planea robar un banco de la Reserva Federa.</description> 
-<stream_url><![CDATA[https://archive.org/download/Dormi2018HDRipCastellanoAvi/VerL4dr0n3sssbrsAvi.mp4]]></stream_url>
-<video_type>http</video_type>
-<buffer_kb>30000</buffer_kb>
-</channel>	
+
 	
 	
 <channel> 
@@ -103,6 +109,20 @@
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
 </channel>	
+	
+
+	
+<channel>
+<title><![CDATA[No dormiras 2018 (Terror)]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+<stream_url><![CDATA[https://archive.org/download/Dormi2018HDRipCastellanoAvi/dormi%202018%20HDRip%20Castellano%20avi.mp4]]></stream_url>
+<description><![CDATA[<img src="http://i.picasion.com/pic87/6a6a681318d8faaada1bf0c88c120e9e.gif" />]]>En un hospital psiquiátrico abandonado, un grupo de teatro experimenta con insomnio para la preparación de una obra teatral. Con el paso de los días sin dormir, alcanzan nuevos umbrales de percepción que los exponen a los secretos del lugar y las energías que lo habitan. Cuando Bianca, una joven y prometedora actriz, se une al elenco, compitiendo por el papel principal, debe sobrevivir no solo a la intensidad del trabajo y sus compañeros de reparto, sino a la fuerza desconocida que los empuja hacia un resultado trágico.</description>
+</channel>
+	
+	
+	
 	
 	
 	
