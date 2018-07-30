@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<items>
+<playlist_name><![CDATA[CINE CLASICO]]></playlist_name>
+ 
+	
+<channel>
+<title><![CDATA[Arenas sangrientas]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+<stream_url><![CDATA[http://s14.diskokosmiko.mx/movie?e=qIVcdwyhfC2MbND-rVkEpC63Hjv5DZ5y_JmpWBnEunVdOmS4FsS1jAnp8lq-GKPZFlmspzU8ieZD_xjNFbrgDOb9yO5FPfpwb9StatBBidNKjD8TBF3MoEzHPfCOfec9YczaPR4EqwIK1Uy05qhJxAeU2a_1pjxhhtZZAfsFGRc]]></stream_url>
+<description><![CDATA[<img src="" />]]> </description>
+</channel>
+	
+	
+	<channel>
+<title><![CDATA[Brigada 21]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+<stream_url><![CDATA[http://s14.diskokosmiko.mx/movie?e=BOl-pu2C6N0joFjmDHqR_7Etr_uedoYnV-qMUrNBU-NnaAXXJvoK94CcrtTSlpvOtDtAuYkEurLXimXzLNc8Uqu5MGzQ3J6R566Nhrc1KJDLZ_VD61tB9-Eglo0WEI8ZNCAVErAjDJSSZByRf80XkEYj58qmHv16JHkpq_PxkTs]]></stream_url>
+<description><![CDATA[<img src="" />]]> </description>
+</channel>
+	
+	
+	
+  
+  
+  
+  
+  
+  
+  
+  
+ <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
+<prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/mejores/actual.xml]]></prev_page_url>
+
+</items>
