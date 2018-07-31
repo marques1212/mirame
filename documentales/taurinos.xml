@@ -2,6 +2,17 @@
 <items>
  <playlist_name>Documentales Taurinos</playlist_name>
  
+ 
+ <channel>
+<title><![CDATA[la tierra del toro ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Toro_De_Lidia_En_Colombia.JPG/1200px-Toro_De_Lidia_En_Colombia.JPG" />]]></description>
+<stream_url><![CDATA[https://hdfull.me/peliculas]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ 
+ 
 
  
 <channel>
