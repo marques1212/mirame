@@ -676,6 +676,17 @@
 </channel>
  
  <channel>       
+<title><![CDATA[Sabuesos T1]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/sabuesos_ce5dp6gff9k2018-07-31.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/sabuesos.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ 
+ 
+ 
+ <channel>       
 <title><![CDATA[Seal team T1]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="https://gnula.se/img/portada/170x243/seal-team_t63g2k2n42d2017-09-28.jpg">]]></description>
