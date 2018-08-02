@@ -485,7 +485,14 @@
 <buffer_kb>30000</buffer_kb>
 </channel> 
   
-  
+<channel> 
+<title><![CDATA[Bermudas]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="" />]]></description> 
+<stream_url><![CDATA[http://hlsvod.lvlt.rtve.es/resources/TE_GL13/mp4/4/7/1532390193474.mp4/playlist.m3u8]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel> 
   
   
   
