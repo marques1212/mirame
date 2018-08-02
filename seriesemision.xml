@@ -157,13 +157,7 @@
 <buffer_kb>30000</buffer_kb>
 </channel> 
  
- <channel>      
-<title><![CDATA[ Cronicas Vampiricas T8]]></title> 
-<logo_30x30></logo_30x30> 
-<description><![CDATA[<img src="http://i.picasion.com/pic87/ee15319882daa652b24cbee1ef6c06c3.gif" />]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/Cronicas%20Vampiricas.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
+ 
 
  
 
@@ -360,13 +354,7 @@
 
 
 
- <channel>       
-<title><![CDATA[House of cards T5]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/house-of-cards_zyhlvc5gng82016-03-24.jpg">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/housecards.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
- </channel>
+ 
  
  <channel>       
 <title><![CDATA[Homeland T7]]></title>
