@@ -40,17 +40,31 @@
 </channel>
   
 <channel>
-<title><![CDATA[El hombre del presidente 2 Chuck norris]]></title>
+<title><![CDATA[Desaparecido combate 1 Chuck norris]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
-<stream_url><![CDATA[http://s67.diskokosmiko.mx/movie?e=OWaSO4c2bmjEssBnobPcrSfKAxO4a7c_5lHRnpGD7jmCwqxChtqQbau-U1NOGIXl8ov9W0cLez_3OLN7bRMnYYz493kHt1Djyr3-viX0Hv5aLclQkl8rKqXqPwHjohUY1pcP7_1sS7p9zamlPanU1e3VK1LrTAhpXFpAmQtOSFY]]></stream_url>
+<stream_url><![CDATA[http://s15.diskokosmiko.mx/movie?e=-TIXRlXjLABpEmMsz98WVaqB9Mkynx-HG3kwO7SGJt3OrrM2TgoX7RRPlF1QKeKAEJ9TGbhXoA44hqM6hWNdYZqEJPAJU9bBgsPHjibfJ4Q99p2x_Gz9jsJ5_-eVFjxlsY13vrQXowamtlPjtNJn1J0miCnXUpZnKnUN7WOKzss]]></stream_url>
 <description><![CDATA[<img src="" />]]> </description>
 </channel>
   
+<channel>
+<title><![CDATA[Desaparecido combate 2 Chuck norris]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+<stream_url><![CDATA[http://s17.diskokosmiko.mx/movie?e=HM6rnxNU7AnydOeLtNpFii-K2XFVTlm7rjJetNEWttgOB606ogLijycFmGHjf8RPUDGZ2sSzenx2LYDYdb6SRtuXlMyJ_NxSK5r-70U875Wo1E7HmyQ4m1mrFNhW5oLfmLk2ZMKp87Pv1tsqilQ85Ac69Dm3Ocb_A7K5mIkAkhQ]]></stream_url>
+<description><![CDATA[<img src="" />]]> </description>
+</channel>
   
-  
-  
+
+	
+	
+	
+	
+	
+	
+	
  <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/mejores/actual.xml]]></prev_page_url>
 
