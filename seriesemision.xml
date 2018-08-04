@@ -245,13 +245,7 @@
 </channel> 
  
  
-<channel>      
-<title><![CDATA[ El Joven Sheldon T1]]></title> 
-<logo_30x30></logo_30x30> 
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/el-joven-sheldon_kwdm88bx8kd2017-09-26.jpg" />]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/jovensheldon.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel> 
+
  
  <channel>      
 <title><![CDATA[ Ella es tu padre T1]]></title> 
@@ -708,15 +702,6 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
- 
- 
-<channel>       
-<title><![CDATA[Sobrenatural T13]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/supernatural_w06lh8x12ts2016-03-24.jpg">In the wake of Pied Piperas clickfarm scandal, the guys struggle to find funding for Pied Piperâs video-chat app to keep up with their rapidly growing user base. Erlich faces resistance from Big Headâs dad, while Gavin balks after Jack steps on his toes at Hooli. Having a hard time adjusting to his companyâs pivot, Richard gets sage advice from an unexpected source, leading him to a big idea that could change his future. ]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/sobrenaturalt12.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
  
 <channel>       
 <title><![CDATA[S.W.A.T T1]]></title>
