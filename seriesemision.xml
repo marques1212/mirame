@@ -48,7 +48,13 @@
  </channel>
  
  
- 
+ <channel>       
+<title><![CDATA[Arrow T1 a T6 ]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/arrow_9d1280qvfnn2016-03-25.jpg">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/arrow.xml ]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+ </channel>
  
  
  
