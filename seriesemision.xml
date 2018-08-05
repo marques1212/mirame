@@ -356,7 +356,13 @@
 </channel>
 
 
-
+<channel>       
+<title><![CDATA[Hospital central T1-T2]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic88/73c392af6a5fbbe2f1b3c083be9904af.gif"> ]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/hospital.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
  
  
  <channel>       
