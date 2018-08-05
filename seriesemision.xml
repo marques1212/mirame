@@ -404,13 +404,6 @@
  </channel>
  
 
- <channel>       
-<title><![CDATA[Quantico T3]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/quantico_94v3957hbsh2016-03-24.jpg">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/quantico.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
  
  
  
@@ -441,16 +434,6 @@
 </channel>
  
 
- <channel>       
-<title><![CDATA[Las chicas del cable T2]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/las-chicas-del-cable_rosh6rtkmuf2017-04-28.jpg"> ]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/chicascable.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
-
-
- 
 
 <channel>       
 <title><![CDATA[la otra mirada t1]]></title>
@@ -655,14 +638,7 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
-<channel>       
-<title><![CDATA[Santa clarita diet T2]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/santa-clarita-diet_itf3g1jawpl2017-02-03.jpg">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/santaclarita.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
- 
+
  <channel>       
 <title><![CDATA[Sabuesos T1]]></title>
 <logo_30x30></logo_30x30>
@@ -690,13 +666,7 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
-<channel>       
-<title><![CDATA[Scorpion T4]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/scorpion_6wx3hufmf9o2016-05-17.jpg">Scorpion es una serie de television estadounidense transmitida por CBS que se estreno en el 2014. Se basa en la vida del autoproclamado genio y experto en ordenadores Walter O'Brien. En la serie O'Brien y sus amigos genios se ayudan entre ellos para resolver amenazas globales y salvar vidas.  ]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/scorpionT4.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
+
 
 
  
@@ -774,18 +744,6 @@
 <playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/thewalking.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
- 
- 
- 
-
- <channel>       
-<title><![CDATA[The Grand Tour T2]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/the-grand-tour_mifwosa62i92017-02-26.jpg">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/TheGrandTour.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
- 
  
  
  <channel>       
