@@ -107,13 +107,19 @@
   
 
   <channel>
-<title><![CDATA[ANTENA 3]]></title>
+<title><![CDATA[KISS ]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://media.gettyimages.com/photos/tina-turner-performing-on-stage-at-wembley-stadium-in-london-on-the-picture-id540700940"/>]]>Concierto musical tina Turne Wembley 2000.</description>
-<stream_url><![CDATA[https://livepull1.secure.footprint.net/antena3mpp/bitrate_4.m3u8]]></stream_url>
+<stream_url><![CDATA[http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8]]></stream_url>
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
 </channel>
+ 
+  
+  
+  
+  
+  
   
   <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/marques1212/ver/master/HMStream.xml]]></prev_page_url>
