@@ -527,6 +527,15 @@
 </channel>
  
  
+ <channel>       
+<title><![CDATA[manos a la obra ]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic88/7473ffb08f539a2adf38ef2aff2a67bc.gif">]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/manosalaobra.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ 
  
 
  
