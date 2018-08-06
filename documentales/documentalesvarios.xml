@@ -427,6 +427,17 @@
 <buffer_kb>30000</buffer_kb>
 </channel> 
  
+ <channel>
+<title><![CDATA[mourinho y guardiola]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic88/5c331184a6caf3f02d82809c9ba0fbce.gif" />]]></description>
+<stream_url><![CDATA[https://miteleooyala-vh.akamaihd.net/i/1lbzJkNTE6zPXcq5woJ4F8hDv6AQj_QZ/,DOcJ-FxaFrRg4gtDQwOjRpOmc3O5qUPZ,DOcJ-FxaFrRg4gtDQwOjkzOjBhO-Bhfd,DOcJ-FxaFrRg4gtDQwOmY1OjBmO7A1LB,DOcJ-FxaFrRg4gtDQwOm84OjBmO015P0,DOcJ-FxaFrRg4gtDQwOjEwYjpnbTuLL7,.csmil/index_4_av.m3u8?null=0]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ 
+ 
+ 
  
 <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
 <prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/documentales/menudocumentales.xml]]></prev_page_url>
