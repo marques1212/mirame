@@ -3,37 +3,7 @@
  
 <playlist_name>Peliculas >> Mitele</playlist_name>
 
-<!--channel>
-<title><![CDATA[]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="" />]]></description>
-<stream_url><![CDATA[]]></stream_url>
-<buffer_kb>20480</buffer_kb>
-</channel>
 
-<channel>
-<title><![CDATA[]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="" />]]></description>
-<stream_url><![CDATA[]]></stream_url>
-<buffer_kb>20480</buffer_kb>
-</channel>
-
-<channel>
-<title><![CDATA[]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="" />]]></description>
-<stream_url><![CDATA[]]></stream_url>
-<buffer_kb>20480</buffer_kb>
-</channel>
-
-<channel>
-<title><![CDATA[]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="" />]]></description>
-<stream_url><![CDATA[]]></stream_url>
-<buffer_kb>20480</buffer_kb>
-</channel-->
 
 <channel>
 <title><![CDATA[Miradas que matan (2016) ]]></title>
