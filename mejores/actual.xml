@@ -15,7 +15,7 @@
   <channel>       
 <title><![CDATA[CINE CLASICO]]></title>
 <logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/me-cambio-de-decada_9hzdmn9mfxo2017-09-11.jpg">]]></description>
+<description><![CDATA[<img src="http://i.picasion.com/pic88/e68bdef4ccbe03d3d4f61daaf42a1412.gif">]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/mejores/cineclasico.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel> 
@@ -24,7 +24,7 @@
   <channel>       
 <title><![CDATA[CINE MITELE]]></title>
 <logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/me-cambio-de-decada_9hzdmn9mfxo2017-09-11.jpg">]]></description>
+<description><![CDATA[<img src="http://i.picasion.com/pic88/5572250e272a7026c7a96ac3c56cb799.gif">]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/mejores/mitele.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel> 
