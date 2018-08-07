@@ -155,11 +155,12 @@
 <buffer_kb>30000</buffer_kb>
 </channel> 
  
+ 
  <channel>       
 <title><![CDATA[Chiringuito de pepe T1 y T2]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="http://i.picasion.com/pic87/614cf59ed3d709bf3c4505d36d3a0da4.gif">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriescompletas/pepe.xml]]></playlist_url>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/pepe.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel> 
 
