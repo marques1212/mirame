@@ -50,6 +50,52 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
   
+<channel> 
+<title><![CDATA[1x6 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="" />]]></description> 
+<stream_url><![CDATA[]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+  
+<channel> 
+<title><![CDATA[1x7 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="" />]]></description> 
+<stream_url><![CDATA[]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+  
+  <channel> 
+<title><![CDATA[1x8 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="" />]]></description> 
+<stream_url><![CDATA[]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+  
+<channel> 
+<title><![CDATA[1x9 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="" />]]></description> 
+<stream_url><![CDATA[]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+  
+<channel> 
+<title><![CDATA[1x10 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="" />]]></description> 
+<stream_url><![CDATA[]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel>
+  
   
   
   
