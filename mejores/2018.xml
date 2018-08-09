@@ -162,12 +162,22 @@
 	
 
 <channel>
-<title><![CDATA[ (Drama)]]></title>
+<title><![CDATA[Perdida (Drama)]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+<stream_url><![CDATA[https://archive.org/download/Dormi2018HDRipCastellanoAvi/VerO3rdidahdrCastellanoAvi.mp4]]></stream_url>
+<description><![CDATA[<img src="" />]]>Catorce años atrás, durante un viaje de estudios, una adolescente, Cornelia Villalba, se escapa con sus compañeras para ir a bailar y se pierde en el medio de los bosques patagónicos. Nunca más se supo de ella.</description>
+</channel>
+	
+	
+<channel>
+<title><![CDATA[Black panther (Accion)]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
 <stream_url><![CDATA[]]></stream_url>
-<description><![CDATA[<img src="" />]]></description>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/black_panther-992613805-mmed.jpg"/>]]>“Black Panther" cuenta la historia de T'Challa quien, después de los acontecimientos de "Capitán América: Civil War", vuelve a casa, a la nación de Wakanda, aislada y muy avanzada tecnológicamente, para ser proclamado Rey.</description>
 </channel>
 	
 	
@@ -179,6 +189,43 @@
 <stream_url><![CDATA[]]></stream_url>
 <description><![CDATA[<img src="" />]]></description>
 </channel>
+	
+<channel>
+<title><![CDATA[ (Drama)]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+<stream_url><![CDATA[]]></stream_url>
+<description><![CDATA[<img src="" />]]></description>
+</channel>
+	
+<channel>
+<title><![CDATA[ (Drama)]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+<stream_url><![CDATA[]]></stream_url>
+<description><![CDATA[<img src="" />]]></description>
+</channel>
+	
+<channel>
+<title><![CDATA[ (Drama)]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+<stream_url><![CDATA[]]></stream_url>
+<description><![CDATA[<img src="" />]]></description>
+</channel>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	
 	
 	
