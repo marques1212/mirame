@@ -597,13 +597,7 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
 
- <channel>      
-<title><![CDATA[Pequeñas mentirosas T7]]></title> 
-<logo_30x30></logo_30x30> 
-<description><![CDATA[<img src="http://i.picasion.com/pic87/9057aaeced4279f78328b6dd608c000c.gif" />]]>  </description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/peques.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
+ 
  
  
  <channel>      
@@ -679,13 +673,7 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
-<channel>       
-<title><![CDATA[Seven seconds T1]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/seven-seconds_okh9efbai9q2018-02-22.jpg">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/seven.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
+
  
 
 
@@ -799,14 +787,7 @@
  
  
  
-<channel>       
-<title><![CDATA[Vice Principals T2]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/vice-principals_2cktos4l2qf2016-07-25.jpg">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/Vice%20Principals.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
- 
+
  <channel>       
 <title><![CDATA[Vikingos T5]]></title>
 <logo_30x30></logo_30x30>
