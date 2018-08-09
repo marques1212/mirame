@@ -304,7 +304,13 @@
 </channel>
   
 
-
+<channel>       
+<title><![CDATA[Flash point T1-T2]]></title> 
+<logo_30x30></logo_30x30> 
+<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/expediente-x_b4yk0t8dz312016-03-24.jpg"/>]]></description> 
+<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/flash.xml]]></playlist_url>  
+<buffer_kb>30000</buffer_kb>
+</channel>
  
  
  <channel>       
