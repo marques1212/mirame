@@ -170,15 +170,7 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
 
-  <channel> 
-<title><![CDATA[1x19 ]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="" />]]></description> 
-<stream_url><![CDATA[https://archive.org/download/erik4143128_gmail_01/19.avi]]></stream_url>
-<video_type>http</video_type>
-<buffer_kb>30000</buffer_kb>
-</channel>
-
+ 
   
 
   
