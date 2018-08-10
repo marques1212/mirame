@@ -2,14 +2,7 @@
 <items>
 <playlist_name><![CDATA[western]]></playlist_name>
  
-<channel> 
-<title><![CDATA[Adios amigo]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="http://i.picasion.com/pic87/3f9a5613444346b8d03a2c21a650fc95.gif" />]]></description> 
-<stream_url><![CDATA[http://s81.diskokosmiko.mx/movie?e=PH_cf3SifjfYHv4Hz0moNu583zlgXsOFpFvyw33DkLwfO0s66LQpZkHUBw7VKZoidP8aSochZBx6CCJbVWZ-7mgrxbMVaAA4ms_jpCH3Uicl8WeNbhyHI6DIozkJODo8D9LKqrDfGpj5jVBXucClINEXIczuYCPi-PkJ67QXrQ4]]></stream_url>
-<video_type>http</video_type>
-<buffer_kb>30000</buffer_kb>
-</channel>
+
 
 
 	
