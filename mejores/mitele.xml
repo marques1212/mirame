@@ -413,13 +413,16 @@
 <buffer_kb>20480</buffer_kb>
 </channel>
 
-<channel>
-<title><![CDATA[Traidora (2017) ]]></title>
+ 
+ <channel>
+<title><![CDATA[Pánico en el mar (2004)  ]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="https://image.tmdb.org/t/p/w1280/aHEYnlYY3aM36XRGJkvGyu62044.jpg" />Riley Connors, una analista de la CIA, decide poner en conocimiento de los medios que lleva trabajando dos años en un equipo de vigilancia. Considerada como una traidora por el gobierno, Riley deberá esconderse en Bogotá.]]></description>
-<stream_url><![CDATA[https://miteleooyala-vh.akamaihd.net/i/Nqc2tjYzE6ZjaugcP7NKFyarJgWXOOE6/,DOcJ-FxaFrRg4gtDEwOm84OjBrOz0bxa,DOcJ-FxaFrRg4gtDEwOjEwYjowODE7je,DOcJ-FxaFrRg4gtDEwOjFsaTowODE7WX,DOcJ-FxaFrRg4gtDEwOjI5cDowODE7AZ,.csmil/index_3_av.m3u8?null=0]]></stream_url>
-<buffer_kb>20480</buffer_kb>
-</channel>
+<description><![CDATA[<img src="https://image.tmdb.org/t/p/w300_and_h450_bestv2/eTGCcgTSS5WzJMQIWsFl44s1pNR.jpg" />Una señal de socorro misteriosa conduce a un equipo de investigación a desenterrar a una criatura extranjera inactiva sostenida por siglos debajo de las profundidades. Una vez desenterrada comienzan a suceder una serie de hechos perturbadores.]]></description>
+<stream_url><![CDATA[http://miteleooyala-vh.akamaihd.net/i/4wdWYzODE6z3zAlseuJk_4kConyUtQNO/,DOcJ-FxaFrRg4gtDEwOjkzOjBhOwBM4Z,DOcJ-FxaFrRg4gtDEwOm84OjBrOz0bxa,DOcJ-FxaFrRg4gtDEwOjEwYjowODE7je,DOcJ-FxaFrRg4gtDEwOjFsaTowODE7WX,DOcJ-FxaFrRg4gtDEwOjI5cDowODE7AZ,DOcJ-FxaFrRg4gtDEwOjRpOmc3O_GF-z,.csmil/index_4_av.m3u8?null=0]]></stream_url>
+<buffer_kb>204800</buffer_kb>
+</channel> 
+ 
+ 
 
 <channel>
 <title><![CDATA[La puerta de al lado (2017) ]]></title>
@@ -1239,13 +1242,7 @@
 <buffer_kb>204800</buffer_kb>
 </channel>
 
-<channel>
-<title><![CDATA[Pánico en el mar (2004)  ]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="https://image.tmdb.org/t/p/w300_and_h450_bestv2/eTGCcgTSS5WzJMQIWsFl44s1pNR.jpg" />Una señal de socorro misteriosa conduce a un equipo de investigación a desenterrar a una criatura extranjera inactiva sostenida por siglos debajo de las profundidades. Una vez desenterrada comienzan a suceder una serie de hechos perturbadores.]]></description>
-<stream_url><![CDATA[http://miteleooyala-vh.akamaihd.net/i/4wdWYzODE6z3zAlseuJk_4kConyUtQNO/,DOcJ-FxaFrRg4gtDEwOjkzOjBhOwBM4Z,DOcJ-FxaFrRg4gtDEwOm84OjBrOz0bxa,DOcJ-FxaFrRg4gtDEwOjEwYjowODE7je,DOcJ-FxaFrRg4gtDEwOjFsaTowODE7WX,DOcJ-FxaFrRg4gtDEwOjI5cDowODE7AZ,DOcJ-FxaFrRg4gtDEwOjRpOmc3O_GF-z,.csmil/index_4_av.m3u8?null=0]]></stream_url>
-<buffer_kb>204800</buffer_kb>
-</channel> 
+
 
 
  
