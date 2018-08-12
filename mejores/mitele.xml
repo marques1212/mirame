@@ -959,9 +959,10 @@
 
 
  
- 
+<next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
+<prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/HMStream.xml]]></prev_page_url>
  
 
-<prev_page_url text="Atras"><![CDATA[https://www.dropbox.com/s/mjz93hvxfa258hw/Indice%20Mitele.xml?dl=1]]></prev_page_url>
+
 
 </items>
