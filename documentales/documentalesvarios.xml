@@ -68,65 +68,7 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
- <channel>
-<title><![CDATA[La era de la estupidez]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="https://images-na.ssl-images-amazon.com/images/I/71pTgbEKQJL._SY445_.jpg" />]]></description>
-<stream_url><![CDATA[http://mvodt.lvlt.rtve.es/resources/TE_GLESP/mp4/9/8/1449282368189.mp4?nvb=20170605082909&nva=20170605142909&token=05675a3de35dad307db05]]></stream_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
- 
 
- 
-<channel>
-<title><![CDATA[EL MONSTRUO DEL LAGO]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="http://www.abc.es/Media/201306/04/montaje-nodo-644x362--644x362.jpg" />]]></description>
-<stream_url><![CDATA[http://Blackpuppy@nuestrahuella.com/videos/15-el-libro-rojo/Especies-amenazadas-Ajolote-el-monstruo-del-lago.mp4]]></stream_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
-
-<channel>
-<title><![CDATA[HISTORIA DE ALBERT EINSTEIN]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="http://www.abc.es/Media/201306/04/montaje-nodo-644x362--644x362.jpg" />]]></description>
-<stream_url><![CDATA[http://Blackpuppy@nuestrahuella.com/videos/ciencias/historia-albert-einstein.mp4]]></stream_url>
-<buffer_kb>30000</buffer_kb>
-</channel>
-
-
-<channel>
-<title><![CDATA[LA HISTORIA DEL MUNDO EN 2 HORAS ]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="http://www.abc.es/Media/201306/04/montaje-nodo-644x362--644x362.jpg" />]]></description>
-<stream_url><![CDATA[http://Blackpuppy@nuestrahuella.com/videos/ciencias/la-historia-del-mundo-en-dos-horas.mp4]]></stream_url>
-<buffer_kb>30000</buffer_kb>
- </channel>
- 
-<channel>
-<title><![CDATA[TIERRA SIN HUMANOS]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="http://www.abc.es/Media/201306/04/montaje-nodo-644x362--644x362.jpg" />]]></description>
-<stream_url><![CDATA[http://Blackpuppy@nuestrahuella.com/videos/ciencias/tierra-sin-humanos.mp4]]></stream_url>
-<buffer_kb>30000</buffer_kb>
- </channel>
- 
-<channel>
-<title><![CDATA[VIAJE AL CENTRO DE LA TIERRA]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="http://www.abc.es/Media/201306/04/montaje-nodo-644x362--644x362.jpg" />]]></description>
-<stream_url><![CDATA[http://Blackpuppy@nuestrahuella.com/videos/ciencias/viaje-al-centro-de-la-tierra.mp4]]></stream_url>
-<buffer_kb>30000</buffer_kb>
- </channel>
- 
- <channel>
-<title><![CDATA[las cloacas de interior]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="https://pics.filmaffinity.com/els_oblidats_dels_oblidats-298205249-mmed.jpg" />]]>Hombres, mujeres y ninos, encadenados, la mayoria en la intemperie, privados de comida y agua, algunos de ellos azotados regularmente; o abandonados en las ciudades desde ninos, por sus familias... El documental muestra la increible situacion en la que se encuentran la mayoria de los enfermos mentales africanos, desde esquizofrenicos graves a simples epilepticos. Una realidad desconocida incluso para la mayoria de africanos, puesto que las familias afectadas lo esconden por verguenza o supersticion. A partir de la impresionante historia de un hombre, un reparador de neumaticos africano, que un dia decidio dedicarse por completo a una mision: rescatar, curar y reinsertar en la sociedad a los olvidados de los olvidados, a los enfermos mentales africanos.</description>
-<stream_url><![CDATA[http://www.descargavideos.tv/MSFAPI#1.2#520332845547#moatframe#8074889747#ping]]></stream_url>
-<buffer_kb>30000</buffer_kb>
- </channel>
- 
  
  
  
@@ -157,13 +99,7 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
- <channel>
-<title><![CDATA[Parque Nacional Olimpic de Norteamerica]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="http://i.picasion.com/pic87/8db1223a51d1c6f61f384ba93e28a309.gif" />]]></description>
-<stream_url><![CDATA[http://s87.diskokosmiko.mx/movie?e=_4xDNqEC5kulxEfA6QuL_OIp-tPDq2blDjfQF-Dhiwz7bYLhugklheLPFKKqhxRHT0QSBx7eT7MWWqTxZAm9slYlSr2MMmoun8G9s2NqCFlTrlAovIChrb0Q3zj6cQjkdytCaF7Zs1ZcM2-qFaLAd0f8Bwklh54S2Q2b5jKAF3o]]></stream_url>
-<buffer_kb>30000</buffer_kb>
-</channel> 
+> 
  
  <channel>
 <title><![CDATA[mourinho y guardiola]]></title>
