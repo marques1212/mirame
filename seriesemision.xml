@@ -321,11 +321,6 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
- 
- 
- 
- 
- 
 
  <channel>       
 <title><![CDATA[ Fear the walking dead T1 a  T4]]></title>
@@ -461,13 +456,7 @@
 </channel>
  
 
- <channel>       
-<title><![CDATA[La vida secreta de los ninos T2]]></title>
-<logo_30x30></logo_30x30>
-<description><![CDATA[<img src="http://i.picasion.com/pic87/66af49d17c21dfae9f3ae8576868e8f6.gif">]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/niños.xml]]></playlist_url>
-<buffer_kb>30000</buffer_kb>
- </channel>
+ 
  
  <channel>       
 <title><![CDATA[La verdad T1]]></title>
@@ -584,14 +573,14 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
-
-  <channel>      
-<title><![CDATA[ NCIS: Nueva Orleans T3]]></title> 
+<channel>      
+<title><![CDATA[ Niños robados T1 ]]></title> 
 <logo_30x30></logo_30x30> 
-<description><![CDATA[<img src="https://pics.filmaffinity.com/ncis_new_orleans_tv_series-552173375-mmed.jpg" />]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/ncisnuevaorleans.xml]]></playlist_url>
+<description><![CDATA[<img src="https://pics.filmaffinity.com/ninos_robados-542479292-mmed.jpg" />]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/robados.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
+  
 
 <channel>       
 <title><![CDATA[Outlander T3]]></title>
