@@ -506,6 +506,16 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
 
+<channel>      
+<title><![CDATA[Los serrano]]></title> 
+<logo_30x30></logo_30x30> 
+<description><![CDATA[<img src="https://pics.filmaffinity.com/los_serrano_tv_series-222874881-mmed.jpg" />]]>Time After Time serie de FantasÃ­a y Ciencia Ficcion, La serie narra dos amigos encuentran una viciosa capsula del tiempo, Ambos dispuesto a usarlas, Sucede una traiciÃ³n de Dr. John Stevenson sobre un asesinato, Donde John huye con la capsula, mientras H.G. Wells ingresa a la capsula para dar un viaje inesperado a un mundo donde nunca pudo imaginarse, Su Ãºnico objetivo es atrapar su ex amigo asesino. Pero en su viaje conoce a una bella dama que le harÃ¡ recorrer el mundo actual. </description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/serrano.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ 
+ 
  <channel>       
 <title><![CDATA[MacGyver T1 a  T2]]></title>
 <logo_30x30></logo_30x30>
