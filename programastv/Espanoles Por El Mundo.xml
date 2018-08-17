@@ -503,7 +503,14 @@
 <buffer_kb>30000</buffer_kb>
 </channel> 
   
- 
+ <channel> 
+<title><![CDATA[sudafrica]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic88/94a0794d0c0d4ad9a12db4c6114225ee.gif" />]]></description> 
+<stream_url><![CDATA[http://hlsvod.lvlt.rtve.es/resources/TE_GL13/mp4/3/6/1534379642663.mp4/1534379642663-audio=64001-video=1815000.m3u8?hls_minimum_fragment_length=6&hls_client_manifest_version=3]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel> 
   
   
   
