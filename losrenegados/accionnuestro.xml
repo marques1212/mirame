@@ -1045,13 +1045,7 @@
 <buffer_kb>20480</buffer_kb>
 </channel>
 
-<channel>
-<title><![CDATA[Bobby Z 2007 ]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="https://image.tmdb.org/t/p/w1280/rIsl3W4Zz2FwoeZHRhJjnRurXLg.jpg" />Tim Kearney Paul Walker es un antiguo marine, ahora encarcelado, al que un agente Laurence Fishburne de la DEA -Agencia antidroga norteamericana- hace una oferta: podrá obtener la libertad si se hace pasar por Bobby Z, un capo de la droga recientemente fallecido. Las cosas no sale como estaban planeadas, y Kearney tendrá que huir con el hijo de Bobby Z, un chaval de 12 años.]]></description>
-<stream_url><![CDATA[https://lh3.googleusercontent.com/MvL7nms3rIpDpu7tDnt0eSqYwfqt6vTD5BYUbxQx7cQkQONrhjiaQF7jfU0d9wo2x7MBOQsKEdGTmsrAXtocO6U3kFP8xQ-C0xmQAP88VlYlhAJMx4rBxe3RTSs3Kc4vem0CQtUH59-N8vyRnNTtImPoKcpcHNwC6QtcsMIAmoTK-Y3Nm2C2XU7wvbYa1ltNWnnSicHGh9JPIP3j3tNVOkALF407pj8mE-Va4ChL0r-w5PxKATxXs2wKlOlCy5lLLKauIhxQCOVyIBCTWryvE6eL8Yb9BRhgfwkfyonVn1q0bly04K24pYOx1dOarYVgbVxHIsyjU_tiwNkgVTZxtAcWFkkuMfJ5wZy35MBOezu2iHD1xYdcSxigIksiYmWZvVb-FSOetAKVG1rfa1AeqT7swH8cDx-oLciLRQ_FZGYDWpq-QgmNvIP5mGDcWjbOcYdC0delsn11pbDXt8s-TejeVQqqZAqIZxStrSsTBRCJeiKrwprIt7nT_G6gqTSwF3D3jexyG7VdJAW4Zz4vhW8oMZbUf9yfxnqWyt3uayKJm6MC44w2O4Lvo0yPVSCvez7Yt4C0Vejs6_IYOVDU4tImmvzNVIcNs2Wxymc=m22]]></stream_url>
-<buffer_kb>20480</buffer_kb>
-</channel>
+
 
 <channel>
 <title><![CDATA[Colt 45 2014 ]]></title>
@@ -1336,7 +1330,13 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
 
-	
+	<channel>
+<title><![CDATA[Bobby Z 2007 ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://image.tmdb.org/t/p/w1280/rIsl3W4Zz2FwoeZHRhJjnRurXLg.jpg" />Tim Kearney Paul Walker es un antiguo marine, ahora encarcelado, al que un agente Laurence Fishburne de la DEA -Agencia antidroga norteamericana- hace una oferta: podrá obtener la libertad si se hace pasar por Bobby Z, un capo de la droga recientemente fallecido. Las cosas no sale como estaban planeadas, y Kearney tendrá que huir con el hijo de Bobby Z, un chaval de 12 años.]]></description>
+<stream_url><![CDATA[https://lh3.googleusercontent.com/MvL7nms3rIpDpu7tDnt0eSqYwfqt6vTD5BYUbxQx7cQkQONrhjiaQF7jfU0d9wo2x7MBOQsKEdGTmsrAXtocO6U3kFP8xQ-C0xmQAP88VlYlhAJMx4rBxe3RTSs3Kc4vem0CQtUH59-N8vyRnNTtImPoKcpcHNwC6QtcsMIAmoTK-Y3Nm2C2XU7wvbYa1ltNWnnSicHGh9JPIP3j3tNVOkALF407pj8mE-Va4ChL0r-w5PxKATxXs2wKlOlCy5lLLKauIhxQCOVyIBCTWryvE6eL8Yb9BRhgfwkfyonVn1q0bly04K24pYOx1dOarYVgbVxHIsyjU_tiwNkgVTZxtAcWFkkuMfJ5wZy35MBOezu2iHD1xYdcSxigIksiYmWZvVb-FSOetAKVG1rfa1AeqT7swH8cDx-oLciLRQ_FZGYDWpq-QgmNvIP5mGDcWjbOcYdC0delsn11pbDXt8s-TejeVQqqZAqIZxStrSsTBRCJeiKrwprIt7nT_G6gqTSwF3D3jexyG7VdJAW4Zz4vhW8oMZbUf9yfxnqWyt3uayKJm6MC44w2O4Lvo0yPVSCvez7Yt4C0Vejs6_IYOVDU4tImmvzNVIcNs2Wxymc=m22]]></stream_url>
+<buffer_kb>20480</buffer_kb>
+</channel>
 	
 	
 	
