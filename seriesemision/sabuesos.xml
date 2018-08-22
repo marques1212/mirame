@@ -28,7 +28,13 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
- 
+<channel>
+<title><![CDATA[ T1 1x04]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://gnula.se/img/portada/170x243/sabuesos_ce5dp6gff9k2018-07-31.jpg"/>]]></description>
+<stream_url><![CDATA[http://hlsvod.lvlt.rtve.es/resources/TE_NGVA/mp4/6/4/1534892477946.mp4/playlist.m3u8]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
  
  
  
