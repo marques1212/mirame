@@ -512,6 +512,20 @@
 <buffer_kb>30000</buffer_kb>
 </channel> 
   
+  <channel> 
+<title><![CDATA[Escocia]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic88/94a0794d0c0d4ad9a12db4c6114225ee.gif" />]]></description> 
+<stream_url><![CDATA[http://hlsvod.lvlt.rtve.es/resources/TE_GL13/mp4/4/2/1534982282324.mp4/playlist.m3u8]]></stream_url>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+</channel> 
+  
+  
+  
+  
+  
+  
   
   
   
