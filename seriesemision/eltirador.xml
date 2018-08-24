@@ -77,7 +77,13 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
  
- 
+ <channel>
+<title><![CDATA[Capitulo 3x10]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_c0788a341a6d20b2b9aa8922d25936e4.jpg" />]]></description>
+<stream_url><![CDATA[https://archive.org/download/lcdsplash/VerHho3x10M720pMkv.mp4]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
  
  
  <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
