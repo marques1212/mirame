@@ -318,7 +318,7 @@
 	
 	
 	<channel>
-<title><![CDATA[tamaño natural 1973]]></title>
+<title><![CDATA[tamano natural 1973]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <video_type>http</video_type>
 <buffer_kb>30000</buffer_kb>
@@ -327,7 +327,15 @@
 <description><![CDATA[<img src="http://i.picasion.com/pic88/51e2f84c9e54d992d586fbebf8f2789c.gif" />]]>Michel es un hombre maduro que tiene todo lo que puede desear: un buen trabajo, una esposa brillante y una amante joven y apasionada. Pero un dia adquiere por capricho una muneca hinchable que casi parece una mujer real. Asi empieza a disfrutar de la sumision y la docilidad que no puede encontrar en su esposa, llegando incluso a tener celos y a desconfiar de aquellos que puedan desearla o “mancillarla”.</description>
 </channel>
 	
-	
+		<channel>
+<title><![CDATA[Caligula 1979]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<video_type>http</video_type>
+<buffer_kb>30000</buffer_kb>
+<stream_url><![CDATA[https://archive.org/download/losmascas1212_gmail_Pica/Ca2l5g6ula.mp4]]></stream_url>
+<protected>true</protected>
+<description><![CDATA[<img src="http://i.picasion.com/pic88/9c5d88abc8036bbeea4855e8db61f30f.gif" />]]>Fue producida por la revista para adultos "Penthouse". Se trata de un drama de muy alto contenido erotico que narra el ascenso y caida del emperador romano Caligula (12 D.C-41 D.C), sobrino e hijo adoptivo del emperador Tiberio. Sus crueles metodos para ocupar el trono y su aficion por todo tipo de orgias, humillaciones y vejaciones son el nucleo de esta polemica pelicula.</description>
+</channel>
 	
 	
 	
