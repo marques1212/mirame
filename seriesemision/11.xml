@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<items>
+ <playlist_name>11M>></playlist_name>
+ 
+
+ 
+<channel>
+<title><![CDATA[ PRIMERA PARTE]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic88/081027014637632861110950e799a019.gif"/>]]></description>
+<stream_url><![CDATA[https://miteleooyala-vh.akamaihd.net/i/BjbHFjNTE6er_KXHJYY8z_7juCsTeh-R/,DOcJ-FxaFrRg4gtDIwOjRpOmc3O3sK0o,DOcJ-FxaFrRg4gtDIwOjkzOjBhO6ZbhA,DOcJ-FxaFrRg4gtDIwOmY1OjBmO8qKJp,DOcJ-FxaFrRg4gtDIwOm84OjBmOyMgXz,DOcJ-FxaFrRg4gtDIwOjEwYjpnbTu6dZ,.csmil/index_4_av.m3u8?null=0]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+<channel>
+<title><![CDATA[ SEGUNDA PARTE]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://i.picasion.com/pic88/081027014637632861110950e799a019.gif"/>]]></description>
+<stream_url><![CDATA[https://miteleooyala-vh.akamaihd.net/i/A3Z29jNTE6K6Ns7rljqhaNWaQjCb8w_K/,DOcJ-FxaFrRg4gtDIwOjRpOmc3O3sK0o,DOcJ-FxaFrRg4gtDIwOjkzOjBhO6ZbhA,DOcJ-FxaFrRg4gtDIwOmY1OjBmO8qKJp,DOcJ-FxaFrRg4gtDIwOm84OjBmOyMgXz,DOcJ-FxaFrRg4gtDIwOjEwYjpnbTu6dZ,.csmil/index_4_av.m3u8?null=0]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ 
+ 
+<prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/team1515/mirame/master/seriesemision.xml]]></prev_page_url>
+
+</items>
