@@ -5,7 +5,7 @@
 
 <channel>
 <title><![CDATA[1 - Piloto]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
+<logo_30x30><![CDATA[LECHERO]]></logo_30x30>
 <description><![CDATA[<img src="" />]]></description>
 <stream_url><![CDATA[https://lh3.googleusercontent.com/MobJXER66KdGOFQORL5zR5NsYY7kPxEX5QDYcMyOwIG8uW--jdQw66LdmCaqfOag_W57oHs38eE-nJsHYUJlsEWXto9m3dkRXk1_JNfDIdUJl0ollmkwj6s3xapToTDLZhr6yfZep8TWcKK7zLnimYwLyx21P6S0_qcn0Fs0gJJzsvZc-sT0pIY4a4nOvwVayaAnZteUGbp3JO-vhzUsc30yecfQnxupsE1TsXRmg8Gg3q5j6J5jMU9u5TxscMKLljCaO4eV97mKI9kP6bF5FXQdwQ_W3iJbmmXZGRZ4NODcUG9ILbs1xgRKlnYs_0YErz7hbwffIN48Fst8qXwF0LS2sqKNBVAbiJWpUM2fhPTOzBAOSVCBvFMVffM2c1rLB8HhtzPP5uFfcOEKT8EzqwOgxSWN0aESMRj_IQLSNBbUsdERWtpVTZ2GJLjB8yWv3x7WWfXC-ps9lPRne_PbHMoVmoG8AKaN5cPBvsCRSvWTGFaOgtbEXuLG811_T8tnvShUlKy87W5mtjJHt4MfPE1EhzH2prgPtCJlrftC_SKB8OSfqMi91P541Tgpux3l5jwGqvmzIPulw82YToE6osUDnsnur835U-bSNKI_Tw=m22]]></stream_url>
 <buffer_kb>20480</buffer_kb>
@@ -370,6 +370,24 @@
 <stream_url><![CDATA[https://archive.org/download/Fe4x04/F-e-r4x08Mkv.mp4]]></stream_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
+ 
+ <channel>
+<title><![CDATA[4x09]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://hdfull.me/tthumb/172x265/show_1eb30cdc191d4ed1512a7b5b99666a94.jpg" />]]></description>
+<stream_url><![CDATA[https://archive.org/download/Fer1x02/VerWdd4x09M1080ppMkv.mp4]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ <channel>
+<title><![CDATA[4x10]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="https://hdfull.me/tthumb/172x265/show_1eb30cdc191d4ed1512a7b5b99666a94.jpg" />]]></description>
+<stream_url><![CDATA[https://archive.org/download/Fer1x02/VerWdd4x10M720ppMkv.mp4]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ 
  
  
  
